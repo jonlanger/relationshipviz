@@ -1,0 +1,7 @@
+.kpis { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: var(--space-4); }
+@media (max-width: 1200px) { .kpis { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 760px) { .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.weights { display: grid; gap: var(--space-4); }
+.weight { display: grid; gap: var(--space-1); }
+.footnote { grid-column: 1 / -1; font-size: var(--text-caption-size); color: var(--color-text-tertiary); }
+.link { color: var(--color-text-accent); text-decoration: underline; text-underline-offset: 2px; }

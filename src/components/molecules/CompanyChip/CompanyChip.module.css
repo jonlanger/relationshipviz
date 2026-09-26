@@ -1,0 +1,16 @@
+.chip {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2_5);
+  width: 100%;
+  min-width: 0;
+  padding: var(--space-1_5) var(--space-2);
+  margin: 0 calc(var(--space-2) * -1);
+  width: calc(100% + var(--space-4));
+  border-radius: var(--radius-md);
+  text-align: left;
+}
+.interactive { transition: background-color var(--duration-fast) var(--ease-standard); }
+.interactive:hover, .active { background: var(--color-bg-hover); }
+.text { display: grid; min-width: 0; flex: 1; }
+.trailing { flex-shrink: 0; display: flex; align-items: center; gap: var(--space-2); }

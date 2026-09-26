@@ -1,0 +1,8 @@
+.swatch { display: inline-block; flex-shrink: 0; background: var(--swatch); }
+.dot { border-radius: 50%; box-shadow: 0 0 0 2px var(--color-bg-surface-1); }
+.square { border-radius: var(--radius-xs); }
+.line { height: 2px !important; border-radius: 1px; }
+.sm.dot, .sm.square { width: 8px; height: 8px; }
+.md.dot, .md.square { width: 10px; height: 10px; }
+.sm.line { width: 12px; }
+.md.line { width: 16px; }

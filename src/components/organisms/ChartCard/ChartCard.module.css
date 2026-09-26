@@ -1,0 +1,34 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  border-radius: var(--radius-xl);
+  background: var(--color-bg-surface-1);
+  border: 1px solid var(--color-border-subtle);
+}
+.span1 { grid-column: span 1; }
+.span2 { grid-column: span 2; }
+.span3 { grid-column: 1 / -1; }
+@media (max-width: 1200px) { .span3, .span2 { grid-column: 1 / -1; } }
+
+.header { display: flex; align-items: flex-start; justify-content: space-between; gap: var(--space-3); padding: var(--space-4) var(--space-5) 0; }
+.titles { display: grid; gap: 2px; min-width: 0; }
+.actions { display: flex; align-items: center; gap: var(--space-2); flex-shrink: 0; }
+.body { position: relative; flex: 1; padding: var(--space-4) var(--space-5) var(--space-5); min-height: 0; }
+.table { max-height: 420px; overflow: auto; }
+.footnote { padding: var(--space-3) var(--space-5); border-top: 1px solid var(--color-border-subtle); }
+
+.dataTable { width: 100%; font-size: var(--text-body-sm-size); font-variant-numeric: tabular-nums; }
+.dataTable th {
+  position: sticky;
+  top: 0;
+  text-align: left;
+  font-weight: var(--font-weight-medium);
+  font-size: var(--text-caption-size);
+  color: var(--color-text-tertiary);
+  background: var(--color-bg-surface-1);
+  padding: var(--space-2) var(--space-3) var(--space-2) 0;
+  border-bottom: 1px solid var(--color-border-default);
+}
+.dataTable td { padding: var(--space-1_5) var(--space-3) var(--space-1_5) 0; border-bottom: 1px solid var(--color-border-subtle); color: var(--color-text-secondary); }
+.dataTable td:first-child { color: var(--color-text-primary); }

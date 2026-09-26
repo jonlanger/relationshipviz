@@ -1,0 +1,8 @@
+.facts { display: grid; gap: var(--space-3) var(--space-4); }
+.cols1 { grid-template-columns: minmax(0, 1fr); }
+.cols2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.cols3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+@media (max-width: 640px) { .cols3 { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.fact { display: grid; gap: 2px; min-width: 0; }
+.label { font-size: var(--text-caption-size); line-height: var(--text-caption-line); color: var(--color-text-tertiary); }
+.value { font-size: var(--text-body-sm-size); line-height: var(--text-body-sm-line); color: var(--color-text-primary); overflow-wrap: anywhere; }

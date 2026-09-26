@@ -1,0 +1,4529 @@
+[
+  {
+    "ticker": "MMM",
+    "name": "3M",
+    "sector": "Industrials",
+    "industry": "Industrial Conglomerates",
+    "hqLocation": "Saint Paul, Minnesota",
+    "cik": "0000066740",
+    "wikiTitle": "3M"
+  },
+  {
+    "ticker": "AOS",
+    "name": "A. O. Smith",
+    "sector": "Industrials",
+    "industry": "Building Products",
+    "hqLocation": "Milwaukee, Wisconsin",
+    "cik": "0000091142",
+    "wikiTitle": "A._O._Smith"
+  },
+  {
+    "ticker": "ABT",
+    "name": "Abbott Laboratories",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hqLocation": "North Chicago, Illinois",
+    "cik": "0000001800",
+    "wikiTitle": "Abbott_Laboratories"
+  },
+  {
+    "ticker": "ABBV",
+    "name": "AbbVie",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hqLocation": "North Chicago, Illinois",
+    "cik": "0001551152",
+    "wikiTitle": "AbbVie"
+  },
+  {
+    "ticker": "ACN",
+    "name": "Accenture",
+    "sector": "Information Technology",
+    "industry": "IT Consulting & Other Services",
+    "hqLocation": "Dublin, Ireland",
+    "cik": "0001467373",
+    "wikiTitle": "Accenture"
+  },
+  {
+    "ticker": "ADBE",
+    "name": "Adobe Inc.",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hqLocation": "San Jose, California",
+    "cik": "0000796343",
+    "wikiTitle": "Adobe_Inc."
+  },
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hqLocation": "Santa Clara, California",
+    "cik": "0000002488",
+    "wikiTitle": "AMD"
+  },
+  {
+    "ticker": "AES",
+    "name": "AES Corporation",
+    "sector": "Utilities",
+    "industry": "Independent Power Producers & Energy Traders",
+    "hqLocation": "Arlington, Virginia",
+    "cik": "0000874761",
+    "wikiTitle": "AES_Corporation"
+  },
+  {
+    "ticker": "AFL",
+    "name": "Aflac",
+    "sector": "Financials",
+    "industry": "Life & Health Insurance",
+    "hqLocation": "Columbus, Georgia",
+    "cik": "0000004977",
+    "wikiTitle": "Aflac"
+  },
+  {
+    "ticker": "A",
+    "name": "Agilent Technologies",
+    "sector": "Health Care",
+    "industry": "Life Sciences Tools & Services",
+    "hqLocation": "Santa Clara, California",
+    "cik": "0001090872",
+    "wikiTitle": "Agilent_Technologies"
+  },
+  {
+    "ticker": "APD",
+    "name": "Air Products",
+    "sector": "Materials",
+    "industry": "Industrial Gases",
+    "hqLocation": "Upper Macungie Township, Pennsylvania",
+    "cik": "0000002969",
+    "wikiTitle": "Air_Products"
+  },
+  {
+    "ticker": "ABNB",
+    "name": "Airbnb",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts & Cruise Lines",
+    "hqLocation": "San Francisco, California",
+    "cik": "0001559720",
+    "wikiTitle": "Airbnb"
+  },
+  {
+    "ticker": "AKAM",
+    "name": "Akamai Technologies",
+    "sector": "Information Technology",
+    "industry": "Internet Services & Infrastructure",
+    "hqLocation": "Cambridge, Massachusetts",
+    "cik": "0001086222",
+    "wikiTitle": "Akamai_Technologies"
+  },
+  {
+    "ticker": "ALB",
+    "name": "Albemarle Corporation",
+    "sector": "Materials",
+    "industry": "Specialty Chemicals",
+    "hqLocation": "Charlotte, North Carolina",
+    "cik": "0000915913",
+    "wikiTitle": "Albemarle_Corporation"
+  },
+  {
+    "ticker": "ARE",
+    "name": "Alexandria Real Estate Equities",
+    "sector": "Real Estate",
+    "industry": "Office REITs",
+    "hqLocation": "Pasadena, California",
+    "cik": "0001035443",
+    "wikiTitle": "Alexandria_Real_Estate_Equities"
+  },
+  {
+    "ticker": "ALGN",
+    "name": "Align Technology",
+    "sector": "Health Care",
+    "industry": "Health Care Supplies",
+    "hqLocation": "Tempe, Arizona",
+    "cik": "0001097149",
+    "wikiTitle": "Align_Technology"
+  },
+  {
+    "ticker": "ALLE",
+    "name": "Allegion",
+    "sector": "Industrials",
+    "industry": "Building Products",
+    "hqLocation": "Dublin, Ireland",
+    "cik": "0001579241",
+    "wikiTitle": "Allegion"
+  },
+  {
+    "ticker": "LNT",
+    "name": "Alliant Energy",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hqLocation": "Madison, Wisconsin",
+    "cik": "0000352541",
+    "wikiTitle": "Alliant_Energy"
+  },
+  {
+    "ticker": "ALL",
+    "name": "Allstate",
+    "sector": "Financials",
+    "industry": "Property & Casualty Insurance",
+    "hqLocation": "Northbrook, Illinois",
+    "cik": "0000899051",
+    "wikiTitle": "Allstate"
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc. (Class A)",
+    "sector": "Communication Services",
+    "industry": "Interactive Media & Services",
+    "hqLocation": "Mountain View, California",
+    "cik": "0001652044",
+    "wikiTitle": "Alphabet_Inc."
+  },
+  {
+    "ticker": "GOOG",
+    "name": "Alphabet Inc. (Class C)",
+    "sector": "Communication Services",
+    "industry": "Interactive Media & Services",
+    "hqLocation": "Mountain View, California",
+    "cik": "0001652044",
+    "wikiTitle": "Alphabet_Inc."
+  },
+  {
+    "ticker": "MO",
+    "name": "Altria",
+    "sector": "Consumer Staples",
+    "industry": "Tobacco",
+    "hqLocation": "Richmond, Virginia",
+    "cik": "0000764180",
+    "wikiTitle": "Altria"
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon",
+    "sector": "Consumer Discretionary",
+    "industry": "Broadline Retail",
+    "hqLocation": "Seattle, Washington",
+    "cik": "0001018724",
+    "wikiTitle": "Amazon_(company)"
+  },
+  {
+    "ticker": "AMCR",
+    "name": "Amcor",
+    "sector": "Materials",
+    "industry": "Paper & Plastic Packaging Products & Materials",
+    "hqLocation": "Warmley, Bristol, United Kingdom",
+    "cik": "0001748790",
+    "wikiTitle": "Amcor"
+  },
+  {
+    "ticker": "AEE",
+    "name": "Ameren",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hqLocation": "St. Louis, Missouri",
+    "cik": "0001002910",
+    "wikiTitle": "Ameren"
+  },
+  {
+    "ticker": "AEP",
+    "name": "American Electric Power",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hqLocation": "Columbus, Ohio",
+    "cik": "0000004904",
+    "wikiTitle": "American_Electric_Power"
+  },
+  {
+    "ticker": "AXP",
+    "name": "American Express",
+    "sector": "Financials",
+    "industry": "Consumer Finance",
+    "hqLocation": "New York City, New York",
+    "cik": "0000004962",
+    "wikiTitle": "American_Express"
+  },
+  {
+    "ticker": "AIG",
+    "name": "American International Group",
+    "sector": "Financials",
+    "industry": "Multi-line Insurance",
+    "hqLocation": "New York City, New York",
+    "cik": "0000005272",
+    "wikiTitle": "American_International_Group"
+  },
+  {
+    "ticker": "AMT",
+    "name": "American Tower",
+    "sector": "Real Estate",
+    "industry": "Telecom Tower REITs",
+    "hqLocation": "Boston, Massachusetts",
+    "cik": "0001053507",
+    "wikiTitle": "American_Tower"
+  },
+  {
+    "ticker": "AWK",
+    "name": "American Water Works",
+    "sector": "Utilities",
+    "industry": "Water Utilities",
+    "hqLocation": "Camden, New Jersey",
+    "cik": "0001410636",
+    "wikiTitle": "American_Water_Works"
+  },
+  {
+    "ticker": "AMP",
+    "name": "Ameriprise Financial",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hqLocation": "Minneapolis, Minnesota",
+    "cik": "0000820027",
+    "wikiTitle": "Ameriprise_Financial"
+  },
+  {
+    "ticker": "AME",
+    "name": "Ametek",
+    "sector": "Industrials",
+    "industry": "Electrical Components & Equipment",
+    "hqLocation": "Berwyn, Pennsylvania",
+    "cik": "0001037868",
+    "wikiTitle": "Ametek"
+  },
+  {
+    "ticker": "AMGN",
+    "name": "Amgen",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hqLocation": "Thousand Oaks, California",
+    "cik": "0000318154",
+    "wikiTitle": "Amgen"
+  },
+  {
+    "ticker": "APH",
+    "name": "Amphenol",
+    "sector": "Information Technology",
+    "industry": "Electronic Components",
+    "hqLocation": "Wallingford, Connecticut",
+    "cik": "0000820313",
+    "wikiTitle": "Amphenol"
+  },
+  {
+    "ticker": "ADI",
+    "name": "Analog Devices",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hqLocation": "Wilmington, Massachusetts",
+    "cik": "0000006281",
+    "wikiTitle": "Analog_Devices"
+  },
+  {
+    "ticker": "AON",
+    "name": "Aon plc",
+    "sector": "Financials",
+    "industry": "Insurance Brokers",
+    "hqLocation": "London, United Kingdom",
+    "cik": "0000315293",
+    "wikiTitle": "Aon_(company)"
+  },
+  {
+    "ticker": "APA",
+    "name": "APA Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hqLocation": "Houston, Texas",
+    "cik": "0001841666",
+    "wikiTitle": "APA_Corporation"
+  },
+  {
+    "ticker": "APO",
+    "name": "Apollo Global Management",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hqLocation": "New York City, New York",
+    "cik": "0001858681",
+    "wikiTitle": "Apollo_Global_Management"
+  },
+  {
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage & Peripherals",
+    "hqLocation": "Cupertino, California",
+    "cik": "0000320193",
+    "wikiTitle": "Apple_Inc."
+  },
+  {
+    "ticker": "AMAT",
+    "name": "Applied Materials",
+    "sector": "Information Technology",
+    "industry": "Semiconductor Materials & Equipment",
+    "hqLocation": "Santa Clara, California",
+    "cik": "0000006951",
+    "wikiTitle": "Applied_Materials"
+  },
+  {
+    "ticker": "APP",
+    "name": "AppLovin",
+    "sector": "Communication Services",
+    "industry": "Advertising",
+    "hqLocation": "Palo Alto, California",
+    "cik": "0001751008",
+    "wikiTitle": "AppLovin"
+  },
+  {
+    "ticker": "APTV",
+    "name": "Aptiv",
+    "sector": "Consumer Discretionary",
+    "industry": "Automotive Parts & Equipment",
+    "hqLocation": "Schaffhausen, Switzerland",
+    "cik": "0001521332",
+    "wikiTitle": "Aptiv"
+  },
+  {
+    "ticker": "ACGL",
+    "name": "Arch Capital Group",
+    "sector": "Financials",
+    "industry": "Property & Casualty Insurance",
+    "hqLocation": "Hamilton, Bermuda",
+    "cik": "0000947484",
+    "wikiTitle": "Arch_Capital_Group"
+  },
+  {
+    "ticker": "ADM",
+    "name": "Archer Daniels Midland",
+    "sector": "Consumer Staples",
+    "industry": "Agricultural Products & Services",
+    "hqLocation": "Chicago, Illinois",
+    "cik": "0000007084",
+    "wikiTitle": "Archer_Daniels_Midland"
+  },
+  {
+    "ticker": "ARES",
+    "name": "Ares Management",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hqLocation": "Los Angeles, California",
+    "cik": "0001176948",
+    "wikiTitle": "Ares_Management"
+  },
+  {
+    "ticker": "ANET",
+    "name": "Arista Networks",
+    "sector": "Information Technology",
+    "industry": "Communications Equipment",
+    "hqLocation": "Santa Clara, California",
+    "cik": "0001596532",
+    "wikiTitle": "Arista_Networks"
+  },
+  {
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "sector": "Financials",
+    "industry": "Insurance Brokers",
+    "hqLocation": "Rolling Meadows, Illinois",
+    "cik": "0000354190",
+    "wikiTitle": "Arthur_J._Gallagher_&_Co."
+  },
+  {
+    "ticker": "AIZ",
+    "name": "Assurant",
+    "sector": "Financials",
+    "industry": "Multi-line Insurance",
+    "hqLocation": "Atlanta, Georgia",
+    "cik": "0001267238",
+    "wikiTitle": "Assurant"
+  },
+  {
+    "ticker": "T",
+    "name": "AT&T",
+    "sector": "Communication Services",
+    "industry": "Integrated Telecommunication Services",
+    "hqLocation": "Dallas, Texas",
+    "cik": "0000732717",
+    "wikiTitle": "AT&T"
+  },
+  {
+    "ticker": "ATO",
+    "name": "Atmos Energy",
+    "sector": "Utilities",
+    "industry": "Gas Utilities",
+    "hqLocation": "Dallas, Texas",
+    "cik": "0000731802",
+    "wikiTitle": "Atmos_Energy"
+  },
+  {
+    "ticker": "ADSK",
+    "name": "Autodesk",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hqLocation": "San Francisco, California",
+    "cik": "0000769397",
+    "wikiTitle": "Autodesk"
+  },
+  {
+    "ticker": "ADP",
+    "name": "Automatic Data Processing",
+    "sector": "Industrials",
+    "industry": "Human Resource & Employment Services",
+    "hqLocation": "Roseland, New Jersey",
+    "cik": "0000008670",
+    "wikiTitle": "ADP_(company)"
+  },
+  {
+    "ticker": "AZO",
+    "name": "AutoZone",
+    "sector": "Consumer Discretionary",
+    "industry": "Automotive Retail",
+    "hqLocation": "Memphis, Tennessee",
+    "cik": "0000866787",
+    "wikiTitle": "AutoZone"
+  },
+  {
+    "ticker": "AVY",
+    "name": "Avery Dennison",
+    "sector": "Materials",
+    "industry": "Paper & Plastic Packaging Products & Materials",
+    "hqLocation": "Mentor, Ohio",
+    "cik": "0000008818",
+    "wikiTitle": "Avery_Dennison"
+  },
+  {
+    "ticker": "AXON",
+    "name": "Axon Enterprise",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hqLocation": "Scottsdale, Arizona",
+    "cik": "0001069183",
+    "wikiTitle": "Axon_Enterprise"
+  },
+  {
+    "ticker": "BKR",
+    "name": "Baker Hughes",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "hqLocation": "Houston, Texas",
+    "cik": "0001701605",
+    "wikiTitle": "Baker_Hughes"
+  },
+  {
+    "ticker": "BALL",
+    "name": "Ball Corporation",
+    "sector": "Materials",
+    "industry": "Metal, Glass & Plastic Containers",
+    "hqLocation": "Broomfield, Colorado",
+    "cik": "0000009389",
+    "wikiTitle": "Ball_Corporation"
+  },
+  {
+    "ticker": "BAC",
+    "name": "Bank of America",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "hqLocation": "Charlotte, North Carolina",
+    "cik": "0000070858",
+    "wikiTitle": "Bank_of_America"
+  },
+  {
+    "ticker": "BAX",
+    "name": "Baxter International",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hqLocation": "Deerfield, Illinois",
+    "cik": "0000010456",
+    "wikiTitle": "Baxter_International"
+  },
+  {
+    "ticker": "BDX",
+    "name": "Becton Dickinson",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hqLocation": "Franklin Lakes, New Jersey",
+    "cik": "0000010795",
+    "wikiTitle": "BD_(company)"
+  },
+  {
+    "ticker": "BRK.B",
+    "name": "Berkshire Hathaway",
+    "sector": "Financials",
+    "industry": "Multi-Sector Holdings",
+    "hqLocation": "Omaha, Nebraska",
+    "cik": "0001067983",
+    "wikiTitle": "Berkshire_Hathaway"
+  },
+  {
+    "ticker": "BBY",
+    "name": "Best Buy",
+    "sector": "Consumer Discretionary",
+    "industry": "Computer & Electronics Retail",
+    "hqLocation": "Richfield, Minnesota",
+    "cik": "0000764478",
+    "wikiTitle": "Best_Buy"
+  },
+  {
+    "ticker": "TECH",
+    "name": "Bio-Techne",
+    "sector": "Health Care",
+    "industry": "Life Sciences Tools & Services",
+    "hqLocation": "Minneapolis, Minnesota",
+    "cik": "0000842023",
+    "wikiTitle": "Bio-Techne"
+  },
+  {
+    "ticker": "BIIB",
+    "name": "Biogen",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hqLocation": "Cambridge, Massachusetts",
+    "cik": "0000875045",
+    "wikiTitle": "Biogen"
+  },
+  {
+    "ticker": "BLK",
+    "name": "BlackRock",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hqLocation": "New York City, New York",
+    "cik": "0002012383",
+    "wikiTitle": "BlackRock"
+  },
+  {
+    "ticker": "BX",
+    "name": "Blackstone Inc.",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hqLocation": "New York City, New York",
+    "cik": "0001393818",
+    "wikiTitle": "Blackstone_Inc."
+  },
+  {
+    "ticker": "XYZ",
+    "name": "Block, Inc.",
+    "sector": "Financials",
+    "industry": "Transaction & Payment Processing Services",
+    "hqLocation": "none",
+    "cik": "0001512673",
+    "wikiTitle": "Block,_Inc."
+  },
+  {
+    "ticker": "BE",
+    "name": "Bloom Energy",
+    "sector": "Industrials",
+    "industry": "Electrical Components & Equipment",
+    "hqLocation": "San Jose, California",
+    "cik": "0001664703",
+    "wikiTitle": "Bloom_Energy"
+  },
+  {
+    "ticker": "BNY",
+    "name": "BNY Mellon",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hqLocation": "New York City, New York",
+    "cik": "0001390777",
+    "wikiTitle": "BNY"
+  },
+  {
+    "ticker": "BA",
+    "name": "Boeing",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hqLocation": "Arlington, Virginia",
+    "cik": "0000012927",
+    "wikiTitle": "Boeing"
+  },
+  {
+    "ticker": "BKNG",
+    "name": "Booking Holdings",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts & Cruise Lines",
+    "hqLocation": "Norwalk, Connecticut",
+    "cik": "0001075531",
+    "wikiTitle": "Booking_Holdings"
+  },
+  {
+    "ticker": "BSX",
+    "name": "Boston Scientific",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hqLocation": "Marlborough, Massachusetts",
+    "cik": "0000885725",
+    "wikiTitle": "Boston_Scientific"
+  },
+  {
+    "ticker": "BMY",
+    "name": "Bristol Myers Squibb",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hqLocation": "New York City, New York",
+    "cik": "0000014272",
+    "wikiTitle": "Bristol_Myers_Squibb"
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hqLocation": "Palo Alto, California",
+    "cik": "0001730168",
+    "wikiTitle": "Broadcom"
+  },
+  {
+    "ticker": "BR",
+    "name": "Broadridge Financial Solutions",
+    "sector": "Industrials",
+    "industry": "Data Processing & Outsourced Services",
+    "hqLocation": "Lake Success, New York",
+    "cik": "0001383312",
+    "wikiTitle": "Broadridge_Financial_Solutions"
+  },
+  {
+    "ticker": "BRO",
+    "name": "Brown & Brown",
+    "sector": "Financials",
+    "industry": "Insurance Brokers",
+    "hqLocation": "Daytona Beach, Florida",
+    "cik": "0000079282",
+    "wikiTitle": "Brown_&_Brown"
+  },
+  {
+    "ticker": "BF.B",
+    "name": "Brown–Forman",
+    "sector": "Consumer Staples",
+    "industry": "Distillers & Vintners",
+    "hqLocation": "Louisville, Kentucky",
+    "cik": "0000014693",
+    "wikiTitle": "Brown–Forman"
+  },
+  {
+    "ticker": "BG",
+    "name": "Bunge Global",
+    "sector": "Consumer Staples",
+    "industry": "Agricultural Products & Services",
+    "hqLocation": "Chesterfield, Missouri",
+    "cik": "0001996862",
+    "wikiTitle": "Bunge_Global"
+  },
+  {
+    "ticker": "BXP",
+    "name": "BXP, Inc.",
+    "sector": "Real Estate",
+    "industry": "Office REITs",
+    "hqLocation": "Boston, Massachusetts",
+    "cik": "0001037540",
+    "wikiTitle": "BXP,_Inc."
+  },
+  {
+    "ticker": "CHRW",
+    "name": "C.H. Robinson",
+    "sector": "Industrials",
+    "industry": "Air Freight & Logistics",
+    "hqLocation": "Eden Prairie, Minnesota",
+    "cik": "0001043277",
+    "wikiTitle": "C.H._Robinson"
+  },
+  {
+    "ticker": "CDNS",
+    "name": "Cadence Design Systems",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hqLocation": "San Jose, California",
+    "cik": "0000813672",
+    "wikiTitle": "Cadence_Design_Systems"
+  },
+  {
+    "ticker": "CPT",
+    "name": "Camden Property Trust",
+    "sector": "Real Estate",
+    "industry": "Multi-Family Residential REITs",
+    "hqLocation": "Houston, Texas",
+    "cik": "0000906345",
+    "wikiTitle": "Camden_Property_Trust"
+  },
+  {
+    "ticker": "COF",
+    "name": "Capital One",
+    "sector": "Financials",
+    "industry": "Consumer Finance",
+    "hqLocation": "Tysons Corner, Virginia",
+    "cik": "0000927628",
+    "wikiTitle": "Capital_One"
+  },
+  {
+    "ticker": "CAH",
+    "name": "Cardinal Health",
+    "sector": "Health Care",
+    "industry": "Health Care Distributors",
+    "hqLocation": "Dublin, Ohio",
+    "cik": "0000721371",
+    "wikiTitle": "Cardinal_Health"
+  },
+  {
+    "ticker": "CCL",
+    "name": "Carnival Corporation",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts & Cruise Lines",
+    "hqLocation": "Miami, Florida",
+    "cik": "0000815097",
+    "wikiTitle": "Carnival_Corporation"
+  },
+  {
+    "ticker": "CARR",
+    "name": "Carrier Global",
+    "sector": "Industrials",
+    "industry": "Building Products",
+    "hqLocation": "Palm Beach Gardens, Florida",
+    "cik": "0001783180",
+    "wikiTitle": "Carrier_Global"
+  },
+  {
+    "ticker": "CVNA",
+    "name": "Carvana",
+    "sector": "Consumer Discretionary",
+    "industry": "Automotive Retail",
+    "hqLocation": "Tempe, Arizona",
+    "cik": "0001690820",
+    "wikiTitle": "Carvana"
+  },
+  {
+    "ticker": "CASY",
+    "name": "Casey's",
+    "sector": "Consumer Staples",
+    "industry": "Food Retail",
+    "hqLocation": "Ankeny, Iowa",
+    "cik": "0000726958",
+    "wikiTitle": "Casey's"
+  },
+  {
+    "ticker": "CAT",
+    "name": "Caterpillar Inc.",
+    "sector": "Industrials",
+    "industry": "Construction Machinery & Heavy Transportation Equipment",
+    "hqLocation": "Irving, Texas",
+    "cik": "0000018230",
+    "wikiTitle": "Caterpillar_Inc."
+  },
+  {
+    "ticker": "CBOE",
+    "name": "Cboe Global Markets",
+    "sector": "Financials",
+    "industry": "Financial Exchanges & Data",
+    "hqLocation": "Chicago, Illinois",
+    "cik": "0001374310",
+    "wikiTitle": "Cboe_Global_Markets"
+  },
+  {
+    "ticker": "CBRE",
+    "name": "CBRE Group",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "hqLocation": "Dallas, Texas",
+    "cik": "0001138118",
+    "wikiTitle": "CBRE_Group"
+  },
+  {
+    "ticker": "CDW",
+    "name": "CDW Corporation",
+    "sector": "Information Technology",
+    "industry": "Technology Distributors",
+    "hqLocation": "Vernon Hills, Illinois",
+    "cik": "0001402057",
+    "wikiTitle": "CDW"
+  },
+  {
+    "ticker": "COR",
+    "name": "Cencora",
+    "sector": "Health Care",
+    "industry": "Health Care Distributors",
+    "hqLocation": "Conshohocken, Pennsylvania",
+    "cik": "0001140859",
+    "wikiTitle": "Cencora"
+  },
+  {
+    "ticker": "CNC",
+    "name": "Centene Corporation",
+    "sector": "Health Care",
+    "industry": "Managed Health Care",
+    "hqLocation": "St. Louis, Missouri",
+    "cik": "0001071739",
+    "wikiTitle": "Centene_Corporation"
+  },
+  {
+    "ticker": "CNP",
+    "name": "CenterPoint Energy",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hqLocation": "Houston, Texas",
+    "cik": "0001130310",
+    "wikiTitle": "CenterPoint_Energy"
+  },
+  {
+    "ticker": "CF",
+    "name": "CF Industries",
+    "sector": "Materials",
+    "industry": "Fertilizers & Agricultural Chemicals",
+    "hqLocation": "Deerfield, Illinois",
+    "cik": "0001324404",
+    "wikiTitle": "CF_Industries"
+  },
+  {
+    "ticker": "CRL",
+    "name": "Charles River Laboratories",
+    "sector": "Health Care",
+    "industry": "Life Sciences Tools & Services",
+    "hqLocation": "Wilmington, Massachusetts",
+    "cik": "0001100682",
+    "wikiTitle": "Charles_River_Laboratories"
+  },
+  {
+    "ticker": "SCHW",
+    "name": "Charles Schwab Corporation",
+    "sector": "Financials",
+    "industry": "Investment Banking & Brokerage",
+    "hqLocation": "Westlake, Texas",
+    "cik": "0000316709",
+    "wikiTitle": "Charles_Schwab_Corporation"
+  },
+  {
+    "ticker": "CHTR",
+    "name": "Charter Communications",
+    "sector": "Communication Services",
+    "industry": "Cable & Satellite",
+    "hqLocation": "Stamford, Connecticut",
+    "cik": "0001091667",
+    "wikiTitle": "Charter_Communications"
+  },
+  {
+    "ticker": "CVX",
+    "name": "Chevron Corporation",
+    "sector": "Energy",
+    "industry": "Integrated Oil & Gas",
+    "hqLocation": "Houston, Texas",
+    "cik": "0000093410",
+    "wikiTitle": "Chevron_Corporation"
+  },
+  {
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "hqLocation": "Newport Beach, California",
+    "cik": "0001058090",
+    "wikiTitle": "Chipotle_Mexican_Grill"
+  },
+  {
+    "ticker": "CB",
+    "name": "Chubb Limited",
+    "sector": "Financials",
+    "industry": "Property & Casualty Insurance",
+    "hqLocation": "Zurich, Switzerland",
+    "cik": "0000896159",
+    "wikiTitle": "Chubb_Limited"
+  },
+  {
+    "ticker": "CHD",
+    "name": "Church & Dwight",
+    "sector": "Consumer Staples",
+    "industry": "Household Products",
+    "hqLocation": "Ewing, New Jersey",
+    "cik": "0000313927",
+    "wikiTitle": "Church_&_Dwight"
+  },
+  {
+    "ticker": "CIEN",
+    "name": "Ciena",
+    "sector": "Information Technology",
+    "industry": "Communications Equipment",
+    "hqLocation": "Hanover, Maryland",
+    "cik": "0000936395",
+    "wikiTitle": "Ciena"
+  },
+  {
+    "ticker": "CI",
+    "name": "Cigna",
+    "sector": "Health Care",
+    "industry": "Health Care Services",
+    "hqLocation": "Bloomfield, Connecticut",
+    "cik": "0001739940",
+    "wikiTitle": "Cigna"
+  },
+  {
+    "ticker": "CINF",
+    "name": "Cincinnati Financial",
+    "sector": "Financials",
+    "industry": "Property & Casualty Insurance",
+    "hqLocation": "Fairfield, Ohio",
+    "cik": "0000020286",
+    "wikiTitle": "Cincinnati_Financial"
+  },
+  {
+    "ticker": "CTAS",
+    "name": "Cintas",
+    "sector": "Industrials",
+    "industry": "Diversified Support Services",
+    "hqLocation": "Mason, Ohio",
+    "cik": "0000723254",
+    "wikiTitle": "Cintas"
+  },
+  {
+    "ticker": "CSCO",
+    "name": "Cisco",
+    "sector": "Information Technology",
+    "industry": "Communications Equipment",
+    "hqLocation": "San Jose, California",
+    "cik": "0000858877",
+    "wikiTitle": "Cisco"
+  },
+  {
+    "ticker": "C",
+    "name": "Citigroup",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "hqLocation": "New York City, New York",
+    "cik": "0000831001",
+    "wikiTitle": "Citigroup"
+  },
+  {
+    "ticker": "CFG",
+    "name": "Citizens Financial Group",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "hqLocation": "Providence, Rhode Island",
+    "cik": "0000759944",
+    "wikiTitle": "Citizens_Financial_Group"
+  },
+  {
+    "ticker": "CLX",
+    "name": "Clorox",
+    "sector": "Consumer Staples",
+    "industry": "Household Products",
+    "hqLocation": "Oakland, California",
+    "cik": "0000021076",
+    "wikiTitle": "Clorox"
+  },
+  {
+    "ticker": "CME",
+    "name": "CME Group",
+    "sector": "Financials",
+    "industry": "Financial Exchanges & Data",
+    "hqLocation": "Chicago, Illinois",
+    "cik": "0001156375",
+    "wikiTitle": "CME_Group"
+  },
+  {
+    "ticker": "CMS",
+    "name": "CMS Energy",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hqLocation": "Jackson, Michigan",
+    "cik": "0000811156",
+    "wikiTitle": "CMS_Energy"
+  },
+  {
+    "ticker": "KO",
+    "name": "Coca-Cola Company (The)",
+    "sector": "Consumer Staples",
+    "industry": "Soft Drinks & Non-alcoholic Beverages",
+    "hqLocation": "Atlanta, Georgia",
+    "cik": "0000021344",
+    "wikiTitle": "The_Coca-Cola_Company"
+  },
+  {
+    "ticker": "CTSH",
+    "name": "Cognizant",
+    "sector": "Information Technology",
+    "industry": "IT Consulting & Other Services",
+    "hqLocation": "Teaneck, New Jersey",
+    "cik": "0001058290",
+    "wikiTitle": "Cognizant"
+  },
+  {
+    "ticker": "COHR",
+    "name": "Coherent Corp.",
+    "sector": "Information Technology",
+    "industry": "Electronic Components",
+    "hqLocation": "Saxonburg, Pennsylvania",
+    "cik": "0000820318",
+    "wikiTitle": "Coherent_Corp."
+  },
+  {
+    "ticker": "COIN",
+    "name": "Coinbase",
+    "sector": "Financials",
+    "industry": "Financial Exchanges & Data",
+    "hqLocation": "New York City, New York",
+    "cik": "0001679788",
+    "wikiTitle": "Coinbase"
+  },
+  {
+    "ticker": "CL",
+    "name": "Colgate-Palmolive",
+    "sector": "Consumer Staples",
+    "industry": "Household Products",
+    "hqLocation": "New York City, New York",
+    "cik": "0000021665",
+    "wikiTitle": "Colgate-Palmolive"
+  },
+  {
+    "ticker": "CMCSA",
+    "name": "Comcast",
+    "sector": "Communication Services",
+    "industry": "Cable & Satellite",
+    "hqLocation": "Philadelphia, Pennsylvania",
+    "cik": "0001166691",
+    "wikiTitle": "Comcast"
+  },
+  {
+    "ticker": "FIX",
+    "name": "Comfort Systems USA",
+    "sector": "Industrials",
+    "industry": "Construction & Engineering",
+    "hqLocation": "Houston, Texas",
+    "cik": "0001035983",
+    "wikiTitle": "Comfort_Systems_USA"
+  },
+  {
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hqLocation": "Houston, Texas",
+    "cik": "0001163165",
+    "wikiTitle": "ConocoPhillips"
+  },
+  {
+    "ticker": "ED",
+    "name": "Consolidated Edison",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hqLocation": "New York City, New York",
+    "cik": "0001047862",
+    "wikiTitle": "Consolidated_Edison"
+  },
+  {
+    "ticker": "STZ",
+    "name": "Constellation Brands",
+    "sector": "Consumer Staples",
+    "industry": "Distillers & Vintners",
+    "hqLocation": "Rochester, New York",
+    "cik": "0000016918",
+    "wikiTitle": "Constellation_Brands"
+  },
+  {
+    "ticker": "CEG",
+    "name": "Constellation Energy",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hqLocation": "Baltimore, Maryland",
+    "cik": "0001868275",
+    "wikiTitle": "Constellation_Energy"
+  },
+  {
+    "ticker": "COO",
+    "name": "Cooper Companies (The)",
+    "sector": "Health Care",
+    "industry": "Health Care Supplies",
+    "hqLocation": "San Ramon, California",
+    "cik": "0000711404",
+    "wikiTitle": "The_Cooper_Companies"
+  },
+  {
+    "ticker": "CPRT",
+    "name": "Copart",
+    "sector": "Industrials",
+    "industry": "Diversified Support Services",
+    "hqLocation": "Dallas, Texas",
+    "cik": "0000900075",
+    "wikiTitle": "Copart"
+  },
+  {
+    "ticker": "GLW",
+    "name": "Corning Inc.",
+    "sector": "Information Technology",
+    "industry": "Electronic Components",
+    "hqLocation": "Corning, New York",
+    "cik": "0000024741",
+    "wikiTitle": "Corning_Inc."
+  },
+  {
+    "ticker": "CPAY",
+    "name": "Corpay",
+    "sector": "Financials",
+    "industry": "Transaction & Payment Processing Services",
+    "hqLocation": "Atlanta, Georgia",
+    "cik": "0001175454",
+    "wikiTitle": "Corpay"
+  },
+  {
+    "ticker": "CTVA",
+    "name": "Corteva",
+    "sector": "Materials",
+    "industry": "Fertilizers & Agricultural Chemicals",
+    "hqLocation": "Indianapolis, Indiana",
+    "cik": "0001755672",
+    "wikiTitle": "Corteva"
+  },
+  {
+    "ticker": "CSGP",
+    "name": "CoStar Group",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "hqLocation": "Washington, D.C.",
+    "cik": "0001057352",
+    "wikiTitle": "CoStar_Group"
+  },
+  {
+    "ticker": "COST",
+    "name": "Costco",
+    "sector": "Consumer Staples",
+    "industry": "Consumer Staples Merchandise Retail",
+    "hqLocation": "Issaquah, Washington",
+    "cik": "0000909832",
+    "wikiTitle": "Costco"
+  },
+  {
+    "ticker": "CRH",
+    "name": "CRH plc",
+    "sector": "Materials",
+    "industry": "Construction Materials",
+    "hqLocation": "Dublin, Ireland",
+    "cik": "0000849395",
+    "wikiTitle": "CRH_plc"
+  },
+  {
+    "ticker": "CRWD",
+    "name": "CrowdStrike",
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "hqLocation": "Austin, Texas",
+    "cik": "0001535527",
+    "wikiTitle": "CrowdStrike"
+  },
+  {
+    "ticker": "CCI",
+    "name": "Crown Castle",
+    "sector": "Real Estate",
+    "industry": "Telecom Tower REITs",
+    "hqLocation": "Houston, Texas",
+    "cik": "0001051470",
+    "wikiTitle": "Crown_Castle"
+  },
+  {
+    "ticker": "CSX",
+    "name": "CSX Corporation",
+    "sector": "Industrials",
+    "industry": "Rail Transportation",
+    "hqLocation": "Jacksonville, Florida",
+    "cik": "0000277948",
+    "wikiTitle": "CSX_Corporation"
+  },
+  {
+    "ticker": "CMI",
+    "name": "Cummins",
+    "sector": "Industrials",
+    "industry": "Construction Machinery & Heavy Transportation Equipment",
+    "hqLocation": "Columbus, Indiana",
+    "cik": "0000026172",
+    "wikiTitle": "Cummins"
+  },
+  {
+    "ticker": "CVS",
+    "name": "CVS Health",
+    "sector": "Health Care",
+    "industry": "Health Care Services",
+    "hqLocation": "Woonsocket, Rhode Island",
+    "cik": "0000064803",
+    "wikiTitle": "CVS_Health"
+  },
+  {
+    "ticker": "DHR",
+    "name": "Danaher Corporation",
+    "sector": "Health Care",
+    "industry": "Life Sciences Tools & Services",
+    "hqLocation": "Washington, D.C.",
+    "cik": "0000313616",
+    "wikiTitle": "Danaher_Corporation"
+  },
+  {
+    "ticker": "DRI",
+    "name": "Darden Restaurants",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "hqLocation": "Orlando, Florida",
+    "cik": "0000940944",
+    "wikiTitle": "Darden_Restaurants"
+  },
+  {
+    "ticker": "DDOG",
+    "name": "Datadog",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hqLocation": "New York City, New York",
+    "cik": "0001561550",
+    "wikiTitle": "Datadog"
+  },
+  {
+    "ticker": "DVA",
+    "name": "DaVita",
+    "sector": "Health Care",
+    "industry": "Health Care Services",
+    "hqLocation": "Denver, Colorado",
+    "cik": "0000927066",
+    "wikiTitle": "DaVita"
+  },
+  {
+    "ticker": "DECK",
+    "name": "Deckers Brands",
+    "sector": "Consumer Discretionary",
+    "industry": "Footwear",
+    "hqLocation": "Goleta, California",
+    "cik": "0000910521",
+    "wikiTitle": "Deckers_Brands"
+  },
+  {
+    "ticker": "DE",
+    "name": "Deere & Company",
+    "sector": "Industrials",
+    "industry": "Agricultural & Farm Machinery",
+    "hqLocation": "Moline, Illinois",
+    "cik": "0000315189",
+    "wikiTitle": "John_Deere"
+  },
+  {
+    "ticker": "DELL",
+    "name": "Dell Technologies",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage & Peripherals",
+    "hqLocation": "Round Rock, Texas",
+    "cik": "0001571996",
+    "wikiTitle": "Dell_Technologies"
+  },
+  {
+    "ticker": "DAL",
+    "name": "Delta Air Lines",
+    "sector": "Industrials",
+    "industry": "Passenger Airlines",
+    "hqLocation": "Atlanta, Georgia",
+    "cik": "0000027904",
+    "wikiTitle": "Delta_Air_Lines"
+  },
+  {
+    "ticker": "DVN",
+    "name": "Devon Energy",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hqLocation": "Oklahoma City, Oklahoma",
+    "cik": "0001090012",
+    "wikiTitle": "Devon_Energy"
+  },
+  {
+    "ticker": "DXCM",
+    "name": "Dexcom",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hqLocation": "San Diego, California",
+    "cik": "0001093557",
+    "wikiTitle": "Dexcom"
+  },
+  {
+    "ticker": "FANG",
+    "name": "Diamondback Energy",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hqLocation": "Midland, Texas",
+    "cik": "0001539838",
+    "wikiTitle": "Diamondback_Energy"
+  },
+  {
+    "ticker": "DLR",
+    "name": "Digital Realty",
+    "sector": "Real Estate",
+    "industry": "Data Center REITs",
+    "hqLocation": "Austin, Texas",
+    "cik": "0001297996",
+    "wikiTitle": "Digital_Realty"
+  },
+  {
+    "ticker": "DG",
+    "name": "Dollar General",
+    "sector": "Consumer Staples",
+    "industry": "Consumer Staples Merchandise Retail",
+    "hqLocation": "Goodlettsville, Tennessee",
+    "cik": "0000029534",
+    "wikiTitle": "Dollar_General"
+  },
+  {
+    "ticker": "DLTR",
+    "name": "Dollar Tree",
+    "sector": "Consumer Staples",
+    "industry": "Consumer Staples Merchandise Retail",
+    "hqLocation": "Chesapeake, Virginia",
+    "cik": "0000935703",
+    "wikiTitle": "Dollar_Tree"
+  },
+  {
+    "ticker": "D",
+    "name": "Dominion Energy",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hqLocation": "Richmond, Virginia",
+    "cik": "0000715957",
+    "wikiTitle": "Dominion_Energy"
+  },
+  {
+    "ticker": "DPZ",
+    "name": "Domino's",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "hqLocation": "Ann Arbor, Michigan",
+    "cik": "0001286681",
+    "wikiTitle": "Domino's"
+  },
+  {
+    "ticker": "DASH",
+    "name": "DoorDash",
+    "sector": "Consumer Discretionary",
+    "industry": "Specialized Consumer Services",
+    "hqLocation": "San Francisco, California",
+    "cik": "0001792789",
+    "wikiTitle": "DoorDash"
+  },
+  {
+    "ticker": "DOV",
+    "name": "Dover Corporation",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery & Supplies & Components",
+    "hqLocation": "Downers Grove, Illinois",
+    "cik": "0000029905",
+    "wikiTitle": "Dover_Corporation"
+  },
+  {
+    "ticker": "DOW",
+    "name": "Dow Inc.",
+    "sector": "Materials",
+    "industry": "Commodity Chemicals",
+    "hqLocation": "Midland, Michigan",
+    "cik": "0001751788",
+    "wikiTitle": "Dow_Chemical_Company"
+  },
+  {
+    "ticker": "DHI",
+    "name": "D. R. Horton",
+    "sector": "Consumer Discretionary",
+    "industry": "Homebuilding",
+    "hqLocation": "Arlington, Texas",
+    "cik": "0000882184",
+    "wikiTitle": "D._R._Horton"
+  },
+  {
+    "ticker": "DTE",
+    "name": "DTE Energy",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hqLocation": "Detroit, Michigan",
+    "cik": "0000936340",
+    "wikiTitle": "DTE_Energy"
+  },
+  {
+    "ticker": "DUK",
+    "name": "Duke Energy",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hqLocation": "Charlotte, North Carolina",
+    "cik": "0001326160",
+    "wikiTitle": "Duke_Energy"
+  },
+  {
+    "ticker": "DD",
+    "name": "DuPont",
+    "sector": "Industrials",
+    "industry": "Industrial Conglomerates",
+    "hqLocation": "Wilmington, Delaware",
+    "cik": "0001666700",
+    "wikiTitle": "DuPont"
+  },
+  {
+    "ticker": "ETN",
+    "name": "Eaton Corporation",
+    "sector": "Industrials",
+    "industry": "Electrical Components & Equipment",
+    "hqLocation": "Dublin, Ireland",
+    "cik": "0001551182",
+    "wikiTitle": "Eaton_Corporation"
+  },
+  {
+    "ticker": "EBAY",
+    "name": "eBay Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Broadline Retail",
+    "hqLocation": "San Jose, California",
+    "cik": "0001065088",
+    "wikiTitle": "EBay"
+  },
+  {
+    "ticker": "ECHO",
+    "name": "EchoStar",
+    "sector": "Communication Services",
+    "industry": "Wireless Telecommunication Services",
+    "hqLocation": "Englewood, Colorado",
+    "cik": "0001415404",
+    "wikiTitle": "EchoStar"
+  },
+  {
+    "ticker": "ECL",
+    "name": "Ecolab",
+    "sector": "Materials",
+    "industry": "Specialty Chemicals",
+    "hqLocation": "Saint Paul, Minnesota",
+    "cik": "0000031462",
+    "wikiTitle": "Ecolab"
+  },
+  {
+    "ticker": "EIX",
+    "name": "Edison International",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hqLocation": "Rosemead, California",
+    "cik": "0000827052",
+    "wikiTitle": "Edison_International"
+  },
+  {
+    "ticker": "EW",
+    "name": "Edwards Lifesciences",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hqLocation": "Irvine, California",
+    "cik": "0001099800",
+    "wikiTitle": "Edwards_Lifesciences"
+  },
+  {
+    "ticker": "ELV",
+    "name": "Elevance Health",
+    "sector": "Health Care",
+    "industry": "Managed Health Care",
+    "hqLocation": "Indianapolis, Indiana",
+    "cik": "0001156039",
+    "wikiTitle": "Elevance_Health"
+  },
+  {
+    "ticker": "EME",
+    "name": "Emcor",
+    "sector": "Industrials",
+    "industry": "Construction & Engineering",
+    "hqLocation": "Norwalk, Connecticut",
+    "cik": "0000105634",
+    "wikiTitle": "Emcor"
+  },
+  {
+    "ticker": "EMR",
+    "name": "Emerson Electric",
+    "sector": "Industrials",
+    "industry": "Electrical Components & Equipment",
+    "hqLocation": "Ferguson, Missouri",
+    "cik": "0000032604",
+    "wikiTitle": "Emerson_Electric"
+  },
+  {
+    "ticker": "ETR",
+    "name": "Entergy",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hqLocation": "New Orleans, Louisiana",
+    "cik": "0000065984",
+    "wikiTitle": "Entergy"
+  },
+  {
+    "ticker": "EOG",
+    "name": "EOG Resources",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hqLocation": "Houston, Texas",
+    "cik": "0000821189",
+    "wikiTitle": "EOG_Resources"
+  },
+  {
+    "ticker": "EQT",
+    "name": "EQT Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hqLocation": "Pittsburgh, Pennsylvania",
+    "cik": "0000033213",
+    "wikiTitle": "EQT_Corporation"
+  },
+  {
+    "ticker": "EFX",
+    "name": "Equifax",
+    "sector": "Industrials",
+    "industry": "Research & Consulting Services",
+    "hqLocation": "Atlanta, Georgia",
+    "cik": "0000033185",
+    "wikiTitle": "Equifax"
+  },
+  {
+    "ticker": "EQIX",
+    "name": "Equinix",
+    "sector": "Real Estate",
+    "industry": "Data Center REITs",
+    "hqLocation": "Redwood City, California",
+    "cik": "0001101239",
+    "wikiTitle": "Equinix"
+  },
+  {
+    "ticker": "ERIE",
+    "name": "Erie Indemnity",
+    "sector": "Financials",
+    "industry": "Insurance Brokers",
+    "hqLocation": "Erie, Pennsylvania",
+    "cik": "0000922621",
+    "wikiTitle": "Erie_Insurance_Group"
+  },
+  {
+    "ticker": "ESS",
+    "name": "Essex Property Trust",
+    "sector": "Real Estate",
+    "industry": "Multi-Family Residential REITs",
+    "hqLocation": "San Mateo, California",
+    "cik": "0000920522",
+    "wikiTitle": "Essex_Property_Trust"
+  },
+  {
+    "ticker": "EL",
+    "name": "Estée Lauder Companies (The)",
+    "sector": "Consumer Staples",
+    "industry": "Personal Care Products",
+    "hqLocation": "New York City, New York",
+    "cik": "0001001250",
+    "wikiTitle": "The_Estée_Lauder_Companies"
+  },
+  {
+    "ticker": "EG",
+    "name": "Everest Group",
+    "sector": "Financials",
+    "industry": "Reinsurance",
+    "hqLocation": "Hamilton, Bermuda",
+    "cik": "0001095073",
+    "wikiTitle": "Everest_Group"
+  },
+  {
+    "ticker": "EVRG",
+    "name": "Evergy",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hqLocation": "Kansas City, Missouri",
+    "cik": "0001711269",
+    "wikiTitle": "Evergy"
+  },
+  {
+    "ticker": "P",
+    "name": "Everpure",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage & Peripherals",
+    "hqLocation": "Santa Clara, California",
+    "cik": "0001474432",
+    "wikiTitle": "Everpure"
+  },
+  {
+    "ticker": "ES",
+    "name": "Eversource Energy",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hqLocation": "Hartford, Connecticut",
+    "cik": "0000072741",
+    "wikiTitle": "Eversource_Energy"
+  },
+  {
+    "ticker": "EXC",
+    "name": "Exelon",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hqLocation": "Chicago, Illinois",
+    "cik": "0001109357",
+    "wikiTitle": "Exelon"
+  },
+  {
+    "ticker": "EXE",
+    "name": "Expand Energy",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hqLocation": "Oklahoma City, Oklahoma",
+    "cik": "0000895126",
+    "wikiTitle": "Expand_Energy"
+  },
+  {
+    "ticker": "EXPE",
+    "name": "Expedia Group",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts & Cruise Lines",
+    "hqLocation": "Seattle, Washington",
+    "cik": "0001324424",
+    "wikiTitle": "Expedia_Group"
+  },
+  {
+    "ticker": "EXPD",
+    "name": "Expeditors International",
+    "sector": "Industrials",
+    "industry": "Air Freight & Logistics",
+    "hqLocation": "Seattle, Washington",
+    "cik": "0000746515",
+    "wikiTitle": "Expeditors_International"
+  },
+  {
+    "ticker": "EXR",
+    "name": "Extra Space Storage",
+    "sector": "Real Estate",
+    "industry": "Self-Storage REITs",
+    "hqLocation": "Salt Lake City, Utah",
+    "cik": "0001289490",
+    "wikiTitle": "Extra_Space_Storage"
+  },
+  {
+    "ticker": "XOM",
+    "name": "ExxonMobil",
+    "sector": "Energy",
+    "industry": "Integrated Oil & Gas",
+    "hqLocation": "Irving, Texas",
+    "cik": "0002115436",
+    "wikiTitle": "ExxonMobil"
+  },
+  {
+    "ticker": "FFIV",
+    "name": "F5, Inc.",
+    "sector": "Information Technology",
+    "industry": "Communications Equipment",
+    "hqLocation": "Seattle, Washington",
+    "cik": "0001048695",
+    "wikiTitle": "F5,_Inc."
+  },
+  {
+    "ticker": "FDS",
+    "name": "FactSet",
+    "sector": "Financials",
+    "industry": "Financial Exchanges & Data",
+    "hqLocation": "Norwalk, Connecticut",
+    "cik": "0001013237",
+    "wikiTitle": "FactSet"
+  },
+  {
+    "ticker": "FICO",
+    "name": "Fair Isaac",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hqLocation": "Bozeman, Montana",
+    "cik": "0000814547",
+    "wikiTitle": "FICO"
+  },
+  {
+    "ticker": "FAST",
+    "name": "Fastenal",
+    "sector": "Industrials",
+    "industry": "Trading Companies & Distributors",
+    "hqLocation": "Winona, Minnesota",
+    "cik": "0000815556",
+    "wikiTitle": "Fastenal"
+  },
+  {
+    "ticker": "FRT",
+    "name": "Federal Realty Investment Trust",
+    "sector": "Real Estate",
+    "industry": "Retail REITs",
+    "hqLocation": "Rockville, Maryland",
+    "cik": "0000034903",
+    "wikiTitle": "Federal_Realty_Investment_Trust"
+  },
+  {
+    "ticker": "FDX",
+    "name": "FedEx",
+    "sector": "Industrials",
+    "industry": "Air Freight & Logistics",
+    "hqLocation": "Memphis, Tennessee",
+    "cik": "0001048911",
+    "wikiTitle": "FedEx"
+  },
+  {
+    "ticker": "FDXF",
+    "name": "FedEx Freight",
+    "sector": "Industrials",
+    "industry": "Cargo Ground Transportation",
+    "hqLocation": "Memphis, Tennessee",
+    "cik": "0002082247",
+    "wikiTitle": "FedEx_Freight"
+  },
+  {
+    "ticker": "FERG",
+    "name": "Ferguson Enterprises",
+    "sector": "Industrials",
+    "industry": "Trading Companies & Distributors",
+    "hqLocation": "Newport News, Virginia",
+    "cik": "0002011641",
+    "wikiTitle": "Ferguson_Enterprises"
+  },
+  {
+    "ticker": "FIS",
+    "name": "Fidelity National Information Services",
+    "sector": "Financials",
+    "industry": "Transaction & Payment Processing Services",
+    "hqLocation": "Jacksonville, Florida",
+    "cik": "0001136893",
+    "wikiTitle": "FIS_(company)"
+  },
+  {
+    "ticker": "FITB",
+    "name": "Fifth Third Bancorp",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "hqLocation": "Cincinnati, Ohio",
+    "cik": "0000035527",
+    "wikiTitle": "Fifth_Third_Bancorp"
+  },
+  {
+    "ticker": "FSLR",
+    "name": "First Solar",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hqLocation": "Tempe, Arizona",
+    "cik": "0001274494",
+    "wikiTitle": "First_Solar"
+  },
+  {
+    "ticker": "FE",
+    "name": "FirstEnergy",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hqLocation": "Akron, Ohio",
+    "cik": "0001031296",
+    "wikiTitle": "FirstEnergy"
+  },
+  {
+    "ticker": "FISV",
+    "name": "Fiserv",
+    "sector": "Financials",
+    "industry": "Transaction & Payment Processing Services",
+    "hqLocation": "Brookfield, Wisconsin",
+    "cik": "0000798354",
+    "wikiTitle": "Fiserv"
+  },
+  {
+    "ticker": "FLEX",
+    "name": "Flex Ltd.",
+    "sector": "Information Technology",
+    "industry": "Electronic Manufacturing Services",
+    "hqLocation": "Austin, Texas",
+    "cik": "0000866374",
+    "wikiTitle": "Flex_Ltd."
+  },
+  {
+    "ticker": "F",
+    "name": "Ford Motor Company",
+    "sector": "Consumer Discretionary",
+    "industry": "Automobile Manufacturers",
+    "hqLocation": "Dearborn, Michigan",
+    "cik": "0000037996",
+    "wikiTitle": "Ford_Motor_Company"
+  },
+  {
+    "ticker": "FTNT",
+    "name": "Fortinet",
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "hqLocation": "Sunnyvale, California",
+    "cik": "0001262039",
+    "wikiTitle": "Fortinet"
+  },
+  {
+    "ticker": "FTV",
+    "name": "Fortive",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery & Supplies & Components",
+    "hqLocation": "Everett, Washington",
+    "cik": "0001659166",
+    "wikiTitle": "Fortive"
+  },
+  {
+    "ticker": "FOXA",
+    "name": "Fox Corporation (Class A)",
+    "sector": "Communication Services",
+    "industry": "Broadcasting",
+    "hqLocation": "New York City, New York",
+    "cik": "0001754301",
+    "wikiTitle": "Fox_Corporation"
+  },
+  {
+    "ticker": "FOX",
+    "name": "Fox Corporation (Class B)",
+    "sector": "Communication Services",
+    "industry": "Broadcasting",
+    "hqLocation": "New York City, New York",
+    "cik": "0001754301",
+    "wikiTitle": "Fox_Corporation"
+  },
+  {
+    "ticker": "BEN",
+    "name": "Franklin Resources",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hqLocation": "San Mateo, California",
+    "cik": "0000038777",
+    "wikiTitle": "Franklin_Templeton_Investments"
+  },
+  {
+    "ticker": "FCX",
+    "name": "Freeport-McMoRan",
+    "sector": "Materials",
+    "industry": "Copper",
+    "hqLocation": "Phoenix, Arizona",
+    "cik": "0000831259",
+    "wikiTitle": "Freeport-McMoRan"
+  },
+  {
+    "ticker": "GRMN",
+    "name": "Garmin",
+    "sector": "Consumer Discretionary",
+    "industry": "Consumer Electronics",
+    "hqLocation": "Schaffhausen, Switzerland",
+    "cik": "0001121788",
+    "wikiTitle": "Garmin"
+  },
+  {
+    "ticker": "IT",
+    "name": "Gartner",
+    "sector": "Information Technology",
+    "industry": "IT Consulting & Other Services",
+    "hqLocation": "Stamford, Connecticut",
+    "cik": "0000749251",
+    "wikiTitle": "Gartner"
+  },
+  {
+    "ticker": "GE",
+    "name": "GE Aerospace",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hqLocation": "Evendale, Ohio",
+    "cik": "0000040545",
+    "wikiTitle": "GE_Aerospace"
+  },
+  {
+    "ticker": "GEHC",
+    "name": "GE HealthCare",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hqLocation": "Chicago, Illinois",
+    "cik": "0001932393",
+    "wikiTitle": "GE_HealthCare"
+  },
+  {
+    "ticker": "GEV",
+    "name": "GE Vernova",
+    "sector": "Industrials",
+    "industry": "Heavy Electrical Equipment",
+    "hqLocation": "Cambridge, Massachusetts",
+    "cik": "0001996810",
+    "wikiTitle": "GE_Vernova"
+  },
+  {
+    "ticker": "GEN",
+    "name": "Gen Digital",
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "hqLocation": "Tempe, Arizona",
+    "cik": "0000849399",
+    "wikiTitle": "Gen_Digital"
+  },
+  {
+    "ticker": "GNRC",
+    "name": "Generac",
+    "sector": "Industrials",
+    "industry": "Heavy Electrical Equipment",
+    "hqLocation": "Waukesha, Wisconsin",
+    "cik": "0001474735",
+    "wikiTitle": "Generac"
+  },
+  {
+    "ticker": "GD",
+    "name": "General Dynamics",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hqLocation": "Reston, Virginia",
+    "cik": "0000040533",
+    "wikiTitle": "General_Dynamics"
+  },
+  {
+    "ticker": "GIS",
+    "name": "General Mills",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hqLocation": "Golden Valley, Minnesota",
+    "cik": "0000040704",
+    "wikiTitle": "General_Mills"
+  },
+  {
+    "ticker": "GM",
+    "name": "General Motors",
+    "sector": "Consumer Discretionary",
+    "industry": "Automobile Manufacturers",
+    "hqLocation": "Detroit, Michigan",
+    "cik": "0001467858",
+    "wikiTitle": "General_Motors"
+  },
+  {
+    "ticker": "GPC",
+    "name": "Genuine Parts Company",
+    "sector": "Consumer Discretionary",
+    "industry": "Distributors",
+    "hqLocation": "Atlanta, Georgia",
+    "cik": "0000040987",
+    "wikiTitle": "Genuine_Parts_Company"
+  },
+  {
+    "ticker": "GILD",
+    "name": "Gilead Sciences",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hqLocation": "Foster City, California",
+    "cik": "0000882095",
+    "wikiTitle": "Gilead_Sciences"
+  },
+  {
+    "ticker": "GPN",
+    "name": "Global Payments",
+    "sector": "Financials",
+    "industry": "Transaction & Payment Processing Services",
+    "hqLocation": "Atlanta, Georgia",
+    "cik": "0001123360",
+    "wikiTitle": "Global_Payments"
+  },
+  {
+    "ticker": "GL",
+    "name": "Globe Life",
+    "sector": "Financials",
+    "industry": "Life & Health Insurance",
+    "hqLocation": "McKinney, Texas",
+    "cik": "0000320335",
+    "wikiTitle": "Globe_Life"
+  },
+  {
+    "ticker": "GDDY",
+    "name": "GoDaddy",
+    "sector": "Information Technology",
+    "industry": "Internet Services & Infrastructure",
+    "hqLocation": "Tempe, Arizona",
+    "cik": "0001609711",
+    "wikiTitle": "GoDaddy"
+  },
+  {
+    "ticker": "GS",
+    "name": "Goldman Sachs",
+    "sector": "Financials",
+    "industry": "Investment Banking & Brokerage",
+    "hqLocation": "New York City, New York",
+    "cik": "0000886982",
+    "wikiTitle": "Goldman_Sachs"
+  },
+  {
+    "ticker": "HAL",
+    "name": "Halliburton",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "hqLocation": "Houston, Texas",
+    "cik": "0000045012",
+    "wikiTitle": "Halliburton"
+  },
+  {
+    "ticker": "HIG",
+    "name": "Hartford (The)",
+    "sector": "Financials",
+    "industry": "Property & Casualty Insurance",
+    "hqLocation": "Hartford, Connecticut",
+    "cik": "0000874766",
+    "wikiTitle": "The_Hartford"
+  },
+  {
+    "ticker": "HAS",
+    "name": "Hasbro",
+    "sector": "Consumer Discretionary",
+    "industry": "Leisure Products",
+    "hqLocation": "Pawtucket, Rhode Island",
+    "cik": "0000046080",
+    "wikiTitle": "Hasbro"
+  },
+  {
+    "ticker": "HCA",
+    "name": "HCA Healthcare",
+    "sector": "Health Care",
+    "industry": "Health Care Facilities",
+    "hqLocation": "Nashville, Tennessee",
+    "cik": "0000860730",
+    "wikiTitle": "HCA_Healthcare"
+  },
+  {
+    "ticker": "DOC",
+    "name": "Healthpeak Properties",
+    "sector": "Real Estate",
+    "industry": "Health Care REITs",
+    "hqLocation": "Denver, Colorado",
+    "cik": "0000765880",
+    "wikiTitle": "Healthpeak_Properties"
+  },
+  {
+    "ticker": "HSIC",
+    "name": "Henry Schein",
+    "sector": "Health Care",
+    "industry": "Health Care Distributors",
+    "hqLocation": "Melville, New York",
+    "cik": "0001000228",
+    "wikiTitle": "Henry_Schein"
+  },
+  {
+    "ticker": "HSY",
+    "name": "Hershey Company (The)",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hqLocation": "Hershey, Pennsylvania",
+    "cik": "0000047111",
+    "wikiTitle": "The_Hershey_Company"
+  },
+  {
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage & Peripherals",
+    "hqLocation": "Houston, Texas",
+    "cik": "0001645590",
+    "wikiTitle": "Hewlett_Packard_Enterprise"
+  },
+  {
+    "ticker": "HLT",
+    "name": "Hilton Worldwide",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts & Cruise Lines",
+    "hqLocation": "Tysons Corner, Virginia",
+    "cik": "0001585689",
+    "wikiTitle": "Hilton_Worldwide"
+  },
+  {
+    "ticker": "HD",
+    "name": "Home Depot (The)",
+    "sector": "Consumer Discretionary",
+    "industry": "Home Improvement Retail",
+    "hqLocation": "Atlanta, Georgia",
+    "cik": "0000354950",
+    "wikiTitle": "Home_Depot"
+  },
+  {
+    "ticker": "HONA",
+    "name": "Honeywell Aerospace",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hqLocation": "Phoenix, Arizona",
+    "cik": "0002089271",
+    "wikiTitle": "Honeywell_Aerospace"
+  },
+  {
+    "ticker": "HON",
+    "name": "Honeywell Technologies",
+    "sector": "Industrials",
+    "industry": "Industrial Conglomerates",
+    "hqLocation": "Charlotte, North Carolina",
+    "cik": "0000773840",
+    "wikiTitle": "Honeywell"
+  },
+  {
+    "ticker": "HRL",
+    "name": "Hormel Foods",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hqLocation": "Austin, Minnesota",
+    "cik": "0000048465",
+    "wikiTitle": "Hormel_Foods"
+  },
+  {
+    "ticker": "HST",
+    "name": "Host Hotels & Resorts",
+    "sector": "Real Estate",
+    "industry": "Hotel & Resort REITs",
+    "hqLocation": "Bethesda, Maryland",
+    "cik": "0001070750",
+    "wikiTitle": "Host_Hotels_&_Resorts"
+  },
+  {
+    "ticker": "HWM",
+    "name": "Howmet Aerospace",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hqLocation": "Pittsburgh, Pennsylvania",
+    "cik": "0000004281",
+    "wikiTitle": "Howmet_Aerospace"
+  },
+  {
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage & Peripherals",
+    "hqLocation": "Palo Alto, California",
+    "cik": "0000047217",
+    "wikiTitle": "HP_Inc."
+  },
+  {
+    "ticker": "HUBB",
+    "name": "Hubbell Incorporated",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery & Supplies & Components",
+    "hqLocation": "Shelton, Connecticut",
+    "cik": "0000048898",
+    "wikiTitle": "Hubbell_Incorporated"
+  },
+  {
+    "ticker": "HUM",
+    "name": "Humana",
+    "sector": "Health Care",
+    "industry": "Managed Health Care",
+    "hqLocation": "Louisville, Kentucky",
+    "cik": "0000049071",
+    "wikiTitle": "Humana"
+  },
+  {
+    "ticker": "HBAN",
+    "name": "Huntington Bancshares",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "hqLocation": "Columbus, Ohio; Detroit, Michigan",
+    "cik": "0000049196",
+    "wikiTitle": "Huntington_Bancshares"
+  },
+  {
+    "ticker": "HII",
+    "name": "Huntington Ingalls Industries",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hqLocation": "Newport News, Virginia",
+    "cik": "0001501585",
+    "wikiTitle": "Huntington_Ingalls_Industries"
+  },
+  {
+    "ticker": "IBM",
+    "name": "IBM",
+    "sector": "Information Technology",
+    "industry": "IT Consulting & Other Services",
+    "hqLocation": "Armonk, New York",
+    "cik": "0000051143",
+    "wikiTitle": "IBM"
+  },
+  {
+    "ticker": "IEX",
+    "name": "IDEX Corporation",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery & Supplies & Components",
+    "hqLocation": "Northbrook, Illinois",
+    "cik": "0000832101",
+    "wikiTitle": "IDEX_Corporation"
+  },
+  {
+    "ticker": "IDXX",
+    "name": "Idexx Laboratories",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hqLocation": "Westbrook, Maine",
+    "cik": "0000874716",
+    "wikiTitle": "Idexx_Laboratories"
+  },
+  {
+    "ticker": "ITW",
+    "name": "Illinois Tool Works",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery & Supplies & Components",
+    "hqLocation": "Glenview, Illinois",
+    "cik": "0000049826",
+    "wikiTitle": "Illinois_Tool_Works"
+  },
+  {
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "sector": "Health Care",
+    "industry": "Life Sciences Tools & Services",
+    "hqLocation": "San Diego, California",
+    "cik": "0001110803",
+    "wikiTitle": "Illumina,_Inc."
+  },
+  {
+    "ticker": "INCY",
+    "name": "Incyte",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hqLocation": "Wilmington, Delaware",
+    "cik": "0000879169",
+    "wikiTitle": "Incyte"
+  },
+  {
+    "ticker": "IR",
+    "name": "Ingersoll Rand",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery & Supplies & Components",
+    "hqLocation": "Davidson, North Carolina",
+    "cik": "0001699150",
+    "wikiTitle": "Ingersoll_Rand"
+  },
+  {
+    "ticker": "PODD",
+    "name": "Insulet Corporation",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hqLocation": "Acton, Massachusetts",
+    "cik": "0001145197",
+    "wikiTitle": null
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hqLocation": "Santa Clara, California",
+    "cik": "0000050863",
+    "wikiTitle": "Intel"
+  },
+  {
+    "ticker": "IBKR",
+    "name": "Interactive Brokers",
+    "sector": "Financials",
+    "industry": "Investment Banking & Brokerage",
+    "hqLocation": "Greenwich, Connecticut",
+    "cik": "0001381197",
+    "wikiTitle": "Interactive_Brokers"
+  },
+  {
+    "ticker": "ICE",
+    "name": "Intercontinental Exchange",
+    "sector": "Financials",
+    "industry": "Financial Exchanges & Data",
+    "hqLocation": "Atlanta, Georgia",
+    "cik": "0001571949",
+    "wikiTitle": "Intercontinental_Exchange"
+  },
+  {
+    "ticker": "IFF",
+    "name": "International Flavors & Fragrances",
+    "sector": "Materials",
+    "industry": "Specialty Chemicals",
+    "hqLocation": "New York City, New York",
+    "cik": "0000051253",
+    "wikiTitle": "International_Flavors_&_Fragrances"
+  },
+  {
+    "ticker": "IP",
+    "name": "International Paper",
+    "sector": "Materials",
+    "industry": "Paper & Plastic Packaging Products & Materials",
+    "hqLocation": "Memphis, Tennessee",
+    "cik": "0000051434",
+    "wikiTitle": "International_Paper"
+  },
+  {
+    "ticker": "INTU",
+    "name": "Intuit",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hqLocation": "Mountain View, California",
+    "cik": "0000896878",
+    "wikiTitle": "Intuit"
+  },
+  {
+    "ticker": "ISRG",
+    "name": "Intuitive Surgical",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hqLocation": "Sunnyvale, California",
+    "cik": "0001035267",
+    "wikiTitle": "Intuitive_Surgical"
+  },
+  {
+    "ticker": "IVZ",
+    "name": "Invesco",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hqLocation": "Atlanta, Georgia",
+    "cik": "0000914208",
+    "wikiTitle": "Invesco"
+  },
+  {
+    "ticker": "INVH",
+    "name": "Invitation Homes",
+    "sector": "Real Estate",
+    "industry": "Single-Family Residential REITs",
+    "hqLocation": "Dallas, Texas",
+    "cik": "0001687229",
+    "wikiTitle": "Invitation_Homes"
+  },
+  {
+    "ticker": "IQV",
+    "name": "IQVIA",
+    "sector": "Health Care",
+    "industry": "Life Sciences Tools & Services",
+    "hqLocation": "Durham, North Carolina",
+    "cik": "0001478242",
+    "wikiTitle": "IQVIA"
+  },
+  {
+    "ticker": "IRM",
+    "name": "Iron Mountain",
+    "sector": "Real Estate",
+    "industry": "Other Specialized REITs",
+    "hqLocation": "Portsmouth, New Hampshire",
+    "cik": "0001020569",
+    "wikiTitle": "Iron_Mountain_(company)"
+  },
+  {
+    "ticker": "JBHT",
+    "name": "J.B. Hunt",
+    "sector": "Industrials",
+    "industry": "Cargo Ground Transportation",
+    "hqLocation": "Lowell, Arkansas",
+    "cik": "0000728535",
+    "wikiTitle": "J.B._Hunt"
+  },
+  {
+    "ticker": "JBL",
+    "name": "Jabil",
+    "sector": "Information Technology",
+    "industry": "Electronic Manufacturing Services",
+    "hqLocation": "St. Petersburg, Florida",
+    "cik": "0000898293",
+    "wikiTitle": "Jabil"
+  },
+  {
+    "ticker": "JKHY",
+    "name": "Jack Henry & Associates",
+    "sector": "Financials",
+    "industry": "Transaction & Payment Processing Services",
+    "hqLocation": "Monett, Missouri",
+    "cik": "0000779152",
+    "wikiTitle": "Jack_Henry_&_Associates"
+  },
+  {
+    "ticker": "J",
+    "name": "Jacobs Solutions",
+    "sector": "Industrials",
+    "industry": "Construction & Engineering",
+    "hqLocation": "Dallas, Texas",
+    "cik": "0000052988",
+    "wikiTitle": "Jacobs_Solutions"
+  },
+  {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hqLocation": "New Brunswick, New Jersey",
+    "cik": "0000200406",
+    "wikiTitle": "Johnson_&_Johnson"
+  },
+  {
+    "ticker": "JCI",
+    "name": "Johnson Controls",
+    "sector": "Industrials",
+    "industry": "Building Products",
+    "hqLocation": "Cork, Ireland",
+    "cik": "0000833444",
+    "wikiTitle": "Johnson_Controls"
+  },
+  {
+    "ticker": "JPM",
+    "name": "JPMorgan Chase",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "hqLocation": "New York City, New York",
+    "cik": "0000019617",
+    "wikiTitle": "JPMorgan_Chase"
+  },
+  {
+    "ticker": "KVUE",
+    "name": "Kenvue",
+    "sector": "Consumer Staples",
+    "industry": "Personal Care Products",
+    "hqLocation": "Skillman, New Jersey",
+    "cik": "0001944048",
+    "wikiTitle": "Kenvue"
+  },
+  {
+    "ticker": "KDP",
+    "name": "Keurig Dr Pepper",
+    "sector": "Consumer Staples",
+    "industry": "Soft Drinks & Non-alcoholic Beverages",
+    "hqLocation": "Burlington, Massachusetts",
+    "cik": "0001418135",
+    "wikiTitle": "Keurig_Dr_Pepper"
+  },
+  {
+    "ticker": "KEY",
+    "name": "KeyCorp",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "hqLocation": "Cleveland, Ohio",
+    "cik": "0000091576",
+    "wikiTitle": "KeyCorp"
+  },
+  {
+    "ticker": "KEYS",
+    "name": "Keysight Technologies",
+    "sector": "Information Technology",
+    "industry": "Electronic Equipment & Instruments",
+    "hqLocation": "Santa Rosa, California",
+    "cik": "0001601046",
+    "wikiTitle": "Keysight_Technologies"
+  },
+  {
+    "ticker": "KMB",
+    "name": "Kimberly-Clark",
+    "sector": "Consumer Staples",
+    "industry": "Household Products",
+    "hqLocation": "Irving, Texas",
+    "cik": "0000055785",
+    "wikiTitle": "Kimberly-Clark"
+  },
+  {
+    "ticker": "KIM",
+    "name": "Kimco Realty",
+    "sector": "Real Estate",
+    "industry": "Retail REITs",
+    "hqLocation": "Jericho, New York",
+    "cik": "0000879101",
+    "wikiTitle": "Kimco_Realty"
+  },
+  {
+    "ticker": "KMI",
+    "name": "Kinder Morgan",
+    "sector": "Energy",
+    "industry": "Oil & Gas Storage & Transportation",
+    "hqLocation": "Houston, Texas",
+    "cik": "0001506307",
+    "wikiTitle": "Kinder_Morgan"
+  },
+  {
+    "ticker": "KKR",
+    "name": "KKR & Co.",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hqLocation": "New York City, New York",
+    "cik": "0001404912",
+    "wikiTitle": "Kohlberg_Kravis_Roberts"
+  },
+  {
+    "ticker": "KLAC",
+    "name": "KLA Corporation",
+    "sector": "Information Technology",
+    "industry": "Semiconductor Materials & Equipment",
+    "hqLocation": "Milpitas, California",
+    "cik": "0000319201",
+    "wikiTitle": "KLA_Corporation"
+  },
+  {
+    "ticker": "KHC",
+    "name": "Kraft Heinz",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hqLocation": "Chicago, Illinois; Pittsburgh, Pennsylvania",
+    "cik": "0001637459",
+    "wikiTitle": "Kraft_Heinz"
+  },
+  {
+    "ticker": "KR",
+    "name": "Kroger",
+    "sector": "Consumer Staples",
+    "industry": "Food Retail",
+    "hqLocation": "Cincinnati, Ohio",
+    "cik": "0000056873",
+    "wikiTitle": "Kroger"
+  },
+  {
+    "ticker": "LHX",
+    "name": "L3Harris",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hqLocation": "Melbourne, Florida",
+    "cik": "0000202058",
+    "wikiTitle": "L3Harris"
+  },
+  {
+    "ticker": "LH",
+    "name": "Labcorp",
+    "sector": "Health Care",
+    "industry": "Health Care Services",
+    "hqLocation": "Burlington, North Carolina",
+    "cik": "0000920148",
+    "wikiTitle": "Labcorp"
+  },
+  {
+    "ticker": "LRCX",
+    "name": "Lam Research",
+    "sector": "Information Technology",
+    "industry": "Semiconductor Materials & Equipment",
+    "hqLocation": "Fremont, California",
+    "cik": "0000707549",
+    "wikiTitle": "Lam_Research"
+  },
+  {
+    "ticker": "LVS",
+    "name": "Las Vegas Sands",
+    "sector": "Consumer Discretionary",
+    "industry": "Casinos & Gaming",
+    "hqLocation": "Las Vegas, Nevada",
+    "cik": "0001300514",
+    "wikiTitle": "Las_Vegas_Sands"
+  },
+  {
+    "ticker": "LDOS",
+    "name": "Leidos",
+    "sector": "Industrials",
+    "industry": "Diversified Support Services",
+    "hqLocation": "Reston, Virginia",
+    "cik": "0001336920",
+    "wikiTitle": "Leidos"
+  },
+  {
+    "ticker": "LEN",
+    "name": "Lennar",
+    "sector": "Consumer Discretionary",
+    "industry": "Homebuilding",
+    "hqLocation": "Miami, Florida",
+    "cik": "0000920760",
+    "wikiTitle": "Lennar"
+  },
+  {
+    "ticker": "LII",
+    "name": "Lennox International",
+    "sector": "Industrials",
+    "industry": "Building Products",
+    "hqLocation": "Richardson, Texas",
+    "cik": "0001069202",
+    "wikiTitle": "Lennox_International"
+  },
+  {
+    "ticker": "LLY",
+    "name": "Lilly (Eli)",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hqLocation": "Indianapolis, Indiana",
+    "cik": "0000059478",
+    "wikiTitle": "Eli_Lilly_and_Company"
+  },
+  {
+    "ticker": "LIN",
+    "name": "Linde plc",
+    "sector": "Materials",
+    "industry": "Industrial Gases",
+    "hqLocation": "Guildford, United Kingdom",
+    "cik": "0001707925",
+    "wikiTitle": "Linde_plc"
+  },
+  {
+    "ticker": "LYV",
+    "name": "Live Nation Entertainment",
+    "sector": "Communication Services",
+    "industry": "Movies & Entertainment",
+    "hqLocation": "Beverly Hills, California",
+    "cik": "0001335258",
+    "wikiTitle": "Live_Nation_Entertainment"
+  },
+  {
+    "ticker": "LMT",
+    "name": "Lockheed Martin",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hqLocation": "Bethesda, Maryland",
+    "cik": "0000936468",
+    "wikiTitle": "Lockheed_Martin"
+  },
+  {
+    "ticker": "L",
+    "name": "Loews Corporation",
+    "sector": "Financials",
+    "industry": "Multi-line Insurance",
+    "hqLocation": "New York City, New York",
+    "cik": "0000060086",
+    "wikiTitle": "Loews_Corporation"
+  },
+  {
+    "ticker": "LOW",
+    "name": "Lowe's",
+    "sector": "Consumer Discretionary",
+    "industry": "Home Improvement Retail",
+    "hqLocation": "Mooresville, North Carolina",
+    "cik": "0000060667",
+    "wikiTitle": "Lowe's"
+  },
+  {
+    "ticker": "LULU",
+    "name": "Lululemon Athletica",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel, Accessories & Luxury Goods",
+    "hqLocation": "Vancouver, Canada",
+    "cik": "0001397187",
+    "wikiTitle": "Lululemon"
+  },
+  {
+    "ticker": "LITE",
+    "name": "Lumentum",
+    "sector": "Information Technology",
+    "industry": "Communications Equipment",
+    "hqLocation": "San Jose, California",
+    "cik": "0001633978",
+    "wikiTitle": "Lumentum"
+  },
+  {
+    "ticker": "LYB",
+    "name": "LyondellBasell",
+    "sector": "Materials",
+    "industry": "Specialty Chemicals",
+    "hqLocation": "Rotterdam, Netherlands",
+    "cik": "0001489393",
+    "wikiTitle": "LyondellBasell"
+  },
+  {
+    "ticker": "MTB",
+    "name": "M&T Bank",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "hqLocation": "Buffalo, New York",
+    "cik": "0000036270",
+    "wikiTitle": "M&T_Bank"
+  },
+  {
+    "ticker": "MPC",
+    "name": "Marathon Petroleum",
+    "sector": "Energy",
+    "industry": "Oil & Gas Refining & Marketing",
+    "hqLocation": "Findlay, Ohio",
+    "cik": "0001510295",
+    "wikiTitle": "Marathon_Petroleum"
+  },
+  {
+    "ticker": "MAR",
+    "name": "Marriott International",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts & Cruise Lines",
+    "hqLocation": "Bethesda, Maryland",
+    "cik": "0001048286",
+    "wikiTitle": "Marriott_International"
+  },
+  {
+    "ticker": "MRSH",
+    "name": "Marsh McLennan",
+    "sector": "Financials",
+    "industry": "Insurance Brokers",
+    "hqLocation": "New York City, New York",
+    "cik": "0000062709",
+    "wikiTitle": "Marsh_McLennan"
+  },
+  {
+    "ticker": "MLM",
+    "name": "Martin Marietta Materials",
+    "sector": "Materials",
+    "industry": "Construction Materials",
+    "hqLocation": "Raleigh, North Carolina",
+    "cik": "0000916076",
+    "wikiTitle": "Martin_Marietta_Materials"
+  },
+  {
+    "ticker": "MRVL",
+    "name": "Marvell Technology",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hqLocation": "Santa Clara, California",
+    "cik": "0001835632",
+    "wikiTitle": "Marvell_Technology"
+  },
+  {
+    "ticker": "MAS",
+    "name": "Masco",
+    "sector": "Industrials",
+    "industry": "Building Products",
+    "hqLocation": "Livonia, Michigan",
+    "cik": "0000062996",
+    "wikiTitle": "Masco"
+  },
+  {
+    "ticker": "MA",
+    "name": "Mastercard",
+    "sector": "Financials",
+    "industry": "Transaction & Payment Processing Services",
+    "hqLocation": "Harrison, New York",
+    "cik": "0001141391",
+    "wikiTitle": "Mastercard"
+  },
+  {
+    "ticker": "MKC",
+    "name": "McCormick & Company",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hqLocation": "Hunt Valley, Maryland",
+    "cik": "0000063754",
+    "wikiTitle": "McCormick_&_Company"
+  },
+  {
+    "ticker": "MCD",
+    "name": "McDonald's",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "hqLocation": "Chicago, Illinois",
+    "cik": "0000063908",
+    "wikiTitle": "McDonald's"
+  },
+  {
+    "ticker": "MCK",
+    "name": "McKesson Corporation",
+    "sector": "Health Care",
+    "industry": "Health Care Distributors",
+    "hqLocation": "Irving, Texas",
+    "cik": "0000927653",
+    "wikiTitle": "McKesson_Corporation"
+  },
+  {
+    "ticker": "MDT",
+    "name": "Medtronic",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hqLocation": "Galway, Ireland",
+    "cik": "0001613103",
+    "wikiTitle": "Medtronic"
+  },
+  {
+    "ticker": "MRK",
+    "name": "Merck & Co.",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hqLocation": "Kenilworth, New Jersey",
+    "cik": "0000310158",
+    "wikiTitle": "Merck_&_Co."
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms",
+    "sector": "Communication Services",
+    "industry": "Interactive Media & Services",
+    "hqLocation": "Menlo Park, California",
+    "cik": "0001326801",
+    "wikiTitle": "Meta_Platforms"
+  },
+  {
+    "ticker": "MET",
+    "name": "MetLife",
+    "sector": "Financials",
+    "industry": "Life & Health Insurance",
+    "hqLocation": "New York City, New York",
+    "cik": "0001099219",
+    "wikiTitle": "MetLife"
+  },
+  {
+    "ticker": "MTD",
+    "name": "Mettler Toledo",
+    "sector": "Health Care",
+    "industry": "Life Sciences Tools & Services",
+    "hqLocation": "Columbus, Ohio",
+    "cik": "0001037646",
+    "wikiTitle": "Mettler_Toledo"
+  },
+  {
+    "ticker": "MGM",
+    "name": "MGM Resorts",
+    "sector": "Consumer Discretionary",
+    "industry": "Casinos & Gaming",
+    "hqLocation": "Paradise, Nevada",
+    "cik": "0000789570",
+    "wikiTitle": "MGM_Resorts"
+  },
+  {
+    "ticker": "MCHP",
+    "name": "Microchip Technology",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hqLocation": "Chandler, Arizona",
+    "cik": "0000827054",
+    "wikiTitle": "Microchip_Technology"
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hqLocation": "Boise, Idaho",
+    "cik": "0000723125",
+    "wikiTitle": "Micron_Technology"
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft",
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "hqLocation": "Redmond, Washington",
+    "cik": "0000789019",
+    "wikiTitle": "Microsoft"
+  },
+  {
+    "ticker": "MAA",
+    "name": "Mid-America Apartment Communities",
+    "sector": "Real Estate",
+    "industry": "Multi-Family Residential REITs",
+    "hqLocation": "Memphis, Tennessee",
+    "cik": "0000912595",
+    "wikiTitle": "Mid-America_Apartment_Communities"
+  },
+  {
+    "ticker": "MRNA",
+    "name": "Moderna",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hqLocation": "Cambridge, Massachusetts",
+    "cik": "0001682852",
+    "wikiTitle": "Moderna"
+  },
+  {
+    "ticker": "MDLZ",
+    "name": "Mondelez International",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hqLocation": "Chicago, Illinois",
+    "cik": "0001103982",
+    "wikiTitle": "Mondelez_International"
+  },
+  {
+    "ticker": "MPWR",
+    "name": "Monolithic Power Systems",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hqLocation": "Kirkland, Washington",
+    "cik": "0001280452",
+    "wikiTitle": "Monolithic_Power_Systems"
+  },
+  {
+    "ticker": "MNST",
+    "name": "Monster Beverage",
+    "sector": "Consumer Staples",
+    "industry": "Soft Drinks & Non-alcoholic Beverages",
+    "hqLocation": "Corona, California",
+    "cik": "0000865752",
+    "wikiTitle": "Monster_Beverage"
+  },
+  {
+    "ticker": "MCO",
+    "name": "Moody's Corporation",
+    "sector": "Financials",
+    "industry": "Financial Exchanges & Data",
+    "hqLocation": "New York City, New York",
+    "cik": "0001059556",
+    "wikiTitle": "Moody's_Corporation"
+  },
+  {
+    "ticker": "MS",
+    "name": "Morgan Stanley",
+    "sector": "Financials",
+    "industry": "Investment Banking & Brokerage",
+    "hqLocation": "New York City, New York",
+    "cik": "0000895421",
+    "wikiTitle": "Morgan_Stanley"
+  },
+  {
+    "ticker": "MOS",
+    "name": "Mosaic Company (The)",
+    "sector": "Materials",
+    "industry": "Fertilizers & Agricultural Chemicals",
+    "hqLocation": "Tampa, Florida",
+    "cik": "0001285785",
+    "wikiTitle": "The_Mosaic_Company"
+  },
+  {
+    "ticker": "MSI",
+    "name": "Motorola Solutions",
+    "sector": "Information Technology",
+    "industry": "Communications Equipment",
+    "hqLocation": "Chicago, Illinois",
+    "cik": "0000068505",
+    "wikiTitle": "Motorola_Solutions"
+  },
+  {
+    "ticker": "MSCI",
+    "name": "MSCI",
+    "sector": "Financials",
+    "industry": "Financial Exchanges & Data",
+    "hqLocation": "New York City, New York",
+    "cik": "0001408198",
+    "wikiTitle": "MSCI"
+  },
+  {
+    "ticker": "NDAQ",
+    "name": "Nasdaq, Inc.",
+    "sector": "Financials",
+    "industry": "Financial Exchanges & Data",
+    "hqLocation": "New York City, New York",
+    "cik": "0001120193",
+    "wikiTitle": "Nasdaq,_Inc."
+  },
+  {
+    "ticker": "NTAP",
+    "name": "NetApp",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage & Peripherals",
+    "hqLocation": "San Jose, California",
+    "cik": "0001002047",
+    "wikiTitle": "NetApp"
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix",
+    "sector": "Communication Services",
+    "industry": "Movies & Entertainment",
+    "hqLocation": "Los Gatos, California",
+    "cik": "0001065280",
+    "wikiTitle": "Netflix,_Inc."
+  },
+  {
+    "ticker": "NEM",
+    "name": "Newmont",
+    "sector": "Materials",
+    "industry": "Gold",
+    "hqLocation": "Denver, Colorado",
+    "cik": "0001164727",
+    "wikiTitle": "Newmont"
+  },
+  {
+    "ticker": "NWSA",
+    "name": "News Corp (Class A)",
+    "sector": "Communication Services",
+    "industry": "Publishing",
+    "hqLocation": "New York City, New York",
+    "cik": "0001564708",
+    "wikiTitle": "News_Corp"
+  },
+  {
+    "ticker": "NWS",
+    "name": "News Corp (Class B)",
+    "sector": "Communication Services",
+    "industry": "Publishing",
+    "hqLocation": "New York City, New York",
+    "cik": "0001564708",
+    "wikiTitle": "News_Corp"
+  },
+  {
+    "ticker": "NEE",
+    "name": "NextEra Energy",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hqLocation": "Juno Beach, Florida",
+    "cik": "0000753308",
+    "wikiTitle": "NextEra_Energy"
+  },
+  {
+    "ticker": "NKE",
+    "name": "Nike, Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel, Accessories & Luxury Goods",
+    "hqLocation": "Washington County, Oregon",
+    "cik": "0000320187",
+    "wikiTitle": "Nike,_Inc."
+  },
+  {
+    "ticker": "NI",
+    "name": "NiSource",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hqLocation": "Merrillville, Indiana",
+    "cik": "0001111711",
+    "wikiTitle": "NiSource"
+  },
+  {
+    "ticker": "NDSN",
+    "name": "Nordson Corporation",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery & Supplies & Components",
+    "hqLocation": "Westlake, Ohio",
+    "cik": "0000072331",
+    "wikiTitle": "Nordson_Corporation"
+  },
+  {
+    "ticker": "NSC",
+    "name": "Norfolk Southern",
+    "sector": "Industrials",
+    "industry": "Rail Transportation",
+    "hqLocation": "Atlanta, Georgia",
+    "cik": "0000702165",
+    "wikiTitle": "Norfolk_Southern_Railway"
+  },
+  {
+    "ticker": "NTRS",
+    "name": "Northern Trust",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hqLocation": "Chicago, Illinois",
+    "cik": "0000073124",
+    "wikiTitle": "Northern_Trust"
+  },
+  {
+    "ticker": "NOC",
+    "name": "Northrop Grumman",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hqLocation": "West Falls Church, Virginia[2]",
+    "cik": "0001133421",
+    "wikiTitle": "Northrop_Grumman"
+  },
+  {
+    "ticker": "NCLH",
+    "name": "Norwegian Cruise Line Holdings",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts & Cruise Lines",
+    "hqLocation": "Miami-Dade County, Florida[3]",
+    "cik": "0001513761",
+    "wikiTitle": "Norwegian_Cruise_Line_Holdings"
+  },
+  {
+    "ticker": "NRG",
+    "name": "NRG Energy",
+    "sector": "Utilities",
+    "industry": "Independent Power Producers & Energy Traders",
+    "hqLocation": "Houston, Texas",
+    "cik": "0001013871",
+    "wikiTitle": "NRG_Energy"
+  },
+  {
+    "ticker": "NUE",
+    "name": "Nucor",
+    "sector": "Materials",
+    "industry": "Steel",
+    "hqLocation": "Charlotte, North Carolina",
+    "cik": "0000073309",
+    "wikiTitle": "Nucor"
+  },
+  {
+    "ticker": "NVDA",
+    "name": "Nvidia",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hqLocation": "Santa Clara, California",
+    "cik": "0001045810",
+    "wikiTitle": "Nvidia"
+  },
+  {
+    "ticker": "NVR",
+    "name": "NVR, Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Homebuilding",
+    "hqLocation": "Reston, Virginia",
+    "cik": "0000906163",
+    "wikiTitle": "NVR,_Inc."
+  },
+  {
+    "ticker": "NXPI",
+    "name": "NXP Semiconductors",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hqLocation": "Eindhoven, Netherlands",
+    "cik": "0001413447",
+    "wikiTitle": "NXP_Semiconductors"
+  },
+  {
+    "ticker": "ORLY",
+    "name": "O'Reilly Automotive",
+    "sector": "Consumer Discretionary",
+    "industry": "Automotive Retail",
+    "hqLocation": "Springfield, Missouri",
+    "cik": "0000898173",
+    "wikiTitle": "O'Reilly_Auto_Parts"
+  },
+  {
+    "ticker": "OXY",
+    "name": "Occidental Petroleum",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hqLocation": "Houston, Texas",
+    "cik": "0000797468",
+    "wikiTitle": "Occidental_Petroleum"
+  },
+  {
+    "ticker": "ODFL",
+    "name": "Old Dominion",
+    "sector": "Industrials",
+    "industry": "Cargo Ground Transportation",
+    "hqLocation": "Thomasville, North Carolina",
+    "cik": "0000878927",
+    "wikiTitle": "Old_Dominion_Freight_Line"
+  },
+  {
+    "ticker": "OMC",
+    "name": "Omnicom Group",
+    "sector": "Communication Services",
+    "industry": "Advertising",
+    "hqLocation": "New York City, New York",
+    "cik": "0000029989",
+    "wikiTitle": "Omnicom_Group"
+  },
+  {
+    "ticker": "ON",
+    "name": "ON Semiconductor",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hqLocation": "Phoenix, Arizona",
+    "cik": "0001097864",
+    "wikiTitle": "Onsemi"
+  },
+  {
+    "ticker": "OKE",
+    "name": "Oneok",
+    "sector": "Energy",
+    "industry": "Oil & Gas Storage & Transportation",
+    "hqLocation": "Tulsa, Oklahoma",
+    "cik": "0001039684",
+    "wikiTitle": "Oneok"
+  },
+  {
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hqLocation": "Austin, Texas",
+    "cik": "0001341439",
+    "wikiTitle": "Oracle_Corporation"
+  },
+  {
+    "ticker": "OTIS",
+    "name": "Otis Worldwide",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery & Supplies & Components",
+    "hqLocation": "Farmington, Connecticut",
+    "cik": "0001781335",
+    "wikiTitle": "Otis_Worldwide"
+  },
+  {
+    "ticker": "PCAR",
+    "name": "Paccar",
+    "sector": "Industrials",
+    "industry": "Construction Machinery & Heavy Transportation Equipment",
+    "hqLocation": "Bellevue, Washington",
+    "cik": "0000075362",
+    "wikiTitle": "Paccar"
+  },
+  {
+    "ticker": "PKG",
+    "name": "Packaging Corporation of America",
+    "sector": "Materials",
+    "industry": "Paper & Plastic Packaging Products & Materials",
+    "hqLocation": "Lake Forest, Illinois",
+    "cik": "0000075677",
+    "wikiTitle": "Packaging_Corporation_of_America"
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hqLocation": "Aventura, Florida",
+    "cik": "0001321655",
+    "wikiTitle": "Palantir_Technologies"
+  },
+  {
+    "ticker": "PANW",
+    "name": "Palo Alto Networks",
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "hqLocation": "Santa Clara, California",
+    "cik": "0001327567",
+    "wikiTitle": "Palo_Alto_Networks"
+  },
+  {
+    "ticker": "PSKY",
+    "name": "Paramount Skydance Corporation",
+    "sector": "Communication Services",
+    "industry": "Movies & Entertainment",
+    "hqLocation": "Los Angeles, California",
+    "cik": "0002041610",
+    "wikiTitle": "Paramount_Skydance"
+  },
+  {
+    "ticker": "PH",
+    "name": "Parker Hannifin",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery & Supplies & Components",
+    "hqLocation": "Cleveland, Ohio",
+    "cik": "0000076334",
+    "wikiTitle": "Parker_Hannifin"
+  },
+  {
+    "ticker": "PAYX",
+    "name": "Paychex",
+    "sector": "Industrials",
+    "industry": "Human Resource & Employment Services",
+    "hqLocation": "Penfield, New York",
+    "cik": "0000723531",
+    "wikiTitle": "Paychex"
+  },
+  {
+    "ticker": "PYPL",
+    "name": "PayPal",
+    "sector": "Financials",
+    "industry": "Transaction & Payment Processing Services",
+    "hqLocation": "San Jose, California",
+    "cik": "0001633917",
+    "wikiTitle": "PayPal"
+  },
+  {
+    "ticker": "PNR",
+    "name": "Pentair",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery & Supplies & Components",
+    "hqLocation": "Worsley, United Kingdom",
+    "cik": "0000077360",
+    "wikiTitle": "Pentair"
+  },
+  {
+    "ticker": "PEP",
+    "name": "PepsiCo",
+    "sector": "Consumer Staples",
+    "industry": "Soft Drinks & Non-alcoholic Beverages",
+    "hqLocation": "Purchase, New York",
+    "cik": "0000077476",
+    "wikiTitle": "PepsiCo"
+  },
+  {
+    "ticker": "PFE",
+    "name": "Pfizer",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hqLocation": "New York City, New York",
+    "cik": "0000078003",
+    "wikiTitle": "Pfizer"
+  },
+  {
+    "ticker": "PCG",
+    "name": "PG&E Corporation",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hqLocation": "Oakland, California",
+    "cik": "0001004980",
+    "wikiTitle": "PG&E"
+  },
+  {
+    "ticker": "PM",
+    "name": "Philip Morris International",
+    "sector": "Consumer Staples",
+    "industry": "Tobacco",
+    "hqLocation": "New York City, New York",
+    "cik": "0001413329",
+    "wikiTitle": "Philip_Morris_International"
+  },
+  {
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "sector": "Energy",
+    "industry": "Oil & Gas Refining & Marketing",
+    "hqLocation": "Houston, Texas",
+    "cik": "0001534701",
+    "wikiTitle": "Phillips_66"
+  },
+  {
+    "ticker": "PNW",
+    "name": "Pinnacle West Capital",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hqLocation": "Phoenix, Arizona",
+    "cik": "0000764622",
+    "wikiTitle": "Pinnacle_West_Capital"
+  },
+  {
+    "ticker": "PNC",
+    "name": "PNC Financial Services",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "hqLocation": "Pittsburgh, Pennsylvania",
+    "cik": "0000713676",
+    "wikiTitle": "PNC_Financial_Services"
+  },
+  {
+    "ticker": "PPG",
+    "name": "PPG Industries",
+    "sector": "Materials",
+    "industry": "Specialty Chemicals",
+    "hqLocation": "Pittsburgh, Pennsylvania",
+    "cik": "0000079879",
+    "wikiTitle": "PPG_Industries"
+  },
+  {
+    "ticker": "PPL",
+    "name": "PPL Corporation",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hqLocation": "Allentown, Pennsylvania",
+    "cik": "0000922224",
+    "wikiTitle": "PPL_Corporation"
+  },
+  {
+    "ticker": "PFG",
+    "name": "Principal Financial Group",
+    "sector": "Financials",
+    "industry": "Life & Health Insurance",
+    "hqLocation": "Des Moines, Iowa",
+    "cik": "0001126328",
+    "wikiTitle": "Principal_Financial_Group"
+  },
+  {
+    "ticker": "PG",
+    "name": "Procter & Gamble",
+    "sector": "Consumer Staples",
+    "industry": "Personal Care Products",
+    "hqLocation": "Cincinnati, Ohio",
+    "cik": "0000080424",
+    "wikiTitle": "Procter_&_Gamble"
+  },
+  {
+    "ticker": "PGR",
+    "name": "Progressive Corporation",
+    "sector": "Financials",
+    "industry": "Property & Casualty Insurance",
+    "hqLocation": "Mayfield Village, Ohio",
+    "cik": "0000080661",
+    "wikiTitle": "Progressive_Corporation"
+  },
+  {
+    "ticker": "PLD",
+    "name": "Prologis",
+    "sector": "Real Estate",
+    "industry": "Industrial REITs",
+    "hqLocation": "San Francisco, California",
+    "cik": "0001045609",
+    "wikiTitle": "Prologis"
+  },
+  {
+    "ticker": "PRU",
+    "name": "Prudential Financial",
+    "sector": "Financials",
+    "industry": "Life & Health Insurance",
+    "hqLocation": "Newark, New Jersey",
+    "cik": "0001137774",
+    "wikiTitle": "Prudential_Financial"
+  },
+  {
+    "ticker": "PEG",
+    "name": "Public Service Enterprise Group",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hqLocation": "Newark, New Jersey",
+    "cik": "0000788784",
+    "wikiTitle": "Public_Service_Enterprise_Group"
+  },
+  {
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hqLocation": "Boston, Massachusetts",
+    "cik": "0000857005",
+    "wikiTitle": "PTC_(software_company)"
+  },
+  {
+    "ticker": "PSA",
+    "name": "Public Storage",
+    "sector": "Real Estate",
+    "industry": "Self-Storage REITs",
+    "hqLocation": "Glendale, California",
+    "cik": "0001393311",
+    "wikiTitle": "Public_Storage"
+  },
+  {
+    "ticker": "PHM",
+    "name": "PulteGroup",
+    "sector": "Consumer Discretionary",
+    "industry": "Homebuilding",
+    "hqLocation": "Atlanta, Georgia",
+    "cik": "0000822416",
+    "wikiTitle": "PulteGroup"
+  },
+  {
+    "ticker": "PWR",
+    "name": "Quanta Services",
+    "sector": "Industrials",
+    "industry": "Construction & Engineering",
+    "hqLocation": "Houston, Texas",
+    "cik": "0001050915",
+    "wikiTitle": "Quanta_Services"
+  },
+  {
+    "ticker": "QCOM",
+    "name": "Qualcomm",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hqLocation": "San Diego, California",
+    "cik": "0000804328",
+    "wikiTitle": "Qualcomm"
+  },
+  {
+    "ticker": "DGX",
+    "name": "Quest Diagnostics",
+    "sector": "Health Care",
+    "industry": "Health Care Services",
+    "hqLocation": "Secaucus, New Jersey",
+    "cik": "0001022079",
+    "wikiTitle": "Quest_Diagnostics"
+  },
+  {
+    "ticker": "Q",
+    "name": "Qnity Electronics",
+    "sector": "Information Technology",
+    "industry": "Semiconductor Materials & Equipment",
+    "hqLocation": "Wilmington, Delaware",
+    "cik": "0002058873",
+    "wikiTitle": "Qnity_Electronics"
+  },
+  {
+    "ticker": "RL",
+    "name": "Ralph Lauren Corporation",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel, Accessories & Luxury Goods",
+    "hqLocation": "New York City, New York",
+    "cik": "0001037038",
+    "wikiTitle": "Ralph_Lauren_Corporation"
+  },
+  {
+    "ticker": "RJF",
+    "name": "Raymond James Financial",
+    "sector": "Financials",
+    "industry": "Investment Banking & Brokerage",
+    "hqLocation": "St. Petersburg, Florida",
+    "cik": "0000720005",
+    "wikiTitle": "Raymond_James_Financial"
+  },
+  {
+    "ticker": "RDDT",
+    "name": "Reddit",
+    "sector": "Communication Services",
+    "industry": "Interactive Media & Services",
+    "hqLocation": "San Francisco, California",
+    "cik": "0001713445",
+    "wikiTitle": "Reddit"
+  },
+  {
+    "ticker": "RTX",
+    "name": "RTX Corporation",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hqLocation": "Waltham, Massachusetts",
+    "cik": "0000101829",
+    "wikiTitle": "RTX_Corporation"
+  },
+  {
+    "ticker": "O",
+    "name": "Realty Income",
+    "sector": "Real Estate",
+    "industry": "Retail REITs",
+    "hqLocation": "San Diego, California",
+    "cik": "0000726728",
+    "wikiTitle": "Realty_Income"
+  },
+  {
+    "ticker": "REG",
+    "name": "Regency Centers",
+    "sector": "Real Estate",
+    "industry": "Retail REITs",
+    "hqLocation": "Jacksonville, Florida",
+    "cik": "0000910606",
+    "wikiTitle": "Regency_Centers"
+  },
+  {
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hqLocation": "Tarrytown, New York",
+    "cik": "0000872589",
+    "wikiTitle": "Regeneron_Pharmaceuticals"
+  },
+  {
+    "ticker": "RF",
+    "name": "Regions Financial Corporation",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "hqLocation": "Birmingham, Alabama",
+    "cik": "0001281761",
+    "wikiTitle": "Regions_Financial_Corporation"
+  },
+  {
+    "ticker": "RSG",
+    "name": "Republic Services",
+    "sector": "Industrials",
+    "industry": "Environmental & Facilities Services",
+    "hqLocation": "Phoenix, Arizona",
+    "cik": "0001060391",
+    "wikiTitle": "Republic_Services"
+  },
+  {
+    "ticker": "RMD",
+    "name": "ResMed|",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hqLocation": "San Diego, California",
+    "cik": "0000943819",
+    "wikiTitle": "ResMed"
+  },
+  {
+    "ticker": "RVTY",
+    "name": "Revvity",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hqLocation": "Waltham, Massachusetts",
+    "cik": "0000031791",
+    "wikiTitle": "Revvity"
+  },
+  {
+    "ticker": "HOOD",
+    "name": "Robinhood Markets",
+    "sector": "Financials",
+    "industry": "Investment Banking & Brokerage",
+    "hqLocation": "Menlo Park, California",
+    "cik": "0001783879",
+    "wikiTitle": "Robinhood_Markets"
+  },
+  {
+    "ticker": "ROK",
+    "name": "Rockwell Automation",
+    "sector": "Industrials",
+    "industry": "Electrical Components & Equipment",
+    "hqLocation": "Milwaukee, Wisconsin",
+    "cik": "0001024478",
+    "wikiTitle": "Rockwell_Automation"
+  },
+  {
+    "ticker": "ROL",
+    "name": "Rollins, Inc.",
+    "sector": "Industrials",
+    "industry": "Environmental & Facilities Services",
+    "hqLocation": "Atlanta, Georgia",
+    "cik": "0000084839",
+    "wikiTitle": "Rollins,_Inc."
+  },
+  {
+    "ticker": "ROP",
+    "name": "Roper Technologies",
+    "sector": "Information Technology",
+    "industry": "Electronic Equipment & Instruments",
+    "hqLocation": "Sarasota, Florida",
+    "cik": "0000882835",
+    "wikiTitle": "Roper_Technologies"
+  },
+  {
+    "ticker": "ROST",
+    "name": "Ross Stores",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel Retail",
+    "hqLocation": "Dublin, California",
+    "cik": "0000745732",
+    "wikiTitle": "Ross_Stores"
+  },
+  {
+    "ticker": "RCL",
+    "name": "Royal Caribbean Group",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts & Cruise Lines",
+    "hqLocation": "Miami, Florida",
+    "cik": "0000884887",
+    "wikiTitle": "Royal_Caribbean_Group"
+  },
+  {
+    "ticker": "SPGI",
+    "name": "S&P Global",
+    "sector": "Financials",
+    "industry": "Financial Exchanges & Data",
+    "hqLocation": "New York City, New York",
+    "cik": "0000064040",
+    "wikiTitle": "S&P_Global"
+  },
+  {
+    "ticker": "CRM",
+    "name": "Salesforce",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hqLocation": "San Francisco, California",
+    "cik": "0001108524",
+    "wikiTitle": "Salesforce"
+  },
+  {
+    "ticker": "SNDK",
+    "name": "Sandisk",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage & Peripherals",
+    "hqLocation": "Milpitas, California",
+    "cik": "0002023554",
+    "wikiTitle": "Sandisk"
+  },
+  {
+    "ticker": "SBAC",
+    "name": "SBA Communications",
+    "sector": "Real Estate",
+    "industry": "Telecom Tower REITs",
+    "hqLocation": "Boca Raton, Florida",
+    "cik": "0001034054",
+    "wikiTitle": "SBA_Communications"
+  },
+  {
+    "ticker": "SLB",
+    "name": "Schlumberger",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "hqLocation": "Houston, Texas",
+    "cik": "0000087347",
+    "wikiTitle": "Schlumberger"
+  },
+  {
+    "ticker": "STX",
+    "name": "Seagate Technology",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage & Peripherals",
+    "hqLocation": "Dublin, Ireland",
+    "cik": "0001137789",
+    "wikiTitle": "Seagate_Technology"
+  },
+  {
+    "ticker": "SRE",
+    "name": "Sempra",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hqLocation": "San Diego, California",
+    "cik": "0001032208",
+    "wikiTitle": "Sempra"
+  },
+  {
+    "ticker": "NOW",
+    "name": "ServiceNow",
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "hqLocation": "Santa Clara, California",
+    "cik": "0001373715",
+    "wikiTitle": "ServiceNow"
+  },
+  {
+    "ticker": "SHW",
+    "name": "Sherwin-Williams",
+    "sector": "Materials",
+    "industry": "Specialty Chemicals",
+    "hqLocation": "Cleveland, Ohio",
+    "cik": "0000089800",
+    "wikiTitle": "Sherwin-Williams"
+  },
+  {
+    "ticker": "SPG",
+    "name": "Simon Property Group",
+    "sector": "Real Estate",
+    "industry": "Retail REITs",
+    "hqLocation": "Indianapolis, Indiana",
+    "cik": "0001063761",
+    "wikiTitle": "Simon_Property_Group"
+  },
+  {
+    "ticker": "SWKS",
+    "name": "Skyworks Solutions",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hqLocation": "Irvine, California",
+    "cik": "0000004127",
+    "wikiTitle": "Skyworks_Solutions"
+  },
+  {
+    "ticker": "SJM",
+    "name": "J.M. Smucker Company (The)",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hqLocation": "Orrville, Ohio",
+    "cik": "0000091419",
+    "wikiTitle": "The_J.M._Smucker_Company"
+  },
+  {
+    "ticker": "SW",
+    "name": "Smurfit Westrock",
+    "sector": "Materials",
+    "industry": "Paper & Plastic Packaging Products & Materials",
+    "hqLocation": "Dublin, Ireland",
+    "cik": "0002005951",
+    "wikiTitle": "Smurfit_Westrock"
+  },
+  {
+    "ticker": "SNA",
+    "name": "Snap-on",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery & Supplies & Components",
+    "hqLocation": "Kenosha, Wisconsin",
+    "cik": "0000091440",
+    "wikiTitle": "Snap-on"
+  },
+  {
+    "ticker": "SOLV",
+    "name": "Solventum",
+    "sector": "Health Care",
+    "industry": "Health Care Technology",
+    "hqLocation": "Saint Paul, Minnesota",
+    "cik": "0001964738",
+    "wikiTitle": "Solventum"
+  },
+  {
+    "ticker": "SO",
+    "name": "Southern Company",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hqLocation": "Atlanta, Georgia",
+    "cik": "0000092122",
+    "wikiTitle": "Southern_Company"
+  },
+  {
+    "ticker": "LUV",
+    "name": "Southwest Airlines",
+    "sector": "Industrials",
+    "industry": "Passenger Airlines",
+    "hqLocation": "Dallas, Texas",
+    "cik": "0000092380",
+    "wikiTitle": "Southwest_Airlines"
+  },
+  {
+    "ticker": "SWK",
+    "name": "Stanley Black & Decker",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery & Supplies & Components",
+    "hqLocation": "New Britain, Connecticut",
+    "cik": "0000093556",
+    "wikiTitle": "Stanley_Black_&_Decker"
+  },
+  {
+    "ticker": "SBUX",
+    "name": "Starbucks",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "hqLocation": "Seattle, Washington",
+    "cik": "0000829224",
+    "wikiTitle": "Starbucks"
+  },
+  {
+    "ticker": "STT",
+    "name": "State Street Corporation",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hqLocation": "Boston, Massachusetts",
+    "cik": "0000093751",
+    "wikiTitle": "State_Street_Corporation"
+  },
+  {
+    "ticker": "STLD",
+    "name": "Steel Dynamics",
+    "sector": "Materials",
+    "industry": "Steel",
+    "hqLocation": "Fort Wayne, Indiana",
+    "cik": "0001022671",
+    "wikiTitle": "Steel_Dynamics"
+  },
+  {
+    "ticker": "STE",
+    "name": "Steris",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hqLocation": "Dublin, Ireland",
+    "cik": "0001757898",
+    "wikiTitle": "Steris"
+  },
+  {
+    "ticker": "SYK",
+    "name": "Stryker Corporation",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hqLocation": "Kalamazoo, Michigan",
+    "cik": "0000310764",
+    "wikiTitle": "Stryker_Corporation"
+  },
+  {
+    "ticker": "SMCI",
+    "name": "Supermicro",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage & Peripherals",
+    "hqLocation": "San Jose, California",
+    "cik": "0001375365",
+    "wikiTitle": "Supermicro"
+  },
+  {
+    "ticker": "SYF",
+    "name": "Synchrony Financial",
+    "sector": "Financials",
+    "industry": "Consumer Finance",
+    "hqLocation": "Stamford, Connecticut",
+    "cik": "0001601712",
+    "wikiTitle": "Synchrony_Financial"
+  },
+  {
+    "ticker": "SNPS",
+    "name": "Synopsys",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hqLocation": "Sunnyvale, California",
+    "cik": "0000883241",
+    "wikiTitle": "Synopsys"
+  },
+  {
+    "ticker": "SYY",
+    "name": "Sysco",
+    "sector": "Consumer Staples",
+    "industry": "Food Distributors",
+    "hqLocation": "Houston, Texas",
+    "cik": "0000096021",
+    "wikiTitle": "Sysco"
+  },
+  {
+    "ticker": "TMUS",
+    "name": "T-Mobile US",
+    "sector": "Communication Services",
+    "industry": "Wireless Telecommunication Services",
+    "hqLocation": "Bellevue, Washington",
+    "cik": "0001283699",
+    "wikiTitle": "T-Mobile_US"
+  },
+  {
+    "ticker": "TROW",
+    "name": "T. Rowe Price",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hqLocation": "Baltimore, Maryland",
+    "cik": "0001113169",
+    "wikiTitle": "T._Rowe_Price"
+  },
+  {
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive",
+    "sector": "Communication Services",
+    "industry": "Interactive Home Entertainment",
+    "hqLocation": "New York City, New York",
+    "cik": "0000946581",
+    "wikiTitle": "Take-Two_Interactive"
+  },
+  {
+    "ticker": "TPR",
+    "name": "Tapestry, Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel, Accessories & Luxury Goods",
+    "hqLocation": "New York City, New York",
+    "cik": "0001116132",
+    "wikiTitle": "Tapestry,_Inc."
+  },
+  {
+    "ticker": "TRGP",
+    "name": "Targa Resources",
+    "sector": "Energy",
+    "industry": "Oil & Gas Storage & Transportation",
+    "hqLocation": "Houston, Texas",
+    "cik": "0001389170",
+    "wikiTitle": "Targa_Resources"
+  },
+  {
+    "ticker": "TGT",
+    "name": "Target Corporation",
+    "sector": "Consumer Staples",
+    "industry": "Consumer Staples Merchandise Retail",
+    "hqLocation": "Minneapolis, Minnesota",
+    "cik": "0000027419",
+    "wikiTitle": "Target_Corporation"
+  },
+  {
+    "ticker": "TEL",
+    "name": "TE Connectivity",
+    "sector": "Information Technology",
+    "industry": "Electronic Manufacturing Services",
+    "hqLocation": "Galway, Ireland",
+    "cik": "0001385157",
+    "wikiTitle": "TE_Connectivity"
+  },
+  {
+    "ticker": "TDY",
+    "name": "Teledyne Technologies",
+    "sector": "Information Technology",
+    "industry": "Electronic Equipment & Instruments",
+    "hqLocation": "Thousand Oaks, California",
+    "cik": "0001094285",
+    "wikiTitle": "Teledyne_Technologies"
+  },
+  {
+    "ticker": "TER",
+    "name": "Teradyne",
+    "sector": "Information Technology",
+    "industry": "Semiconductor Materials & Equipment",
+    "hqLocation": "North Reading, Massachusetts",
+    "cik": "0000097210",
+    "wikiTitle": "Teradyne"
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla, Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Automobile Manufacturers",
+    "hqLocation": "Austin, Texas",
+    "cik": "0001318605",
+    "wikiTitle": "Tesla,_Inc."
+  },
+  {
+    "ticker": "TXN",
+    "name": "Texas Instruments",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hqLocation": "Dallas, Texas",
+    "cik": "0000097476",
+    "wikiTitle": "Texas_Instruments"
+  },
+  {
+    "ticker": "TPL",
+    "name": "Texas Pacific Land Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hqLocation": "Dallas, Texas",
+    "cik": "0001811074",
+    "wikiTitle": "Texas_Pacific_Land_Corporation"
+  },
+  {
+    "ticker": "TXT",
+    "name": "Textron",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hqLocation": "Providence, Rhode Island",
+    "cik": "0000217346",
+    "wikiTitle": "Textron"
+  },
+  {
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific",
+    "sector": "Health Care",
+    "industry": "Life Sciences Tools & Services",
+    "hqLocation": "Waltham, Massachusetts",
+    "cik": "0000097745",
+    "wikiTitle": "Thermo_Fisher_Scientific"
+  },
+  {
+    "ticker": "TJX",
+    "name": "TJX Companies",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel Retail",
+    "hqLocation": "Framingham, Massachusetts",
+    "cik": "0000109198",
+    "wikiTitle": "TJX_Companies"
+  },
+  {
+    "ticker": "TKO",
+    "name": "TKO Group Holdings",
+    "sector": "Communication Services",
+    "industry": "Movies & Entertainment",
+    "hqLocation": "New York City, New York",
+    "cik": "0001973266",
+    "wikiTitle": "TKO_Group_Holdings"
+  },
+  {
+    "ticker": "TSCO",
+    "name": "Tractor Supply",
+    "sector": "Consumer Discretionary",
+    "industry": "Other Specialty Retail",
+    "hqLocation": "Brentwood, Tennessee",
+    "cik": "0000916365",
+    "wikiTitle": "Tractor_Supply"
+  },
+  {
+    "ticker": "TT",
+    "name": "Trane Technologies",
+    "sector": "Industrials",
+    "industry": "Building Products",
+    "hqLocation": "Dublin, Ireland",
+    "cik": "0001466258",
+    "wikiTitle": "Trane_Technologies"
+  },
+  {
+    "ticker": "TDG",
+    "name": "TransDigm Group",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hqLocation": "Cleveland, Ohio",
+    "cik": "0001260221",
+    "wikiTitle": "TransDigm_Group"
+  },
+  {
+    "ticker": "TRV",
+    "name": "Travelers Companies (The)",
+    "sector": "Financials",
+    "industry": "Property & Casualty Insurance",
+    "hqLocation": "New York City, New York",
+    "cik": "0000086312",
+    "wikiTitle": "The_Travelers_Companies"
+  },
+  {
+    "ticker": "TRMB",
+    "name": "Trimble Inc.",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hqLocation": "Westminster, Colorado",
+    "cik": "0000864749",
+    "wikiTitle": "Trimble_Inc."
+  },
+  {
+    "ticker": "TFC",
+    "name": "Truist Financial",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "hqLocation": "Charlotte, North Carolina",
+    "cik": "0000092230",
+    "wikiTitle": "Truist_Financial"
+  },
+  {
+    "ticker": "TYL",
+    "name": "Tyler Technologies",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hqLocation": "Plano, Texas",
+    "cik": "0000860731",
+    "wikiTitle": "Tyler_Technologies"
+  },
+  {
+    "ticker": "TSN",
+    "name": "Tyson Foods",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hqLocation": "Springdale, Arkansas",
+    "cik": "0000100493",
+    "wikiTitle": "Tyson_Foods"
+  },
+  {
+    "ticker": "USB",
+    "name": "U.S. Bancorp",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "hqLocation": "Minneapolis, Minnesota",
+    "cik": "0000036104",
+    "wikiTitle": "U.S._Bancorp"
+  },
+  {
+    "ticker": "UBER",
+    "name": "Uber",
+    "sector": "Industrials",
+    "industry": "Passenger Ground Transportation",
+    "hqLocation": "San Francisco, California",
+    "cik": "0001543151",
+    "wikiTitle": "Uber"
+  },
+  {
+    "ticker": "UDR",
+    "name": "UDR, Inc.",
+    "sector": "Real Estate",
+    "industry": "Multi-Family Residential REITs",
+    "hqLocation": "Highlands Ranch, Colorado",
+    "cik": "0000074208",
+    "wikiTitle": "UDR,_Inc."
+  },
+  {
+    "ticker": "ULTA",
+    "name": "Ulta Beauty",
+    "sector": "Consumer Discretionary",
+    "industry": "Other Specialty Retail",
+    "hqLocation": "Bolingbrook, Illinois",
+    "cik": "0001403568",
+    "wikiTitle": "Ulta_Beauty"
+  },
+  {
+    "ticker": "UNP",
+    "name": "Union Pacific Corporation",
+    "sector": "Industrials",
+    "industry": "Rail Transportation",
+    "hqLocation": "Omaha, Nebraska",
+    "cik": "0000100885",
+    "wikiTitle": "Union_Pacific_Corporation"
+  },
+  {
+    "ticker": "UAL",
+    "name": "United Airlines Holdings",
+    "sector": "Industrials",
+    "industry": "Passenger Airlines",
+    "hqLocation": "Chicago, Illinois",
+    "cik": "0000100517",
+    "wikiTitle": "United_Airlines_Holdings"
+  },
+  {
+    "ticker": "UPS",
+    "name": "United Parcel Service",
+    "sector": "Industrials",
+    "industry": "Air Freight & Logistics",
+    "hqLocation": "Sandy Springs, Georgia",
+    "cik": "0001090727",
+    "wikiTitle": "United_Parcel_Service"
+  },
+  {
+    "ticker": "URI",
+    "name": "United Rentals",
+    "sector": "Industrials",
+    "industry": "Trading Companies & Distributors",
+    "hqLocation": "Stamford, Connecticut",
+    "cik": "0001067701",
+    "wikiTitle": "United_Rentals"
+  },
+  {
+    "ticker": "UNH",
+    "name": "UnitedHealth Group",
+    "sector": "Health Care",
+    "industry": "Managed Health Care",
+    "hqLocation": "Eden Prairie, Minnesota",
+    "cik": "0000731766",
+    "wikiTitle": "UnitedHealth_Group"
+  },
+  {
+    "ticker": "UHS",
+    "name": "Universal Health Services",
+    "sector": "Health Care",
+    "industry": "Health Care Facilities",
+    "hqLocation": "King of Prussia, Pennsylvania",
+    "cik": "0000352915",
+    "wikiTitle": "Universal_Health_Services"
+  },
+  {
+    "ticker": "VLO",
+    "name": "Valero Energy",
+    "sector": "Energy",
+    "industry": "Oil & Gas Refining & Marketing",
+    "hqLocation": "San Antonio, Texas",
+    "cik": "0001035002",
+    "wikiTitle": "Valero_Energy"
+  },
+  {
+    "ticker": "VEEV",
+    "name": "Veeva Systems",
+    "sector": "Health Care",
+    "industry": "Health Care Technology",
+    "hqLocation": "Pleasanton, California",
+    "cik": "0001393052",
+    "wikiTitle": "Veeva_Systems"
+  },
+  {
+    "ticker": "VTR",
+    "name": "Ventas",
+    "sector": "Real Estate",
+    "industry": "Health Care REITs",
+    "hqLocation": "Chicago, Illinois",
+    "cik": "0000740260",
+    "wikiTitle": "Ventas_(company)"
+  },
+  {
+    "ticker": "VLTO",
+    "name": "Veralto",
+    "sector": "Industrials",
+    "industry": "Environmental & Facilities Services",
+    "hqLocation": "Waltham, Massachusetts",
+    "cik": "0001967680",
+    "wikiTitle": "Veralto"
+  },
+  {
+    "ticker": "VRSN",
+    "name": "Verisign",
+    "sector": "Information Technology",
+    "industry": "Internet Services & Infrastructure",
+    "hqLocation": "Reston, Virginia",
+    "cik": "0001014473",
+    "wikiTitle": "Verisign"
+  },
+  {
+    "ticker": "VRSK",
+    "name": "Verisk Analytics",
+    "sector": "Industrials",
+    "industry": "Research & Consulting Services",
+    "hqLocation": "Jersey City, New Jersey",
+    "cik": "0001442145",
+    "wikiTitle": "Verisk_Analytics"
+  },
+  {
+    "ticker": "VZ",
+    "name": "Verizon",
+    "sector": "Communication Services",
+    "industry": "Integrated Telecommunication Services",
+    "hqLocation": "New York City, New York",
+    "cik": "0000732712",
+    "wikiTitle": "Verizon"
+  },
+  {
+    "ticker": "VRTX",
+    "name": "Vertex Pharmaceuticals",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hqLocation": "Boston, Massachusetts",
+    "cik": "0000875320",
+    "wikiTitle": "Vertex_Pharmaceuticals"
+  },
+  {
+    "ticker": "VRT",
+    "name": "Vertiv",
+    "sector": "Industrials",
+    "industry": "Electrical Components & Equipment",
+    "hqLocation": "Westerville, Ohio",
+    "cik": "0001674101",
+    "wikiTitle": "Vertiv"
+  },
+  {
+    "ticker": "VTRS",
+    "name": "Viatris",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hqLocation": "Pittsburgh, Pennsylvania",
+    "cik": "0001792044",
+    "wikiTitle": "Viatris"
+  },
+  {
+    "ticker": "VICI",
+    "name": "Vici Properties",
+    "sector": "Real Estate",
+    "industry": "Hotel & Resort REITs",
+    "hqLocation": "New York City, New York",
+    "cik": "0001705696",
+    "wikiTitle": "Vici_Properties"
+  },
+  {
+    "ticker": "V",
+    "name": "Visa Inc.",
+    "sector": "Financials",
+    "industry": "Transaction & Payment Processing Services",
+    "hqLocation": "San Francisco, California",
+    "cik": "0001403161",
+    "wikiTitle": "Visa_Inc."
+  },
+  {
+    "ticker": "VST",
+    "name": "Vistra Corp.",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hqLocation": "Irving, Texas",
+    "cik": "0001692819",
+    "wikiTitle": "Vistra_Corp"
+  },
+  {
+    "ticker": "VMRK",
+    "name": "Vivmark Residential",
+    "sector": "Real Estate",
+    "industry": "Multi-Family Residential REITs",
+    "hqLocation": "Chicago, Illinois",
+    "cik": "0000906107",
+    "wikiTitle": "Vivmark_Residential"
+  },
+  {
+    "ticker": "VMC",
+    "name": "Vulcan Materials Company",
+    "sector": "Materials",
+    "industry": "Construction Materials",
+    "hqLocation": "Birmingham, Alabama",
+    "cik": "0001396009",
+    "wikiTitle": "Vulcan_Materials_Company"
+  },
+  {
+    "ticker": "WRB",
+    "name": "W. R. Berkley Corporation",
+    "sector": "Financials",
+    "industry": "Property & Casualty Insurance",
+    "hqLocation": "Greenwich, Connecticut",
+    "cik": "0000011544",
+    "wikiTitle": "W._R._Berkley_Corporation"
+  },
+  {
+    "ticker": "GWW",
+    "name": "W. W. Grainger",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery & Supplies & Components",
+    "hqLocation": "Lake Forest, Illinois",
+    "cik": "0000277135",
+    "wikiTitle": "W._W._Grainger"
+  },
+  {
+    "ticker": "WAB",
+    "name": "Wabtec",
+    "sector": "Industrials",
+    "industry": "Construction Machinery & Heavy Transportation Equipment",
+    "hqLocation": "Pittsburgh, Pennsylvania",
+    "cik": "0000943452",
+    "wikiTitle": "Wabtec"
+  },
+  {
+    "ticker": "WMT",
+    "name": "Walmart",
+    "sector": "Consumer Staples",
+    "industry": "Consumer Staples Merchandise Retail",
+    "hqLocation": "Bentonville, Arkansas",
+    "cik": "0000104169",
+    "wikiTitle": "Walmart"
+  },
+  {
+    "ticker": "DIS",
+    "name": "Walt Disney Company (The)",
+    "sector": "Communication Services",
+    "industry": "Movies & Entertainment",
+    "hqLocation": "Burbank, California",
+    "cik": "0001744489",
+    "wikiTitle": "The_Walt_Disney_Company"
+  },
+  {
+    "ticker": "WBD",
+    "name": "Warner Bros. Discovery",
+    "sector": "Communication Services",
+    "industry": "Broadcasting",
+    "hqLocation": "New York City, New York",
+    "cik": "0001437107",
+    "wikiTitle": "Warner_Bros._Discovery"
+  },
+  {
+    "ticker": "WM",
+    "name": "Waste Management",
+    "sector": "Industrials",
+    "industry": "Environmental & Facilities Services",
+    "hqLocation": "Houston, Texas",
+    "cik": "0000823768",
+    "wikiTitle": "Waste_Management,_Inc."
+  },
+  {
+    "ticker": "WAT",
+    "name": "Waters Corporation",
+    "sector": "Health Care",
+    "industry": "Life Sciences Tools & Services",
+    "hqLocation": "Milford, Massachusetts",
+    "cik": "0001000697",
+    "wikiTitle": "Waters_Corporation"
+  },
+  {
+    "ticker": "WEC",
+    "name": "WEC Energy Group",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hqLocation": "Milwaukee, Wisconsin",
+    "cik": "0000783325",
+    "wikiTitle": "WEC_Energy_Group"
+  },
+  {
+    "ticker": "WFC",
+    "name": "Wells Fargo",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "hqLocation": "San Francisco, California",
+    "cik": "0000072971",
+    "wikiTitle": "Wells_Fargo"
+  },
+  {
+    "ticker": "WELL",
+    "name": "Welltower",
+    "sector": "Real Estate",
+    "industry": "Health Care REITs",
+    "hqLocation": "Toledo, Ohio",
+    "cik": "0000766704",
+    "wikiTitle": "Welltower"
+  },
+  {
+    "ticker": "WST",
+    "name": "West Pharmaceutical Services",
+    "sector": "Health Care",
+    "industry": "Health Care Supplies",
+    "hqLocation": "Exton, Pennsylvania",
+    "cik": "0000105770",
+    "wikiTitle": "West_Pharmaceutical_Services"
+  },
+  {
+    "ticker": "WDC",
+    "name": "Western Digital",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage & Peripherals",
+    "hqLocation": "San Jose, California",
+    "cik": "0000106040",
+    "wikiTitle": "Western_Digital"
+  },
+  {
+    "ticker": "WY",
+    "name": "Weyerhaeuser",
+    "sector": "Real Estate",
+    "industry": "Timber REITs",
+    "hqLocation": "Seattle, Washington",
+    "cik": "0000106535",
+    "wikiTitle": "Weyerhaeuser"
+  },
+  {
+    "ticker": "WSM",
+    "name": "Williams-Sonoma, Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Homefurnishing Retail",
+    "hqLocation": "San Francisco, California",
+    "cik": "0000719955",
+    "wikiTitle": "Williams-Sonoma,_Inc."
+  },
+  {
+    "ticker": "WMB",
+    "name": "Williams Companies",
+    "sector": "Energy",
+    "industry": "Oil & Gas Storage & Transportation",
+    "hqLocation": "Tulsa, Oklahoma",
+    "cik": "0000107263",
+    "wikiTitle": "Williams_Companies"
+  },
+  {
+    "ticker": "WTW",
+    "name": "Willis Towers Watson",
+    "sector": "Financials",
+    "industry": "Insurance Brokers",
+    "hqLocation": "London, United Kingdom",
+    "cik": "0001140536",
+    "wikiTitle": "Willis_Towers_Watson"
+  },
+  {
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hqLocation": "Pleasanton, California",
+    "cik": "0001327811",
+    "wikiTitle": "Workday,_Inc."
+  },
+  {
+    "ticker": "WYNN",
+    "name": "Wynn Resorts",
+    "sector": "Consumer Discretionary",
+    "industry": "Casinos & Gaming",
+    "hqLocation": "Paradise, Nevada",
+    "cik": "0001174922",
+    "wikiTitle": "Wynn_Resorts"
+  },
+  {
+    "ticker": "XEL",
+    "name": "Xcel Energy",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hqLocation": "Minneapolis, Minnesota",
+    "cik": "0000072903",
+    "wikiTitle": "Xcel_Energy"
+  },
+  {
+    "ticker": "XYL",
+    "name": "Xylem Inc.",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery & Supplies & Components",
+    "hqLocation": "White Plains, New York",
+    "cik": "0001524472",
+    "wikiTitle": "Xylem_Inc."
+  },
+  {
+    "ticker": "YUM",
+    "name": "Yum! Brands",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "hqLocation": "Louisville, Kentucky",
+    "cik": "0001041061",
+    "wikiTitle": "Yum!_Brands"
+  },
+  {
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies",
+    "sector": "Information Technology",
+    "industry": "Electronic Equipment & Instruments",
+    "hqLocation": "Lincolnshire, Illinois",
+    "cik": "0000877212",
+    "wikiTitle": "Zebra_Technologies"
+  },
+  {
+    "ticker": "ZBH",
+    "name": "Zimmer Biomet",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hqLocation": "Warsaw, Indiana",
+    "cik": "0001136869",
+    "wikiTitle": "Zimmer_Biomet"
+  },
+  {
+    "ticker": "ZTS",
+    "name": "Zoetis",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hqLocation": "Parsippany, New Jersey",
+    "cik": "0001555280",
+    "wikiTitle": "Zoetis"
+  }
+]

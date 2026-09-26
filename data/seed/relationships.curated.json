@@ -1,0 +1,4162 @@
+[
+  {
+    "id": "tsm__supplier__aapl",
+    "source": "TSM",
+    "target": "AAPL",
+    "type": "supplier",
+    "weight": 0.95,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://investor.tsmc.com/english",
+        "note": "Manufactures Apple-designed A-series and M-series processors on leading-edge nodes.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "tsm__supplier__nvda",
+    "source": "TSM",
+    "target": "NVDA",
+    "type": "supplier",
+    "weight": 0.95,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://investor.tsmc.com/english",
+        "note": "Fabricates Nvidia data-center GPUs, including CoWoS advanced packaging.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "tsm__supplier__amd",
+    "source": "TSM",
+    "target": "AMD",
+    "type": "supplier",
+    "weight": 0.9,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://investor.tsmc.com/english",
+        "note": "Primary foundry for AMD CPUs and GPUs.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "tsm__supplier__qcom",
+    "source": "TSM",
+    "target": "QCOM",
+    "type": "supplier",
+    "weight": 0.75,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://investor.tsmc.com/english",
+        "note": "Manufactures Snapdragon system-on-chips.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "tsm__supplier__avgo",
+    "source": "TSM",
+    "target": "AVGO",
+    "type": "supplier",
+    "weight": 0.75,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://investor.tsmc.com/english",
+        "note": "Foundry for Broadcom custom ASICs and networking silicon.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "tsm__supplier__intc",
+    "source": "TSM",
+    "target": "INTC",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://investor.tsmc.com/english",
+        "note": "Produces some compute tiles for Intel client processors.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "asml__supplier__tsm",
+    "source": "ASML",
+    "target": "TSM",
+    "type": "supplier",
+    "weight": 0.9,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.asml.com/en/investors",
+        "note": "Sole supplier of EUV lithography systems used in TSMC's advanced nodes.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "asml__supplier__intc",
+    "source": "ASML",
+    "target": "INTC",
+    "type": "supplier",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.asml.com/en/investors",
+        "note": "Supplies EUV and High-NA EUV lithography tools.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "asml__supplier__005930.ks",
+    "source": "ASML",
+    "target": "005930.KS",
+    "type": "supplier",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.asml.com/en/investors",
+        "note": "Supplies EUV lithography for memory and foundry fabs.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "asml__supplier__mu",
+    "source": "ASML",
+    "target": "MU",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.asml.com/en/investors",
+        "note": "Supplies lithography systems for DRAM production.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "asml__supplier__000660.ks",
+    "source": "ASML",
+    "target": "000660.KS",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.asml.com/en/investors",
+        "note": "Supplies EUV lithography for DRAM production.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amat__supplier__tsm",
+    "source": "AMAT",
+    "target": "TSM",
+    "type": "supplier",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMAT&type=10-K",
+        "note": "Deposition and etch equipment for wafer fabs.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amat__supplier__intc",
+    "source": "AMAT",
+    "target": "INTC",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMAT&type=10-K",
+        "note": "Wafer fabrication equipment customer.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amat__supplier__005930.ks",
+    "source": "AMAT",
+    "target": "005930.KS",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMAT&type=10-K",
+        "note": "Wafer fabrication equipment customer.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "lrcx__supplier__tsm",
+    "source": "LRCX",
+    "target": "TSM",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LRCX&type=10-K",
+        "note": "Etch and deposition equipment.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "lrcx__supplier__005930.ks",
+    "source": "LRCX",
+    "target": "005930.KS",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LRCX&type=10-K",
+        "note": "Etch and deposition equipment for memory fabs.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "lrcx__supplier__mu",
+    "source": "LRCX",
+    "target": "MU",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LRCX&type=10-K",
+        "note": "Etch and deposition equipment for memory fabs.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "klac__supplier__tsm",
+    "source": "KLAC",
+    "target": "TSM",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KLAC&type=10-K",
+        "note": "Process control and inspection systems.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "klac__supplier__intc",
+    "source": "KLAC",
+    "target": "INTC",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KLAC&type=10-K",
+        "note": "Process control and inspection systems.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "000660.ks__supplier__nvda",
+    "source": "000660.KS",
+    "target": "NVDA",
+    "type": "supplier",
+    "weight": 0.85,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.skhynix.com/ir/",
+        "note": "Leading supplier of HBM memory stacked alongside Nvidia GPUs.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "mu__supplier__nvda",
+    "source": "MU",
+    "target": "NVDA",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MU&type=10-K",
+        "note": "Supplies HBM3E memory for Nvidia accelerators.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "005930.ks__supplier__nvda",
+    "source": "005930.KS",
+    "target": "NVDA",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.samsung.com/global/ir/",
+        "note": "Supplies memory products to Nvidia.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "005930.ks__supplier__aapl",
+    "source": "005930.KS",
+    "target": "AAPL",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.samsung.com/global/ir/",
+        "note": "Supplies OLED displays and memory for iPhone.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "2317.tw__supplier__aapl",
+    "source": "2317.TW",
+    "target": "AAPL",
+    "type": "supplier",
+    "weight": 0.95,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.honhai.com/en-us/investor-relations",
+        "note": "Largest assembler of iPhone.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "2317.tw__supplier__nvda",
+    "source": "2317.TW",
+    "target": "NVDA",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.honhai.com/en-us/investor-relations",
+        "note": "Assembles AI server racks built on Nvidia platforms.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "avgo__supplier__aapl",
+    "source": "AVGO",
+    "target": "AAPL",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVGO&type=10-K",
+        "note": "Supplies wireless and RF components under multi-year agreements.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "qcom__supplier__aapl",
+    "source": "QCOM",
+    "target": "AAPL",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=QCOM&type=10-K",
+        "note": "Supplies cellular modems for iPhone.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "avgo__supplier__googl",
+    "source": "AVGO",
+    "target": "GOOGL",
+    "type": "supplier",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVGO&type=10-K",
+        "note": "Co-develops Google's TPU AI accelerators.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "avgo__supplier__meta",
+    "source": "AVGO",
+    "target": "META",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVGO&type=10-K",
+        "note": "Custom AI accelerator partner for Meta.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "arm__supplier__aapl",
+    "source": "ARM",
+    "target": "AAPL",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://investors.arm.com/",
+        "note": "Licenses the Arm architecture used in Apple silicon.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "arm__supplier__qcom",
+    "source": "ARM",
+    "target": "QCOM",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://investors.arm.com/",
+        "note": "Architecture licensor to Qualcomm (subject of litigation).",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "arm__supplier__nvda",
+    "source": "ARM",
+    "target": "NVDA",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://investors.arm.com/",
+        "note": "Arm cores power Nvidia's Grace CPU.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "arm__supplier__amzn",
+    "source": "ARM",
+    "target": "AMZN",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://investors.arm.com/",
+        "note": "Arm architecture underpins AWS Graviton processors.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "arm__supplier__005930.ks",
+    "source": "ARM",
+    "target": "005930.KS",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://investors.arm.com/",
+        "note": "Licenses Arm cores for Exynos processors.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "glw__supplier__aapl",
+    "source": "GLW",
+    "target": "AAPL",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GLW&type=10-K",
+        "note": "Supplies cover glass; Apple has invested in Corning via its Advanced Manufacturing Fund.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "txn__supplier__aapl",
+    "source": "TXN",
+    "target": "AAPL",
+    "type": "supplier",
+    "weight": 0.3,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TXN&type=10-K",
+        "note": "Supplies analog and power management chips.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "aph__supplier__nvda",
+    "source": "APH",
+    "target": "NVDA",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APH&type=10-K",
+        "note": "High-speed interconnect supplier for AI server racks.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "nvda__supplier__msft",
+    "source": "NVDA",
+    "target": "MSFT",
+    "type": "supplier",
+    "weight": 0.9,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVDA&type=10-K",
+        "note": "Major buyer of Nvidia GPUs for Azure AI infrastructure.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "nvda__supplier__meta",
+    "source": "NVDA",
+    "target": "META",
+    "type": "supplier",
+    "weight": 0.85,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVDA&type=10-K",
+        "note": "Major buyer of Nvidia GPUs for AI training clusters.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "nvda__supplier__googl",
+    "source": "NVDA",
+    "target": "GOOGL",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVDA&type=10-K",
+        "note": "Buys Nvidia GPUs for Google Cloud alongside in-house TPUs.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "nvda__supplier__amzn",
+    "source": "NVDA",
+    "target": "AMZN",
+    "type": "supplier",
+    "weight": 0.75,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVDA&type=10-K",
+        "note": "Buys Nvidia GPUs for AWS alongside in-house Trainium.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "nvda__supplier__orcl",
+    "source": "NVDA",
+    "target": "ORCL",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVDA&type=10-K",
+        "note": "Buys Nvidia GPUs for Oracle Cloud Infrastructure.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "nvda__supplier__tsla",
+    "source": "NVDA",
+    "target": "TSLA",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVDA&type=10-K",
+        "note": "Nvidia GPUs used for Tesla AI training.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "nvda__supplier__dell",
+    "source": "NVDA",
+    "target": "DELL",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVDA&type=10-K",
+        "note": "Dell builds and sells AI servers on Nvidia platforms.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "nvda__supplier__smci",
+    "source": "NVDA",
+    "target": "SMCI",
+    "type": "supplier",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVDA&type=10-K",
+        "note": "Supermicro builds GPU servers on Nvidia platforms.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "nvda__supplier__hpe",
+    "source": "NVDA",
+    "target": "HPE",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVDA&type=10-K",
+        "note": "HPE sells AI systems built on Nvidia platforms.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "nvda__supplier__openai",
+    "source": "NVDA",
+    "target": "openai",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVDA&type=10-K",
+        "note": "Supplies GPUs used to train and serve OpenAI models.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "nvda__investor__openai",
+    "source": "NVDA",
+    "target": "openai",
+    "type": "investor",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVDA&type=10-K",
+        "note": "Announced a strategic investment in OpenAI tied to data-center buildout.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "nvda__investor__intc",
+    "source": "NVDA",
+    "target": "INTC",
+    "type": "investor",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVDA&type=10-K",
+        "note": "Announced a $5B equity investment and product collaboration with Intel.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amd__supplier__msft",
+    "source": "AMD",
+    "target": "MSFT",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMD&type=10-K",
+        "note": "Supplies Instinct GPUs and EPYC CPUs for Azure.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amd__supplier__meta",
+    "source": "AMD",
+    "target": "META",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMD&type=10-K",
+        "note": "Supplies Instinct GPUs and EPYC CPUs.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amd__supplier__orcl",
+    "source": "AMD",
+    "target": "ORCL",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMD&type=10-K",
+        "note": "Supplies Instinct GPUs for Oracle Cloud.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amd__supplier__openai",
+    "source": "AMD",
+    "target": "openai",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMD&type=10-K",
+        "note": "Announced a multi-generation GPU supply agreement.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amd__supplier__sony",
+    "source": "AMD",
+    "target": "SONY",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMD&type=10-K",
+        "note": "Designs the custom processor in PlayStation 5.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amd__supplier__dell",
+    "source": "AMD",
+    "target": "DELL",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMD&type=10-K",
+        "note": "CPU and GPU supplier for Dell servers and PCs.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "intc__supplier__dell",
+    "source": "INTC",
+    "target": "DELL",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTC&type=10-K",
+        "note": "Primary CPU supplier for Dell PCs and servers.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "intc__supplier__hpe",
+    "source": "INTC",
+    "target": "HPE",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTC&type=10-K",
+        "note": "CPU supplier for HPE servers.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "msft__investor__openai",
+    "source": "MSFT",
+    "target": "openai",
+    "type": "investor",
+    "weight": 0.95,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MSFT&type=10-K",
+        "note": "Largest investor in OpenAI.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "msft__supplier__openai",
+    "source": "MSFT",
+    "target": "openai",
+    "type": "supplier",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MSFT&type=10-K",
+        "note": "Azure is a primary compute provider for OpenAI.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "orcl__supplier__openai",
+    "source": "ORCL",
+    "target": "openai",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ORCL&type=10-K",
+        "note": "Provides cloud compute capacity to OpenAI, including Stargate sites.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amzn__investor__anthropic",
+    "source": "AMZN",
+    "target": "anthropic",
+    "type": "investor",
+    "weight": 0.85,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMZN&type=10-K",
+        "note": "Invested $8B in Anthropic.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "googl__investor__anthropic",
+    "source": "GOOGL",
+    "target": "anthropic",
+    "type": "investor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GOOGL&type=10-K",
+        "note": "Holds a significant minority stake in Anthropic.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amzn__supplier__anthropic",
+    "source": "AMZN",
+    "target": "anthropic",
+    "type": "supplier",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMZN&type=10-K",
+        "note": "AWS is Anthropic's primary cloud and training partner (Trainium).",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "googl__supplier__anthropic",
+    "source": "GOOGL",
+    "target": "anthropic",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GOOGL&type=10-K",
+        "note": "Supplies Google Cloud TPU capacity to Anthropic.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "msft__competitor__googl",
+    "source": "MSFT",
+    "target": "GOOGL",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MSFT&type=10-K",
+        "note": "Compete in cloud, productivity software and AI.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amzn__competitor__msft",
+    "source": "AMZN",
+    "target": "MSFT",
+    "type": "competitor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMZN&type=10-K",
+        "note": "AWS and Azure compete for cloud infrastructure.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "googl__competitor__amzn",
+    "source": "GOOGL",
+    "target": "AMZN",
+    "type": "competitor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GOOGL&type=10-K",
+        "note": "Google Cloud competes with AWS; also compete in advertising.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "orcl__competitor__amzn",
+    "source": "ORCL",
+    "target": "AMZN",
+    "type": "competitor",
+    "weight": 0.4,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ORCL&type=10-K",
+        "note": "Oracle Cloud competes with AWS.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "openai__competitor__googl",
+    "source": "openai",
+    "target": "GOOGL",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://openai.com/news/",
+        "note": "Compete in frontier AI models and assistants.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "anthropic__competitor__openai",
+    "source": "anthropic",
+    "target": "openai",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.anthropic.com/news",
+        "note": "Compete in frontier AI models.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "crm__competitor__msft",
+    "source": "CRM",
+    "target": "MSFT",
+    "type": "competitor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CRM&type=10-K",
+        "note": "Compete in CRM and business applications.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "sap__partner__msft",
+    "source": "SAP",
+    "target": "MSFT",
+    "type": "partner",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sap.com/investors/en.html",
+        "note": "Strategic cloud partnership (RISE with SAP on Azure).",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "sap__competitor__orcl",
+    "source": "SAP",
+    "target": "ORCL",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sap.com/investors/en.html",
+        "note": "Compete in enterprise resource planning software.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "now__competitor__crm",
+    "source": "NOW",
+    "target": "CRM",
+    "type": "competitor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NOW&type=10-K",
+        "note": "Compete in enterprise workflow and service management.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "now__partner__nvda",
+    "source": "NOW",
+    "target": "NVDA",
+    "type": "partner",
+    "weight": 0.4,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NOW&type=10-K",
+        "note": "Joint generative-AI development partnership.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amzn__supplier__intu",
+    "source": "AMZN",
+    "target": "INTU",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMZN&type=10-K",
+        "note": "AWS is Intuit's primary cloud provider.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amzn__supplier__nflx",
+    "source": "AMZN",
+    "target": "NFLX",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMZN&type=10-K",
+        "note": "Netflix runs most of its infrastructure on AWS.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amzn__supplier__crm",
+    "source": "AMZN",
+    "target": "CRM",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMZN&type=10-K",
+        "note": "Salesforce uses AWS as a preferred public cloud.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "nflx__competitor__dis",
+    "source": "NFLX",
+    "target": "DIS",
+    "type": "competitor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NFLX&type=10-K",
+        "note": "Compete in streaming video.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "nflx__competitor__wbd",
+    "source": "NFLX",
+    "target": "WBD",
+    "type": "competitor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NFLX&type=10-K",
+        "note": "Compete in streaming video.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "panw__competitor__csco",
+    "source": "PANW",
+    "target": "CSCO",
+    "type": "competitor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PANW&type=10-K",
+        "note": "Compete in network security.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "csco__competitor__anet",
+    "source": "CSCO",
+    "target": "ANET",
+    "type": "competitor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CSCO&type=10-K",
+        "note": "Compete in data-center networking.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "csco__competitor__hpe",
+    "source": "CSCO",
+    "target": "HPE",
+    "type": "competitor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CSCO&type=10-K",
+        "note": "Compete in enterprise networking.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "anet__supplier__msft",
+    "source": "ANET",
+    "target": "MSFT",
+    "type": "supplier",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ANET&type=10-K",
+        "note": "Microsoft is Arista's largest customer.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "anet__supplier__meta",
+    "source": "ANET",
+    "target": "META",
+    "type": "supplier",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ANET&type=10-K",
+        "note": "Meta is one of Arista's largest customers.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "dell__competitor__hpe",
+    "source": "DELL",
+    "target": "HPE",
+    "type": "competitor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DELL&type=10-K",
+        "note": "Compete in servers and storage.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "smci__competitor__dell",
+    "source": "SMCI",
+    "target": "DELL",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SMCI&type=10-K",
+        "note": "Compete in AI server systems.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "aapl__competitor__005930.ks",
+    "source": "AAPL",
+    "target": "005930.KS",
+    "type": "competitor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL&type=10-K",
+        "note": "Compete in smartphones.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "aapl__competitor__googl",
+    "source": "AAPL",
+    "target": "GOOGL",
+    "type": "competitor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL&type=10-K",
+        "note": "Compete in mobile operating systems.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "googl__partner__aapl",
+    "source": "GOOGL",
+    "target": "AAPL",
+    "type": "partner",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GOOGL&type=10-K",
+        "note": "Google pays Apple to be the default search engine in Safari.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "aapl__partner__openai",
+    "source": "AAPL",
+    "target": "openai",
+    "type": "partner",
+    "weight": 0.3,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL&type=10-K",
+        "note": "ChatGPT integration in Apple Intelligence.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "ibm__competitor__msft",
+    "source": "IBM",
+    "target": "MSFT",
+    "type": "competitor",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IBM&type=10-K",
+        "note": "Compete in hybrid cloud and enterprise AI.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "ibm__competitor__orcl",
+    "source": "IBM",
+    "target": "ORCL",
+    "type": "competitor",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IBM&type=10-K",
+        "note": "Compete in enterprise databases and software.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amd__competitor__nvda",
+    "source": "AMD",
+    "target": "NVDA",
+    "type": "competitor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMD&type=10-K",
+        "note": "Compete in data-center GPUs.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amd__competitor__intc",
+    "source": "AMD",
+    "target": "INTC",
+    "type": "competitor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMD&type=10-K",
+        "note": "Compete in PC and server CPUs.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "intc__competitor__nvda",
+    "source": "INTC",
+    "target": "NVDA",
+    "type": "competitor",
+    "weight": 0.4,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTC&type=10-K",
+        "note": "Compete in AI accelerators.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "intc__competitor__tsm",
+    "source": "INTC",
+    "target": "TSM",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTC&type=10-K",
+        "note": "Intel Foundry competes with TSMC.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "005930.ks__competitor__tsm",
+    "source": "005930.KS",
+    "target": "TSM",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.samsung.com/global/ir/",
+        "note": "Samsung Foundry competes with TSMC.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "mu__competitor__005930.ks",
+    "source": "MU",
+    "target": "005930.KS",
+    "type": "competitor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MU&type=10-K",
+        "note": "Compete in DRAM and NAND.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "mu__competitor__000660.ks",
+    "source": "MU",
+    "target": "000660.KS",
+    "type": "competitor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MU&type=10-K",
+        "note": "Compete in DRAM and HBM.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "000660.ks__competitor__005930.ks",
+    "source": "000660.KS",
+    "target": "005930.KS",
+    "type": "competitor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.skhynix.com/ir/",
+        "note": "Compete in DRAM and HBM.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amat__competitor__lrcx",
+    "source": "AMAT",
+    "target": "LRCX",
+    "type": "competitor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMAT&type=10-K",
+        "note": "Compete in etch and deposition equipment.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "klac__competitor__amat",
+    "source": "KLAC",
+    "target": "AMAT",
+    "type": "competitor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KLAC&type=10-K",
+        "note": "Compete in process control and inspection.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "avgo__competitor__nvda",
+    "source": "AVGO",
+    "target": "NVDA",
+    "type": "competitor",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVGO&type=10-K",
+        "note": "Compete in AI networking and custom accelerators.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "qcom__supplier__005930.ks",
+    "source": "QCOM",
+    "target": "005930.KS",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=QCOM&type=10-K",
+        "note": "Supplies Snapdragon processors for Galaxy phones.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "qcom__supplier__meta",
+    "source": "QCOM",
+    "target": "META",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=QCOM&type=10-K",
+        "note": "Supplies chips for Quest headsets and smart glasses.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "tsla__competitor__gm",
+    "source": "TSLA",
+    "target": "GM",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSLA&type=10-K",
+        "note": "Compete in electric vehicles.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "tsla__competitor__f",
+    "source": "TSLA",
+    "target": "F",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSLA&type=10-K",
+        "note": "Compete in electric vehicles.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "gm__competitor__f",
+    "source": "GM",
+    "target": "F",
+    "type": "competitor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GM&type=10-K",
+        "note": "Compete across U.S. autos and trucks.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "tm__competitor__gm",
+    "source": "TM",
+    "target": "GM",
+    "type": "competitor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://global.toyota/en/ir/",
+        "note": "Compete in the U.S. auto market.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "tm__competitor__f",
+    "source": "TM",
+    "target": "F",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://global.toyota/en/ir/",
+        "note": "Compete in the U.S. auto market.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "tm__competitor__tsla",
+    "source": "TM",
+    "target": "TSLA",
+    "type": "competitor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://global.toyota/en/ir/",
+        "note": "Compete in vehicles, including EVs.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "sony__supplier__aapl",
+    "source": "SONY",
+    "target": "AAPL",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sony.com/en/SonyInfo/IR/",
+        "note": "Supplies CMOS image sensors for iPhone cameras.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "sony__competitor__msft",
+    "source": "SONY",
+    "target": "MSFT",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sony.com/en/SonyInfo/IR/",
+        "note": "PlayStation competes with Xbox.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "ea__competitor__msft",
+    "source": "EA",
+    "target": "MSFT",
+    "type": "competitor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EA&type=10-K",
+        "note": "Compete in video game publishing (Activision Blizzard).",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "aapl__supplier__vz",
+    "source": "AAPL",
+    "target": "VZ",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL&type=10-K",
+        "note": "Verizon sells iPhone to its subscribers.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "aapl__supplier__t",
+    "source": "AAPL",
+    "target": "T",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL&type=10-K",
+        "note": "AT&T sells iPhone to its subscribers.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "aapl__supplier__tmus",
+    "source": "AAPL",
+    "target": "TMUS",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL&type=10-K",
+        "note": "T-Mobile sells iPhone to its subscribers.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "t__competitor__vz",
+    "source": "T",
+    "target": "VZ",
+    "type": "competitor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=T&type=10-K",
+        "note": "Compete in U.S. wireless and broadband.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "vz__competitor__tmus",
+    "source": "VZ",
+    "target": "TMUS",
+    "type": "competitor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VZ&type=10-K",
+        "note": "Compete in U.S. wireless.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "t__competitor__tmus",
+    "source": "T",
+    "target": "TMUS",
+    "type": "competitor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=T&type=10-K",
+        "note": "Compete in U.S. wireless.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "cmcsa__competitor__t",
+    "source": "CMCSA",
+    "target": "T",
+    "type": "competitor",
+    "weight": 0.4,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMCSA&type=10-K",
+        "note": "Compete in home broadband.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "cmcsa__competitor__dis",
+    "source": "CMCSA",
+    "target": "DIS",
+    "type": "competitor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMCSA&type=10-K",
+        "note": "Compete in media and streaming.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "dis__competitor__wbd",
+    "source": "DIS",
+    "target": "WBD",
+    "type": "competitor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DIS&type=10-K",
+        "note": "Compete in film and TV.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "wbd__competitor__cmcsa",
+    "source": "WBD",
+    "target": "CMCSA",
+    "type": "competitor",
+    "weight": 0.4,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WBD&type=10-K",
+        "note": "Compete in media and cable networks.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "meta__competitor__googl",
+    "source": "META",
+    "target": "GOOGL",
+    "type": "competitor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=META&type=10-K",
+        "note": "Compete in digital advertising.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "meta__competitor__amzn",
+    "source": "META",
+    "target": "AMZN",
+    "type": "competitor",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=META&type=10-K",
+        "note": "Compete for digital advertising budgets.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "v__competitor__ma",
+    "source": "V",
+    "target": "MA",
+    "type": "competitor",
+    "weight": 0.95,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=V&type=10-K",
+        "note": "Compete in card payment networks.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "axp__competitor__v",
+    "source": "AXP",
+    "target": "V",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AXP&type=10-K",
+        "note": "Compete in card payments.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "axp__competitor__ma",
+    "source": "AXP",
+    "target": "MA",
+    "type": "competitor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AXP&type=10-K",
+        "note": "Compete in card payments.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "pypl__partner__v",
+    "source": "PYPL",
+    "target": "V",
+    "type": "partner",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PYPL&type=10-K",
+        "note": "Strategic network partnership.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "pypl__partner__ma",
+    "source": "PYPL",
+    "target": "MA",
+    "type": "partner",
+    "weight": 0.4,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PYPL&type=10-K",
+        "note": "Strategic network partnership.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "jpm__partner__v",
+    "source": "JPM",
+    "target": "V",
+    "type": "partner",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JPM&type=10-K",
+        "note": "Largest Visa card issuer.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "bac__partner__v",
+    "source": "BAC",
+    "target": "V",
+    "type": "partner",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BAC&type=10-K",
+        "note": "Major Visa card issuer.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "wfc__partner__v",
+    "source": "WFC",
+    "target": "V",
+    "type": "partner",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WFC&type=10-K",
+        "note": "Major Visa card issuer.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "c__partner__ma",
+    "source": "C",
+    "target": "MA",
+    "type": "partner",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=C&type=10-K",
+        "note": "Major Mastercard issuer.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "cof__partner__ma",
+    "source": "COF",
+    "target": "MA",
+    "type": "partner",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COF&type=10-K",
+        "note": "Major Mastercard issuer.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "aapl__partner__gs",
+    "source": "AAPL",
+    "target": "GS",
+    "type": "partner",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL&type=10-K",
+        "note": "Goldman Sachs issues the Apple Card.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "aapl__partner__ma",
+    "source": "AAPL",
+    "target": "MA",
+    "type": "partner",
+    "weight": 0.4,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL&type=10-K",
+        "note": "Mastercard is the network for Apple Card.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "jpm__competitor__bac",
+    "source": "JPM",
+    "target": "BAC",
+    "type": "competitor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JPM&type=10-K",
+        "note": "Compete in U.S. banking.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "bac__competitor__wfc",
+    "source": "BAC",
+    "target": "WFC",
+    "type": "competitor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BAC&type=10-K",
+        "note": "Compete in U.S. banking.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "wfc__competitor__c",
+    "source": "WFC",
+    "target": "C",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WFC&type=10-K",
+        "note": "Compete in U.S. banking.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "c__competitor__jpm",
+    "source": "C",
+    "target": "JPM",
+    "type": "competitor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=C&type=10-K",
+        "note": "Compete in global banking.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "gs__competitor__ms",
+    "source": "GS",
+    "target": "MS",
+    "type": "competitor",
+    "weight": 0.9,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GS&type=10-K",
+        "note": "Compete in investment banking and trading.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "ms__competitor__schw",
+    "source": "MS",
+    "target": "SCHW",
+    "type": "competitor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MS&type=10-K",
+        "note": "Compete in wealth management.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "spgi__supplier__jpm",
+    "source": "SPGI",
+    "target": "JPM",
+    "type": "supplier",
+    "weight": 0.3,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SPGI&type=10-K",
+        "note": "Provides credit ratings, indices and market data.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "blk__partner__msft",
+    "source": "BLK",
+    "target": "MSFT",
+    "type": "partner",
+    "weight": 0.4,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BLK&type=10-K",
+        "note": "Co-founded the AI Infrastructure Partnership with Microsoft.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "blk__partner__nvda",
+    "source": "BLK",
+    "target": "NVDA",
+    "type": "partner",
+    "weight": 0.3,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BLK&type=10-K",
+        "note": "Nvidia is a technical partner in the AI Infrastructure Partnership.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "brk.b__investor__aapl",
+    "source": "BRK.B",
+    "target": "AAPL",
+    "type": "investor",
+    "weight": 0.9,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BRK-B&type=10-K",
+        "note": "Apple is Berkshire's largest equity holding.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "brk.b__investor__bac",
+    "source": "BRK.B",
+    "target": "BAC",
+    "type": "investor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BRK-B&type=10-K",
+        "note": "Long-held major equity stake.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "brk.b__investor__axp",
+    "source": "BRK.B",
+    "target": "AXP",
+    "type": "investor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BRK-B&type=10-K",
+        "note": "Long-held major equity stake.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "brk.b__investor__ko",
+    "source": "BRK.B",
+    "target": "KO",
+    "type": "investor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BRK-B&type=10-K",
+        "note": "Long-held major equity stake.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "brk.b__investor__cvx",
+    "source": "BRK.B",
+    "target": "CVX",
+    "type": "investor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BRK-B&type=10-K",
+        "note": "Major equity stake.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "brk.b__investor__oxy",
+    "source": "BRK.B",
+    "target": "OXY",
+    "type": "investor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BRK-B&type=10-K",
+        "note": "Owns roughly a quarter of Occidental's common stock.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "brk.b__investor__kr",
+    "source": "BRK.B",
+    "target": "KR",
+    "type": "investor",
+    "weight": 0.4,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BRK-B&type=10-K",
+        "note": "Equity stake.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "brk.b__investor__v",
+    "source": "BRK.B",
+    "target": "V",
+    "type": "investor",
+    "weight": 0.3,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BRK-B&type=10-K",
+        "note": "Equity stake.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "brk.b__investor__ma",
+    "source": "BRK.B",
+    "target": "MA",
+    "type": "investor",
+    "weight": 0.3,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BRK-B&type=10-K",
+        "note": "Equity stake.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "pg__supplier__wmt",
+    "source": "PG",
+    "target": "WMT",
+    "type": "supplier",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PG&type=10-K",
+        "note": "Walmart accounts for about 15% of P&G sales.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "pg__supplier__tgt",
+    "source": "PG",
+    "target": "TGT",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PG&type=10-K",
+        "note": "Major retail customer.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "pg__supplier__cost",
+    "source": "PG",
+    "target": "COST",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PG&type=10-K",
+        "note": "Major retail customer.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "pg__supplier__kr",
+    "source": "PG",
+    "target": "KR",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PG&type=10-K",
+        "note": "Major retail customer.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "pg__supplier__amzn",
+    "source": "PG",
+    "target": "AMZN",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PG&type=10-K",
+        "note": "Major retail customer.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "ko__supplier__mcd",
+    "source": "KO",
+    "target": "MCD",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KO&type=10-K",
+        "note": "Long-standing fountain beverage supplier.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "pep__competitor__ko",
+    "source": "PEP",
+    "target": "KO",
+    "type": "competitor",
+    "weight": 0.9,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PEP&type=10-K",
+        "note": "Compete in beverages.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "ko__supplier__wmt",
+    "source": "KO",
+    "target": "WMT",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KO&type=10-K",
+        "note": "Major retail customer.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "pep__supplier__wmt",
+    "source": "PEP",
+    "target": "WMT",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PEP&type=10-K",
+        "note": "Walmart is PepsiCo's largest customer.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "mdlz__supplier__wmt",
+    "source": "MDLZ",
+    "target": "WMT",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MDLZ&type=10-K",
+        "note": "Walmart is Mondelez's largest customer.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "mdlz__competitor__pep",
+    "source": "MDLZ",
+    "target": "PEP",
+    "type": "competitor",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MDLZ&type=10-K",
+        "note": "Compete in snacks.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "pep__partner__sbux",
+    "source": "PEP",
+    "target": "SBUX",
+    "type": "partner",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PEP&type=10-K",
+        "note": "North American Coffee Partnership for ready-to-drink Starbucks beverages.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "kr__competitor__wmt",
+    "source": "KR",
+    "target": "WMT",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KR&type=10-K",
+        "note": "Compete in grocery.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "cost__competitor__wmt",
+    "source": "COST",
+    "target": "WMT",
+    "type": "competitor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COST&type=10-K",
+        "note": "Compete in warehouse clubs (Sam's Club) and retail.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "tgt__competitor__wmt",
+    "source": "TGT",
+    "target": "WMT",
+    "type": "competitor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TGT&type=10-K",
+        "note": "Compete in general merchandise retail.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amzn__competitor__wmt",
+    "source": "AMZN",
+    "target": "WMT",
+    "type": "competitor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMZN&type=10-K",
+        "note": "Compete in retail and e-commerce.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "hd__competitor__low",
+    "source": "HD",
+    "target": "LOW",
+    "type": "competitor",
+    "weight": 0.9,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HD&type=10-K",
+        "note": "Compete in home improvement retail.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "sbux__competitor__mcd",
+    "source": "SBUX",
+    "target": "MCD",
+    "type": "competitor",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SBUX&type=10-K",
+        "note": "Compete in quick-service coffee and breakfast.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "nke__supplier__amzn",
+    "source": "NKE",
+    "target": "AMZN",
+    "type": "supplier",
+    "weight": 0.3,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NKE&type=10-K",
+        "note": "Nike sells directly on Amazon.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "lly__competitor__nvo",
+    "source": "LLY",
+    "target": "NVO",
+    "type": "competitor",
+    "weight": 0.9,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LLY&type=10-K",
+        "note": "Compete in GLP-1 obesity and diabetes drugs.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "pfe__competitor__mrk",
+    "source": "PFE",
+    "target": "MRK",
+    "type": "competitor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PFE&type=10-K",
+        "note": "Compete in vaccines and pharmaceuticals.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "abbv__competitor__jnj",
+    "source": "ABBV",
+    "target": "JNJ",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ABBV&type=10-K",
+        "note": "Compete in immunology.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "bmy__competitor__mrk",
+    "source": "BMY",
+    "target": "MRK",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BMY&type=10-K",
+        "note": "Compete in immuno-oncology.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "gild__competitor__mrk",
+    "source": "GILD",
+    "target": "MRK",
+    "type": "competitor",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GILD&type=10-K",
+        "note": "Compete in HIV therapies.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "mck__supplier__cvs",
+    "source": "MCK",
+    "target": "CVS",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MCK&type=10-K",
+        "note": "CVS Health is one of McKesson's largest customers.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "unh__competitor__cvs",
+    "source": "UNH",
+    "target": "CVS",
+    "type": "competitor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UNH&type=10-K",
+        "note": "Compete in insurance, PBM and care services.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "lly__supplier__mck",
+    "source": "LLY",
+    "target": "MCK",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LLY&type=10-K",
+        "note": "Distributes Lilly medicines.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "pfe__supplier__mck",
+    "source": "PFE",
+    "target": "MCK",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PFE&type=10-K",
+        "note": "Distributes Pfizer medicines.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "jnj__supplier__mck",
+    "source": "JNJ",
+    "target": "MCK",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JNJ&type=10-K",
+        "note": "Distributes J&J medicines.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "abbv__supplier__mck",
+    "source": "ABBV",
+    "target": "MCK",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ABBV&type=10-K",
+        "note": "Distributes AbbVie medicines.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "tmo__supplier__pfe",
+    "source": "TMO",
+    "target": "PFE",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TMO&type=10-K",
+        "note": "Contract development and manufacturing, plus lab tools.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "tmo__supplier__mrk",
+    "source": "TMO",
+    "target": "MRK",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TMO&type=10-K",
+        "note": "Lab tools and bioproduction.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "tmo__supplier__lly",
+    "source": "TMO",
+    "target": "LLY",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TMO&type=10-K",
+        "note": "Lab tools and bioproduction.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "dhr__competitor__tmo",
+    "source": "DHR",
+    "target": "TMO",
+    "type": "competitor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DHR&type=10-K",
+        "note": "Compete in life-sciences tools.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "isrg__competitor__jnj",
+    "source": "ISRG",
+    "target": "JNJ",
+    "type": "competitor",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ISRG&type=10-K",
+        "note": "Compete in surgical robotics.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "abt__competitor__jnj",
+    "source": "ABT",
+    "target": "JNJ",
+    "type": "competitor",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ABT&type=10-K",
+        "note": "Compete in medical devices.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amgn__competitor__nvo",
+    "source": "AMGN",
+    "target": "NVO",
+    "type": "competitor",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMGN&type=10-K",
+        "note": "Compete in obesity drug development.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "lly__partner__amzn",
+    "source": "LLY",
+    "target": "AMZN",
+    "type": "partner",
+    "weight": 0.3,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LLY&type=10-K",
+        "note": "Home delivery partnership for LillyDirect via Amazon Pharmacy.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "cvs__partner__nvo",
+    "source": "CVS",
+    "target": "NVO",
+    "type": "partner",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CVS&type=10-K",
+        "note": "CVS Caremark prefers Wegovy on its standard formulary.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "ge__supplier__ba",
+    "source": "GE",
+    "target": "BA",
+    "type": "supplier",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GE&type=10-K",
+        "note": "Supplies engines, including LEAP engines via CFM International.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "rtx__supplier__ba",
+    "source": "RTX",
+    "target": "BA",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RTX&type=10-K",
+        "note": "Pratt & Whitney and Collins Aerospace supply engines and systems.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "hon__supplier__ba",
+    "source": "HON",
+    "target": "BA",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HON&type=10-K",
+        "note": "Supplies avionics and aerospace systems.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "ge__competitor__rtx",
+    "source": "GE",
+    "target": "RTX",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GE&type=10-K",
+        "note": "Compete in commercial jet engines.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "ba__competitor__lmt",
+    "source": "BA",
+    "target": "LMT",
+    "type": "competitor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BA&type=10-K",
+        "note": "Compete in defense aircraft and space.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "lmt__competitor__noc",
+    "source": "LMT",
+    "target": "NOC",
+    "type": "competitor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LMT&type=10-K",
+        "note": "Compete in defense systems.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "noc__competitor__rtx",
+    "source": "NOC",
+    "target": "RTX",
+    "type": "competitor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NOC&type=10-K",
+        "note": "Compete in missiles and defense electronics.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "rtx__supplier__lmt",
+    "source": "RTX",
+    "target": "LMT",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RTX&type=10-K",
+        "note": "Pratt & Whitney supplies the F135 engine for the F-35.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "noc__supplier__lmt",
+    "source": "NOC",
+    "target": "LMT",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NOC&type=10-K",
+        "note": "Builds the F-35 center fuselage.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "gd__competitor__noc",
+    "source": "GD",
+    "target": "NOC",
+    "type": "competitor",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GD&type=10-K",
+        "note": "Compete in defense contracts.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "cat__competitor__de",
+    "source": "CAT",
+    "target": "DE",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CAT&type=10-K",
+        "note": "Compete in heavy equipment.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "unp__partner__ups",
+    "source": "UNP",
+    "target": "UPS",
+    "type": "partner",
+    "weight": 0.4,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UNP&type=10-K",
+        "note": "Intermodal rail partner.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "ups__competitor__fdx",
+    "source": "UPS",
+    "target": "FDX",
+    "type": "competitor",
+    "weight": 0.9,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UPS&type=10-K",
+        "note": "Compete in parcel delivery.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amzn__competitor__ups",
+    "source": "AMZN",
+    "target": "UPS",
+    "type": "competitor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMZN&type=10-K",
+        "note": "Amazon Logistics competes in parcel delivery.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "ups__supplier__amzn",
+    "source": "UPS",
+    "target": "AMZN",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UPS&type=10-K",
+        "note": "Amazon is UPS's largest customer.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "uber__partner__googl",
+    "source": "UBER",
+    "target": "GOOGL",
+    "type": "partner",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UBER&type=10-K",
+        "note": "Waymo robotaxis available through the Uber app.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "uber__partner__nvda",
+    "source": "UBER",
+    "target": "NVDA",
+    "type": "partner",
+    "weight": 0.3,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UBER&type=10-K",
+        "note": "Autonomy partnership.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "etn__partner__nvda",
+    "source": "ETN",
+    "target": "NVDA",
+    "type": "partner",
+    "weight": 0.5,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ETN&type=10-K",
+        "note": "Power infrastructure collaboration for AI data centers.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "gev__supplier__nee",
+    "source": "GEV",
+    "target": "NEE",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GEV&type=10-K",
+        "note": "Supplies gas turbines and wind equipment.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "gev__supplier__cvx",
+    "source": "GEV",
+    "target": "CVX",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GEV&type=10-K",
+        "note": "Supplies gas turbines for Chevron's data-center power venture.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "xom__competitor__cvx",
+    "source": "XOM",
+    "target": "CVX",
+    "type": "competitor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XOM&type=10-K",
+        "note": "Compete in integrated oil and gas.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "cop__competitor__xom",
+    "source": "COP",
+    "target": "XOM",
+    "type": "competitor",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COP&type=10-K",
+        "note": "Compete in oil and gas production.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "slb__supplier__xom",
+    "source": "SLB",
+    "target": "XOM",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SLB&type=10-K",
+        "note": "Oilfield services and technology.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "slb__supplier__cvx",
+    "source": "SLB",
+    "target": "CVX",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SLB&type=10-K",
+        "note": "Oilfield services and technology.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "lin__supplier__tsm",
+    "source": "LIN",
+    "target": "TSM",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LIN&type=10-K",
+        "note": "Supplies industrial gases to semiconductor fabs.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "lin__supplier__005930.ks",
+    "source": "LIN",
+    "target": "005930.KS",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LIN&type=10-K",
+        "note": "Supplies industrial gases to semiconductor fabs.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "apd__competitor__lin",
+    "source": "APD",
+    "target": "LIN",
+    "type": "competitor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APD&type=10-K",
+        "note": "Compete in industrial gases.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "shw__supplier__low",
+    "source": "SHW",
+    "target": "LOW",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SHW&type=10-K",
+        "note": "Supplies Valspar and HGTV Home paint brands to Lowe's.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "ceg__supplier__msft",
+    "source": "CEG",
+    "target": "MSFT",
+    "type": "supplier",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CEG&type=10-K",
+        "note": "20-year power purchase agreement to restart Three Mile Island Unit 1.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "vst__competitor__ceg",
+    "source": "VST",
+    "target": "CEG",
+    "type": "competitor",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VST&type=10-K",
+        "note": "Compete in competitive power generation.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "nee__supplier__googl",
+    "source": "NEE",
+    "target": "GOOGL",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NEE&type=10-K",
+        "note": "Power agreement tied to restarting the Duane Arnold nuclear plant.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "duk__supplier__msft",
+    "source": "DUK",
+    "target": "MSFT",
+    "type": "supplier",
+    "weight": 0.3,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DUK&type=10-K",
+        "note": "Clean-energy supply agreements with large tech customers.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "eqix__competitor__dlr",
+    "source": "EQIX",
+    "target": "DLR",
+    "type": "competitor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EQIX&type=10-K",
+        "note": "Compete in data-center colocation.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "eqix__partner__nvda",
+    "source": "EQIX",
+    "target": "NVDA",
+    "type": "partner",
+    "weight": 0.3,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EQIX&type=10-K",
+        "note": "Hosts Nvidia DGX-based AI infrastructure.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amt__supplier__vz",
+    "source": "AMT",
+    "target": "VZ",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMT&type=10-K",
+        "note": "Verizon is a major tower tenant.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amt__supplier__t",
+    "source": "AMT",
+    "target": "T",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMT&type=10-K",
+        "note": "AT&T is a major tower tenant.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amt__supplier__tmus",
+    "source": "AMT",
+    "target": "TMUS",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMT&type=10-K",
+        "note": "T-Mobile is a major tower tenant.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "pld__supplier__amzn",
+    "source": "PLD",
+    "target": "AMZN",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PLD&type=10-K",
+        "note": "Amazon is Prologis's largest tenant.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "bkng__competitor__googl",
+    "source": "BKNG",
+    "target": "GOOGL",
+    "type": "competitor",
+    "weight": 0.3,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BKNG&type=10-K",
+        "note": "Compete in travel search; Google is also a major marketing channel.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "adbe__competitor__crm",
+    "source": "ADBE",
+    "target": "CRM",
+    "type": "competitor",
+    "weight": 0.4,
+    "confidence": 0.6,
+    "evidence": [
+      {
+        "kind": "curated",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADBE&type=10-K",
+        "note": "Compete in marketing and customer experience clouds.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "msft__investor__anthropic",
+    "source": "MSFT",
+    "target": "anthropic",
+    "type": "investor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "press",
+        "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/",
+        "note": "Committed up to $5B in Anthropic (Nov 2025).",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "nvda__investor__anthropic",
+    "source": "NVDA",
+    "target": "anthropic",
+    "type": "investor",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "press",
+        "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/",
+        "note": "Committed up to $10B in Anthropic (Nov 2025).",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "msft__supplier__anthropic",
+    "source": "MSFT",
+    "target": "anthropic",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "press",
+        "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/",
+        "note": "Anthropic committed to buy $30B of Azure compute.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amzn__investor__openai",
+    "source": "AMZN",
+    "target": "openai",
+    "type": "investor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "press",
+        "url": "https://www.aboutamazon.com/news/aws/openai-amazon-partnership-explained",
+        "note": "Invested $50B in OpenAI's 2026 funding round.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "amzn__supplier__openai",
+    "source": "AMZN",
+    "target": "openai",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "press",
+        "url": "https://www.aboutamazon.com/news/aws/aws-open-ai-workloads-compute-infrastructure",
+        "note": "AWS compute agreement ($38B, expanded by $100B).",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "avgo__supplier__anthropic",
+    "source": "AVGO",
+    "target": "anthropic",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "press",
+        "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+        "note": "Deploying Google TPU capacity for Anthropic.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "aapl__partner__jpm",
+    "source": "AAPL",
+    "target": "JPM",
+    "type": "partner",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "press",
+        "url": "https://www.apple.com/newsroom/2026/01/chase-to-become-new-issuer-of-apple-card/",
+        "note": "Will become Apple Card issuer, replacing Goldman Sachs.",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "googl__supplier__aapl",
+    "source": "GOOGL",
+    "target": "AAPL",
+    "type": "supplier",
+    "weight": 0.5,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "press",
+        "url": "https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/",
+        "note": "Gemini models power Apple Intelligence and Siri (2026).",
+        "date": null
+      }
+    ]
+  },
+  {
+    "id": "ko__investor__mnst",
+    "source": "KO",
+    "target": "MNST",
+    "type": "investor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "research",
+        "url": "https://investors.monsterbevcorp.com/news-releases/news-release-details/coca-cola-company-and-monster-beverage-corporation-close",
+        "note": "Coca-Cola bought a 16.7% stake in Monster in 2015 as part of a long-term strategic partnership.",
+        "date": null,
+        "title": "The Coca-Cola Company and Monster Beverage Corporation Close on Previously Announced Strategic Partnership",
+        "publisher": "Monster Beverage"
+      },
+      {
+        "kind": "research",
+        "url": "https://www.fooddive.com/news/coca-cola-acquires-215b-minority-stake-in-monster/400808/",
+        "note": "$2.15B for the minority stake.",
+        "date": null,
+        "title": "Coca-Cola acquires $2.15B minority stake in Monster",
+        "publisher": "Food Dive"
+      }
+    ]
+  },
+  {
+    "id": "mrvl__supplier__amzn",
+    "source": "MRVL",
+    "target": "AMZN",
+    "type": "supplier",
+    "weight": 0.75,
+    "confidence": 0.85,
+    "evidence": [
+      {
+        "kind": "research",
+        "url": "https://www.marvell.com/company/newsroom/marvell-expands-strategic-collaboration-aws-enable-accelerated-infrastructure-ai-cloud.html",
+        "note": "Five-year, multi-generational agreement: custom AI chips (Trainium), optical DSPs, AECs, switching silicon.",
+        "date": "2024-12",
+        "title": "Marvell Expands Strategic Collaboration with AWS",
+        "publisher": "Marvell"
+      },
+      {
+        "kind": "research",
+        "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563224000193/final2024_12x02xmarvell-.htm",
+        "note": "Form 8-K announcing the AWS agreement.",
+        "date": "2024-12",
+        "title": "Marvell Technology Form 8-K",
+        "publisher": "SEC"
+      }
+    ]
+  },
+  {
+    "id": "vz__supplier__chtr",
+    "source": "VZ",
+    "target": "CHTR",
+    "type": "supplier",
+    "weight": 0.7,
+    "confidence": 0.85,
+    "evidence": [
+      {
+        "kind": "research",
+        "url": "https://www.sec.gov/Archives/edgar/data/1091667/000109166722000024/chtr-20211231.htm",
+        "note": "Spectrum Mobile runs under an MVNO reseller agreement with Verizon.",
+        "date": null,
+        "title": "Charter Communications 10-K FY2021",
+        "publisher": "SEC"
+      },
+      {
+        "kind": "research",
+        "url": "https://rcrwireless.com/20180706/carriers/spectrum-mobile-charter-comcast-mvno-tag17",
+        "note": "Spectrum Mobile launched in 2018 on Verizon's network.",
+        "date": "2018-07",
+        "title": "With Spectrum Mobile launch, Charter joins Comcast in MVNO space",
+        "publisher": "RCR Wireless"
+      }
+    ]
+  },
+  {
+    "id": "axp__partner__dal",
+    "source": "DAL",
+    "target": "AXP",
+    "type": "partner",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "research",
+        "url": "https://www.flyertalk.com/articles/delta-earns-nearly-2-billion-on-american-express-cards-alone.html",
+        "note": "Delta earned about $7.4B from American Express in 2024.",
+        "date": null,
+        "title": "Delta Earns Nearly $2 Billion on American Express Cards Alone",
+        "publisher": "FlyerTalk"
+      },
+      {
+        "kind": "research",
+        "url": "https://www.paymentsdive.com/news/amex-delta-card-spending-soars/825180/",
+        "note": "Co-brand card spending growth.",
+        "date": null,
+        "title": "Amex, Delta card spending soars",
+        "publisher": "Payments Dive"
+      }
+    ]
+  },
+  {
+    "id": "jbl__supplier__aapl",
+    "source": "JBL",
+    "target": "AAPL",
+    "type": "supplier",
+    "weight": 0.6,
+    "confidence": 0.85,
+    "evidence": [
+      {
+        "kind": "research",
+        "url": "https://www.sec.gov/Archives/edgar/data/898293/000162828024043960/jbl-20240831.htm",
+        "note": "Apple accounted for 11% of Jabil's FY2024 net revenue (17% in FY2023, 19% in FY2022).",
+        "date": null,
+        "title": "Jabil 10-K FY2024",
+        "publisher": "SEC"
+      }
+    ]
+  },
+  {
+    "id": "cdns__partner__nvda",
+    "source": "CDNS",
+    "target": "NVDA",
+    "type": "partner",
+    "weight": 0.6,
+    "confidence": 0.85,
+    "evidence": [
+      {
+        "kind": "research",
+        "url": "https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-and-nvidia-expand-partnership-to-reinvent-engineering.html",
+        "note": "Expanded partnership: Cadence EDA and simulation accelerated on Nvidia GPUs; Nvidia uses Cadence tools.",
+        "date": "2026-04",
+        "title": "Cadence and NVIDIA Expand Partnership",
+        "publisher": "Cadence"
+      }
+    ]
+  },
+  {
+    "id": "cah__supplier__cvs",
+    "source": "CAH",
+    "target": "CVS",
+    "type": "supplier",
+    "weight": 0.9,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "research",
+        "url": "https://www.stocktitan.net/sec-filings/CAH/10-k-cardinal-health-inc-files-annual-report-d553bdd2cd17.html",
+        "note": "CVS Health accounted for 28% of Cardinal Health's FY2026 revenue.",
+        "date": null,
+        "title": "Cardinal Health 10-K FY2026",
+        "publisher": "StockTitan"
+      },
+      {
+        "kind": "research",
+        "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137123000060/cah-20230630.htm",
+        "note": "CVS Health 25% of FY2023 revenue.",
+        "date": null,
+        "title": "Cardinal Health 10-K FY2023",
+        "publisher": "SEC"
+      }
+    ]
+  },
+  {
+    "id": "crwd__competitor__panw",
+    "source": "CRWD",
+    "target": "PANW",
+    "type": "competitor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "research",
+        "url": "https://www.sdxcentral.com/analysis/crowdstrike-vs-palo-alto-networks-platform-battle-who-will-win-the-cybersecurity-war/",
+        "note": "Compete for the same enterprise platform-consolidation budgets.",
+        "date": null,
+        "title": "CrowdStrike vs. Palo Alto Networks platform battle",
+        "publisher": "SDxCentral"
+      }
+    ]
+  },
+  {
+    "id": "hal__competitor__slb",
+    "source": "HAL",
+    "target": "SLB",
+    "type": "competitor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "research",
+        "url": "https://www.hudson-labs.com/research/slb-competitors-slb-top-peers-in-2026",
+        "note": "Halliburton is SLB's most direct competitor in integrated oilfield services.",
+        "date": null,
+        "title": "SLB Competitors: SLB Top Peers in 2026",
+        "publisher": "Hudson Labs"
+      }
+    ]
+  },
+  {
+    "id": "dash__competitor__uber",
+    "source": "DASH",
+    "target": "UBER",
+    "type": "competitor",
+    "weight": 0.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "research",
+        "url": "https://www.earnestanalytics.com/insights/doordash-leads-us-delivery-share-but-some-cities-still-competitive",
+        "note": "DoorDash leads US food delivery; Uber Eats is second.",
+        "date": null,
+        "title": "DoorDash leads US delivery share",
+        "publisher": "Earnest Analytics"
+      }
+    ]
+  },
+  {
+    "id": "bkng__competitor__expe",
+    "source": "EXPE",
+    "target": "BKNG",
+    "type": "competitor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "research",
+        "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442426000008/expe-20251231.htm",
+        "note": "Expedia names Booking Holdings among its biggest competitors.",
+        "date": null,
+        "title": "Expedia Group 10-K FY2025",
+        "publisher": "SEC"
+      }
+    ]
+  },
+  {
+    "id": "dell__competitor__hpq",
+    "source": "HPQ",
+    "target": "DELL",
+    "type": "competitor",
+    "weight": 0.8,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "kind": "research",
+        "url": "https://www.gartner.com/en/newsroom/press-releases/2026-4-10-gartner-says-worldwide-pc-shipments-increased-4-percent-in-first-quarter-of-2026",
+        "note": "HP Inc. and Dell are the #2 and #3 PC vendors behind Lenovo.",
+        "date": "2026-04",
+        "title": "Gartner: Worldwide PC Shipments Q1 2026",
+        "publisher": "Gartner"
+      }
+    ]
+  }
+]

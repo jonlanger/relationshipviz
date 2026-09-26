@@ -1,0 +1,57 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: var(--z-sticky);
+  display: grid;
+  grid-template-columns: auto minmax(200px, 420px) 1fr;
+  align-items: center;
+  gap: var(--space-4);
+  height: 56px;
+  padding: 0 var(--space-4);
+  background: color-mix(in srgb, var(--color-bg-canvas) 85%, transparent);
+  backdrop-filter: saturate(1.4) blur(16px);
+  border-bottom: 1px solid var(--color-border-subtle);
+}
+.left { display: flex; align-items: center; gap: var(--space-6); min-width: 0; }
+.brand { display: flex; align-items: center; gap: var(--space-2); color: var(--color-text-primary); flex-shrink: 0; border-radius: var(--radius-sm); }
+.wordmark { font-size: 15px; font-weight: var(--font-weight-semibold); letter-spacing: -0.02em; }
+.wordmarkAccent { color: var(--color-text-tertiary); font-weight: var(--font-weight-medium); }
+.nav { display: flex; gap: var(--space-1); min-width: 0; }
+.navLink { white-space: nowrap; }
+.navLink {
+  position: relative;
+  padding: var(--space-1_5) var(--space-2_5);
+  border-radius: var(--radius-md);
+  font-size: var(--text-body-sm-size);
+  font-weight: var(--font-weight-medium);
+  color: var(--color-text-tertiary);
+  transition: color var(--duration-fast) var(--ease-standard), background-color var(--duration-fast) var(--ease-standard);
+}
+.navLink:hover { color: var(--color-text-primary); background: var(--color-bg-hover); }
+.active { color: var(--color-text-primary); }
+.active::after {
+  content: '';
+  position: absolute;
+  left: 10px;
+  right: 10px;
+  bottom: -11px;
+  height: 2px;
+  border-radius: 1px;
+  background: var(--color-accent-default);
+}
+.search { min-width: 0; }
+.right { display: flex; justify-content: flex-end; align-items: center; gap: var(--space-2); }
+
+@media (max-width: 1200px) {
+  .wordmark { display: none; }
+  .left { gap: var(--space-3); }
+}
+@media (max-width: 900px) {
+  .header { grid-template-columns: minmax(0, 1fr) auto; height: auto; padding: var(--space-2) var(--space-4); row-gap: var(--space-2); }
+  /* Six destinations don't fit a phone: the nav scrolls sideways, with the indicator kept inside. */
+  .nav { overflow-x: auto; scrollbar-width: none; }
+  .nav::-webkit-scrollbar { display: none; }
+  .navLink { padding: var(--space-1_5) var(--space-2); }
+  .active::after { bottom: 0; }
+  .search { grid-column: 1 / -1; grid-row: 2; }
+}

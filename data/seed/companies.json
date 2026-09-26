@@ -1,0 +1,2825 @@
+[
+  {
+    "id": "AAPL",
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "shortName": "Apple",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware",
+    "hq": {
+      "city": "Cupertino",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.323,
+      "lng": -122.032
+    },
+    "marketCap": 3000.0,
+    "employees": 164000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Apple"
+    ]
+  },
+  {
+    "id": "MSFT",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "shortName": "Microsoft",
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "hq": {
+      "city": "Redmond",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 47.674,
+      "lng": -122.121
+    },
+    "marketCap": 3500.0,
+    "employees": 228000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Microsoft",
+      "Azure"
+    ]
+  },
+  {
+    "id": "NVDA",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "shortName": "Nvidia",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": {
+      "city": "Santa Clara",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.354,
+      "lng": -121.955
+    },
+    "marketCap": 3900.0,
+    "employees": 36000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "NVIDIA",
+      "Nvidia"
+    ]
+  },
+  {
+    "id": "AVGO",
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "shortName": "Broadcom",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": {
+      "city": "Palo Alto",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.442,
+      "lng": -122.143
+    },
+    "marketCap": 1300.0,
+    "employees": 37000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Broadcom"
+    ]
+  },
+  {
+    "id": "ORCL",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "shortName": "Oracle",
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "hq": {
+      "city": "Austin",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 30.267,
+      "lng": -97.743
+    },
+    "marketCap": 600.0,
+    "employees": 162000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Oracle"
+    ]
+  },
+  {
+    "id": "CRM",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "shortName": "Salesforce",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hq": {
+      "city": "San Francisco",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.79,
+      "lng": -122.397
+    },
+    "marketCap": 260.0,
+    "employees": 76000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "AMD",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "shortName": "AMD",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": {
+      "city": "Santa Clara",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.354,
+      "lng": -121.955
+    },
+    "marketCap": 230.0,
+    "employees": 28000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Advanced Micro Devices",
+      "AMD"
+    ]
+  },
+  {
+    "id": "ADBE",
+    "ticker": "ADBE",
+    "name": "Adobe Inc.",
+    "shortName": "Adobe",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hq": {
+      "city": "San Jose",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.331,
+      "lng": -121.894
+    },
+    "marketCap": 165.0,
+    "employees": 30000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Adobe"
+    ]
+  },
+  {
+    "id": "CSCO",
+    "ticker": "CSCO",
+    "name": "Cisco Systems, Inc.",
+    "shortName": "Cisco",
+    "sector": "Information Technology",
+    "industry": "Communications Equipment",
+    "hq": {
+      "city": "San Jose",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.331,
+      "lng": -121.894
+    },
+    "marketCap": 270.0,
+    "employees": 90000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Cisco"
+    ]
+  },
+  {
+    "id": "INTC",
+    "ticker": "INTC",
+    "name": "Intel Corporation",
+    "shortName": "Intel",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": {
+      "city": "Santa Clara",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.354,
+      "lng": -121.955
+    },
+    "marketCap": 95.0,
+    "employees": 108000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Intel"
+    ]
+  },
+  {
+    "id": "QCOM",
+    "ticker": "QCOM",
+    "name": "QUALCOMM Incorporated",
+    "shortName": "Qualcomm",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": {
+      "city": "San Diego",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 32.899,
+      "lng": -117.2
+    },
+    "marketCap": 170.0,
+    "employees": 49000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Qualcomm"
+    ]
+  },
+  {
+    "id": "TXN",
+    "ticker": "TXN",
+    "name": "Texas Instruments Incorporated",
+    "shortName": "Texas Instruments",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": {
+      "city": "Dallas",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 32.911,
+      "lng": -96.752
+    },
+    "marketCap": 185.0,
+    "employees": 34000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Texas Instruments"
+    ]
+  },
+  {
+    "id": "IBM",
+    "ticker": "IBM",
+    "name": "International Business Machines Corporation",
+    "shortName": "IBM",
+    "sector": "Information Technology",
+    "industry": "IT Consulting & Services",
+    "hq": {
+      "city": "Armonk",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 41.108,
+      "lng": -73.72
+    },
+    "marketCap": 260.0,
+    "employees": 270000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "IBM"
+    ]
+  },
+  {
+    "id": "AMAT",
+    "ticker": "AMAT",
+    "name": "Applied Materials, Inc.",
+    "shortName": "Applied Materials",
+    "sector": "Information Technology",
+    "industry": "Semiconductor Equipment",
+    "hq": {
+      "city": "Santa Clara",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.354,
+      "lng": -121.955
+    },
+    "marketCap": 145.0,
+    "employees": 35000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Applied Materials"
+    ]
+  },
+  {
+    "id": "LRCX",
+    "ticker": "LRCX",
+    "name": "Lam Research Corporation",
+    "shortName": "Lam Research",
+    "sector": "Information Technology",
+    "industry": "Semiconductor Equipment",
+    "hq": {
+      "city": "Fremont",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.548,
+      "lng": -121.988
+    },
+    "marketCap": 120.0,
+    "employees": 17000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Lam Research"
+    ]
+  },
+  {
+    "id": "KLAC",
+    "ticker": "KLAC",
+    "name": "KLA Corporation",
+    "shortName": "KLA",
+    "sector": "Information Technology",
+    "industry": "Semiconductor Equipment",
+    "hq": {
+      "city": "Milpitas",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.428,
+      "lng": -121.906
+    },
+    "marketCap": 115.0,
+    "employees": 15000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "KLA"
+    ]
+  },
+  {
+    "id": "MU",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "shortName": "Micron",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": {
+      "city": "Boise",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 43.615,
+      "lng": -116.202
+    },
+    "marketCap": 130.0,
+    "employees": 48000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Micron"
+    ]
+  },
+  {
+    "id": "NOW",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "shortName": "ServiceNow",
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "hq": {
+      "city": "Santa Clara",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.354,
+      "lng": -121.955
+    },
+    "marketCap": 200.0,
+    "employees": 26000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "ServiceNow"
+    ]
+  },
+  {
+    "id": "INTU",
+    "ticker": "INTU",
+    "name": "Intuit Inc.",
+    "shortName": "Intuit",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hq": {
+      "city": "Mountain View",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.386,
+      "lng": -122.084
+    },
+    "marketCap": 200.0,
+    "employees": 18000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Intuit"
+    ]
+  },
+  {
+    "id": "DELL",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "shortName": "Dell",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware",
+    "hq": {
+      "city": "Round Rock",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 30.508,
+      "lng": -97.678
+    },
+    "marketCap": 80.0,
+    "employees": 108000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Dell"
+    ]
+  },
+  {
+    "id": "HPE",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "shortName": "HPE",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware",
+    "hq": {
+      "city": "Houston",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 29.76,
+      "lng": -95.37
+    },
+    "marketCap": 25.0,
+    "employees": 61000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Hewlett Packard Enterprise",
+      "HPE"
+    ]
+  },
+  {
+    "id": "PANW",
+    "ticker": "PANW",
+    "name": "Palo Alto Networks, Inc.",
+    "shortName": "Palo Alto Networks",
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "hq": {
+      "city": "Santa Clara",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.354,
+      "lng": -121.955
+    },
+    "marketCap": 130.0,
+    "employees": 15000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Palo Alto Networks"
+    ]
+  },
+  {
+    "id": "SMCI",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "shortName": "Supermicro",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware",
+    "hq": {
+      "city": "San Jose",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.331,
+      "lng": -121.894
+    },
+    "marketCap": 28.0,
+    "employees": 5700,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Super Micro",
+      "Supermicro"
+    ]
+  },
+  {
+    "id": "ANET",
+    "ticker": "ANET",
+    "name": "Arista Networks, Inc.",
+    "shortName": "Arista",
+    "sector": "Information Technology",
+    "industry": "Communications Equipment",
+    "hq": {
+      "city": "Santa Clara",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.354,
+      "lng": -121.955
+    },
+    "marketCap": 120.0,
+    "employees": 4400,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Arista"
+    ]
+  },
+  {
+    "id": "APH",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "shortName": "Amphenol",
+    "sector": "Information Technology",
+    "industry": "Electronic Components",
+    "hq": {
+      "city": "Wallingford",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 41.457,
+      "lng": -72.823
+    },
+    "marketCap": 115.0,
+    "employees": 125000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Amphenol"
+    ]
+  },
+  {
+    "id": "GLW",
+    "ticker": "GLW",
+    "name": "Corning Incorporated",
+    "shortName": "Corning",
+    "sector": "Information Technology",
+    "industry": "Electronic Components",
+    "hq": {
+      "city": "Corning",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 42.143,
+      "lng": -77.055
+    },
+    "marketCap": 45.0,
+    "employees": 56000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Corning"
+    ]
+  },
+  {
+    "id": "GOOGL",
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc.",
+    "shortName": "Alphabet",
+    "sector": "Communication Services",
+    "industry": "Interactive Media",
+    "hq": {
+      "city": "Mountain View",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.386,
+      "lng": -122.084
+    },
+    "marketCap": 2100.0,
+    "employees": 183000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Alphabet",
+      "Google"
+    ]
+  },
+  {
+    "id": "META",
+    "ticker": "META",
+    "name": "Meta Platforms, Inc.",
+    "shortName": "Meta",
+    "sector": "Communication Services",
+    "industry": "Interactive Media",
+    "hq": {
+      "city": "Menlo Park",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.485,
+      "lng": -122.148
+    },
+    "marketCap": 1800.0,
+    "employees": 76000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Meta",
+      "Facebook"
+    ]
+  },
+  {
+    "id": "NFLX",
+    "ticker": "NFLX",
+    "name": "Netflix, Inc.",
+    "shortName": "Netflix",
+    "sector": "Communication Services",
+    "industry": "Movies & Entertainment",
+    "hq": {
+      "city": "Los Gatos",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.235,
+      "lng": -121.962
+    },
+    "marketCap": 530.0,
+    "employees": 14000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Netflix"
+    ]
+  },
+  {
+    "id": "DIS",
+    "ticker": "DIS",
+    "name": "The Walt Disney Company",
+    "shortName": "Disney",
+    "sector": "Communication Services",
+    "industry": "Movies & Entertainment",
+    "hq": {
+      "city": "Burbank",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 34.157,
+      "lng": -118.325
+    },
+    "marketCap": 220.0,
+    "employees": 233000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Disney"
+    ]
+  },
+  {
+    "id": "CMCSA",
+    "ticker": "CMCSA",
+    "name": "Comcast Corporation",
+    "shortName": "Comcast",
+    "sector": "Communication Services",
+    "industry": "Cable & Satellite",
+    "hq": {
+      "city": "Philadelphia",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 39.955,
+      "lng": -75.168
+    },
+    "marketCap": 135.0,
+    "employees": 182000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Comcast",
+      "NBCUniversal"
+    ]
+  },
+  {
+    "id": "T",
+    "ticker": "T",
+    "name": "AT&T Inc.",
+    "shortName": "AT&T",
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "hq": {
+      "city": "Dallas",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 32.911,
+      "lng": -96.752
+    },
+    "marketCap": 200.0,
+    "employees": 141000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "AT&T"
+    ]
+  },
+  {
+    "id": "VZ",
+    "ticker": "VZ",
+    "name": "Verizon Communications Inc.",
+    "shortName": "Verizon",
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "hq": {
+      "city": "New York",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 40.754,
+      "lng": -73.984
+    },
+    "marketCap": 180.0,
+    "employees": 100000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Verizon"
+    ]
+  },
+  {
+    "id": "TMUS",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "shortName": "T-Mobile",
+    "sector": "Communication Services",
+    "industry": "Wireless Telecom",
+    "hq": {
+      "city": "Bellevue",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 47.61,
+      "lng": -122.201
+    },
+    "marketCap": 270.0,
+    "employees": 70000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "T-Mobile"
+    ]
+  },
+  {
+    "id": "WBD",
+    "ticker": "WBD",
+    "name": "Warner Bros. Discovery, Inc.",
+    "shortName": "Warner Bros. Discovery",
+    "sector": "Communication Services",
+    "industry": "Movies & Entertainment",
+    "hq": {
+      "city": "New York",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 40.754,
+      "lng": -73.984
+    },
+    "marketCap": 28.0,
+    "employees": 35000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Warner Bros"
+    ]
+  },
+  {
+    "id": "EA",
+    "ticker": "EA",
+    "name": "Electronic Arts Inc.",
+    "shortName": "Electronic Arts",
+    "sector": "Communication Services",
+    "industry": "Interactive Home Entertainment",
+    "hq": {
+      "city": "Redwood City",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.523,
+      "lng": -122.256
+    },
+    "marketCap": 40.0,
+    "employees": 14000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Electronic Arts"
+    ]
+  },
+  {
+    "id": "AMZN",
+    "ticker": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "shortName": "Amazon",
+    "sector": "Consumer Discretionary",
+    "industry": "Broadline Retail",
+    "hq": {
+      "city": "Seattle",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 47.622,
+      "lng": -122.337
+    },
+    "marketCap": 2300.0,
+    "employees": 1556000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Amazon",
+      "AWS",
+      "Amazon Web Services"
+    ]
+  },
+  {
+    "id": "TSLA",
+    "ticker": "TSLA",
+    "name": "Tesla, Inc.",
+    "shortName": "Tesla",
+    "sector": "Consumer Discretionary",
+    "industry": "Automobile Manufacturers",
+    "hq": {
+      "city": "Austin",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 30.267,
+      "lng": -97.743
+    },
+    "marketCap": 1000.0,
+    "employees": 125000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Tesla"
+    ]
+  },
+  {
+    "id": "HD",
+    "ticker": "HD",
+    "name": "The Home Depot, Inc.",
+    "shortName": "Home Depot",
+    "sector": "Consumer Discretionary",
+    "industry": "Home Improvement Retail",
+    "hq": {
+      "city": "Atlanta",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 33.749,
+      "lng": -84.388
+    },
+    "marketCap": 370.0,
+    "employees": 470000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Home Depot"
+    ]
+  },
+  {
+    "id": "MCD",
+    "ticker": "MCD",
+    "name": "McDonald's Corporation",
+    "shortName": "McDonald's",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "hq": {
+      "city": "Chicago",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 41.884,
+      "lng": -87.653
+    },
+    "marketCap": 215.0,
+    "employees": 150000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "McDonald's"
+    ]
+  },
+  {
+    "id": "NKE",
+    "ticker": "NKE",
+    "name": "NIKE, Inc.",
+    "shortName": "Nike",
+    "sector": "Consumer Discretionary",
+    "industry": "Footwear",
+    "hq": {
+      "city": "Beaverton",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 45.509,
+      "lng": -122.83
+    },
+    "marketCap": 100.0,
+    "employees": 77000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Nike"
+    ]
+  },
+  {
+    "id": "SBUX",
+    "ticker": "SBUX",
+    "name": "Starbucks Corporation",
+    "shortName": "Starbucks",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "hq": {
+      "city": "Seattle",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 47.622,
+      "lng": -122.337
+    },
+    "marketCap": 100.0,
+    "employees": 361000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Starbucks"
+    ]
+  },
+  {
+    "id": "LOW",
+    "ticker": "LOW",
+    "name": "Lowe's Companies, Inc.",
+    "shortName": "Lowe's",
+    "sector": "Consumer Discretionary",
+    "industry": "Home Improvement Retail",
+    "hq": {
+      "city": "Mooresville",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 35.584,
+      "lng": -80.81
+    },
+    "marketCap": 125.0,
+    "employees": 300000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Lowe's"
+    ]
+  },
+  {
+    "id": "BKNG",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "shortName": "Booking",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels & Travel",
+    "hq": {
+      "city": "Norwalk",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 41.118,
+      "lng": -73.408
+    },
+    "marketCap": 180.0,
+    "employees": 24000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Booking Holdings"
+    ]
+  },
+  {
+    "id": "GM",
+    "ticker": "GM",
+    "name": "General Motors Company",
+    "shortName": "GM",
+    "sector": "Consumer Discretionary",
+    "industry": "Automobile Manufacturers",
+    "hq": {
+      "city": "Detroit",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 42.329,
+      "lng": -83.04
+    },
+    "marketCap": 50.0,
+    "employees": 163000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "General Motors"
+    ]
+  },
+  {
+    "id": "F",
+    "ticker": "F",
+    "name": "Ford Motor Company",
+    "shortName": "Ford",
+    "sector": "Consumer Discretionary",
+    "industry": "Automobile Manufacturers",
+    "hq": {
+      "city": "Dearborn",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 42.315,
+      "lng": -83.212
+    },
+    "marketCap": 45.0,
+    "employees": 171000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Ford Motor"
+    ]
+  },
+  {
+    "id": "WMT",
+    "ticker": "WMT",
+    "name": "Walmart Inc.",
+    "shortName": "Walmart",
+    "sector": "Consumer Staples",
+    "industry": "Consumer Staples Retail",
+    "hq": {
+      "city": "Bentonville",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 36.372,
+      "lng": -94.209
+    },
+    "marketCap": 780.0,
+    "employees": 2100000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Walmart"
+    ]
+  },
+  {
+    "id": "COST",
+    "ticker": "COST",
+    "name": "Costco Wholesale Corporation",
+    "shortName": "Costco",
+    "sector": "Consumer Staples",
+    "industry": "Consumer Staples Retail",
+    "hq": {
+      "city": "Issaquah",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 47.53,
+      "lng": -122.032
+    },
+    "marketCap": 440.0,
+    "employees": 333000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Costco"
+    ]
+  },
+  {
+    "id": "TGT",
+    "ticker": "TGT",
+    "name": "Target Corporation",
+    "shortName": "Target",
+    "sector": "Consumer Staples",
+    "industry": "Consumer Staples Retail",
+    "hq": {
+      "city": "Minneapolis",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 44.975,
+      "lng": -93.273
+    },
+    "marketCap": 45.0,
+    "employees": 440000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Target Corporation"
+    ]
+  },
+  {
+    "id": "KR",
+    "ticker": "KR",
+    "name": "The Kroger Co.",
+    "shortName": "Kroger",
+    "sector": "Consumer Staples",
+    "industry": "Food Retail",
+    "hq": {
+      "city": "Cincinnati",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 39.103,
+      "lng": -84.512
+    },
+    "marketCap": 45.0,
+    "employees": 409000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Kroger"
+    ]
+  },
+  {
+    "id": "PG",
+    "ticker": "PG",
+    "name": "The Procter & Gamble Company",
+    "shortName": "P&G",
+    "sector": "Consumer Staples",
+    "industry": "Household Products",
+    "hq": {
+      "city": "Cincinnati",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 39.103,
+      "lng": -84.512
+    },
+    "marketCap": 375.0,
+    "employees": 108000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Procter & Gamble"
+    ]
+  },
+  {
+    "id": "KO",
+    "ticker": "KO",
+    "name": "The Coca-Cola Company",
+    "shortName": "Coca-Cola",
+    "sector": "Consumer Staples",
+    "industry": "Soft Drinks",
+    "hq": {
+      "city": "Atlanta",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 33.749,
+      "lng": -84.388
+    },
+    "marketCap": 300.0,
+    "employees": 69000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Coca-Cola"
+    ]
+  },
+  {
+    "id": "PEP",
+    "ticker": "PEP",
+    "name": "PepsiCo, Inc.",
+    "shortName": "PepsiCo",
+    "sector": "Consumer Staples",
+    "industry": "Soft Drinks & Snacks",
+    "hq": {
+      "city": "Purchase",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 41.041,
+      "lng": -73.712
+    },
+    "marketCap": 180.0,
+    "employees": 318000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "PepsiCo"
+    ]
+  },
+  {
+    "id": "MDLZ",
+    "ticker": "MDLZ",
+    "name": "Mondelez International, Inc.",
+    "shortName": "Mondelez",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods",
+    "hq": {
+      "city": "Chicago",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 41.884,
+      "lng": -87.653
+    },
+    "marketCap": 88.0,
+    "employees": 91000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Mondelez"
+    ]
+  },
+  {
+    "id": "LLY",
+    "ticker": "LLY",
+    "name": "Eli Lilly and Company",
+    "shortName": "Eli Lilly",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hq": {
+      "city": "Indianapolis",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 39.768,
+      "lng": -86.158
+    },
+    "marketCap": 700.0,
+    "employees": 47000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Eli Lilly",
+      "Lilly"
+    ]
+  },
+  {
+    "id": "JNJ",
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "shortName": "J&J",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hq": {
+      "city": "New Brunswick",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 40.497,
+      "lng": -74.445
+    },
+    "marketCap": 370.0,
+    "employees": 139000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Johnson & Johnson"
+    ]
+  },
+  {
+    "id": "UNH",
+    "ticker": "UNH",
+    "name": "UnitedHealth Group Incorporated",
+    "shortName": "UnitedHealth",
+    "sector": "Health Care",
+    "industry": "Managed Health Care",
+    "hq": {
+      "city": "Minnetonka",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 44.913,
+      "lng": -93.503
+    },
+    "marketCap": 280.0,
+    "employees": 400000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "UnitedHealth",
+      "Optum"
+    ]
+  },
+  {
+    "id": "ABBV",
+    "ticker": "ABBV",
+    "name": "AbbVie Inc.",
+    "shortName": "AbbVie",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hq": {
+      "city": "North Chicago",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 42.325,
+      "lng": -87.841
+    },
+    "marketCap": 330.0,
+    "employees": 55000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "AbbVie"
+    ]
+  },
+  {
+    "id": "MRK",
+    "ticker": "MRK",
+    "name": "Merck & Co., Inc.",
+    "shortName": "Merck",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hq": {
+      "city": "Rahway",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 40.607,
+      "lng": -74.277
+    },
+    "marketCap": 200.0,
+    "employees": 74000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Merck"
+    ]
+  },
+  {
+    "id": "PFE",
+    "ticker": "PFE",
+    "name": "Pfizer Inc.",
+    "shortName": "Pfizer",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hq": {
+      "city": "New York",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 40.754,
+      "lng": -73.984
+    },
+    "marketCap": 140.0,
+    "employees": 81000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Pfizer"
+    ]
+  },
+  {
+    "id": "TMO",
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific Inc.",
+    "shortName": "Thermo Fisher",
+    "sector": "Health Care",
+    "industry": "Life Sciences Tools",
+    "hq": {
+      "city": "Waltham",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 42.376,
+      "lng": -71.236
+    },
+    "marketCap": 155.0,
+    "employees": 125000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Thermo Fisher"
+    ]
+  },
+  {
+    "id": "ABT",
+    "ticker": "ABT",
+    "name": "Abbott Laboratories",
+    "shortName": "Abbott",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": {
+      "city": "Abbott Park",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 42.303,
+      "lng": -87.892
+    },
+    "marketCap": 230.0,
+    "employees": 114000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Abbott"
+    ]
+  },
+  {
+    "id": "ISRG",
+    "ticker": "ISRG",
+    "name": "Intuitive Surgical, Inc.",
+    "shortName": "Intuitive",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": {
+      "city": "Sunnyvale",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.369,
+      "lng": -122.036
+    },
+    "marketCap": 190.0,
+    "employees": 15000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Intuitive Surgical"
+    ]
+  },
+  {
+    "id": "AMGN",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "shortName": "Amgen",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hq": {
+      "city": "Thousand Oaks",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 34.17,
+      "lng": -118.837
+    },
+    "marketCap": 155.0,
+    "employees": 28000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Amgen"
+    ]
+  },
+  {
+    "id": "GILD",
+    "ticker": "GILD",
+    "name": "Gilead Sciences, Inc.",
+    "shortName": "Gilead",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hq": {
+      "city": "Foster City",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.559,
+      "lng": -122.271
+    },
+    "marketCap": 140.0,
+    "employees": 17000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Gilead"
+    ]
+  },
+  {
+    "id": "CVS",
+    "ticker": "CVS",
+    "name": "CVS Health Corporation",
+    "shortName": "CVS Health",
+    "sector": "Health Care",
+    "industry": "Health Care Services",
+    "hq": {
+      "city": "Woonsocket",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 42.003,
+      "lng": -71.515
+    },
+    "marketCap": 85.0,
+    "employees": 300000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "CVS",
+      "Caremark",
+      "Aetna"
+    ]
+  },
+  {
+    "id": "MCK",
+    "ticker": "MCK",
+    "name": "McKesson Corporation",
+    "shortName": "McKesson",
+    "sector": "Health Care",
+    "industry": "Health Care Distributors",
+    "hq": {
+      "city": "Irving",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 32.814,
+      "lng": -96.949
+    },
+    "marketCap": 90.0,
+    "employees": 45000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "McKesson"
+    ]
+  },
+  {
+    "id": "BMY",
+    "ticker": "BMY",
+    "name": "Bristol-Myers Squibb Company",
+    "shortName": "Bristol Myers",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hq": {
+      "city": "Princeton",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 40.357,
+      "lng": -74.667
+    },
+    "marketCap": 95.0,
+    "employees": 34000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Bristol-Myers Squibb"
+    ]
+  },
+  {
+    "id": "DHR",
+    "ticker": "DHR",
+    "name": "Danaher Corporation",
+    "shortName": "Danaher",
+    "sector": "Health Care",
+    "industry": "Life Sciences Tools",
+    "hq": {
+      "city": "Washington",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 38.907,
+      "lng": -77.037
+    },
+    "marketCap": 140.0,
+    "employees": 63000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Danaher"
+    ]
+  },
+  {
+    "id": "BRK.B",
+    "ticker": "BRK.B",
+    "name": "Berkshire Hathaway Inc.",
+    "shortName": "Berkshire",
+    "sector": "Financials",
+    "industry": "Multi-Sector Holdings",
+    "hq": {
+      "city": "Omaha",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 41.257,
+      "lng": -95.935
+    },
+    "marketCap": 1050.0,
+    "employees": 392000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Berkshire Hathaway"
+    ]
+  },
+  {
+    "id": "JPM",
+    "ticker": "JPM",
+    "name": "JPMorgan Chase & Co.",
+    "shortName": "JPMorgan",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "hq": {
+      "city": "New York",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 40.754,
+      "lng": -73.984
+    },
+    "marketCap": 800.0,
+    "employees": 317000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "JPMorgan",
+      "Chase"
+    ]
+  },
+  {
+    "id": "V",
+    "ticker": "V",
+    "name": "Visa Inc.",
+    "shortName": "Visa",
+    "sector": "Financials",
+    "industry": "Transaction Processing",
+    "hq": {
+      "city": "San Francisco",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.79,
+      "lng": -122.397
+    },
+    "marketCap": 680.0,
+    "employees": 31000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Visa"
+    ]
+  },
+  {
+    "id": "MA",
+    "ticker": "MA",
+    "name": "Mastercard Incorporated",
+    "shortName": "Mastercard",
+    "sector": "Financials",
+    "industry": "Transaction Processing",
+    "hq": {
+      "city": "Purchase",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 41.041,
+      "lng": -73.712
+    },
+    "marketCap": 520.0,
+    "employees": 33000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Mastercard"
+    ]
+  },
+  {
+    "id": "BAC",
+    "ticker": "BAC",
+    "name": "Bank of America Corporation",
+    "shortName": "Bank of America",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "hq": {
+      "city": "Charlotte",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 35.227,
+      "lng": -80.843
+    },
+    "marketCap": 350.0,
+    "employees": 213000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Bank of America"
+    ]
+  },
+  {
+    "id": "WFC",
+    "ticker": "WFC",
+    "name": "Wells Fargo & Company",
+    "shortName": "Wells Fargo",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "hq": {
+      "city": "San Francisco",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.79,
+      "lng": -122.397
+    },
+    "marketCap": 260.0,
+    "employees": 217000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Wells Fargo"
+    ]
+  },
+  {
+    "id": "GS",
+    "ticker": "GS",
+    "name": "The Goldman Sachs Group, Inc.",
+    "shortName": "Goldman Sachs",
+    "sector": "Financials",
+    "industry": "Investment Banking",
+    "hq": {
+      "city": "New York",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 40.754,
+      "lng": -73.984
+    },
+    "marketCap": 210.0,
+    "employees": 46000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Goldman Sachs"
+    ]
+  },
+  {
+    "id": "MS",
+    "ticker": "MS",
+    "name": "Morgan Stanley",
+    "shortName": "Morgan Stanley",
+    "sector": "Financials",
+    "industry": "Investment Banking",
+    "hq": {
+      "city": "New York",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 40.754,
+      "lng": -73.984
+    },
+    "marketCap": 225.0,
+    "employees": 80000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Morgan Stanley"
+    ]
+  },
+  {
+    "id": "BLK",
+    "ticker": "BLK",
+    "name": "BlackRock, Inc.",
+    "shortName": "BlackRock",
+    "sector": "Financials",
+    "industry": "Asset Management",
+    "hq": {
+      "city": "New York",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 40.754,
+      "lng": -73.984
+    },
+    "marketCap": 160.0,
+    "employees": 21000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "BlackRock"
+    ]
+  },
+  {
+    "id": "AXP",
+    "ticker": "AXP",
+    "name": "American Express Company",
+    "shortName": "American Express",
+    "sector": "Financials",
+    "industry": "Consumer Finance",
+    "hq": {
+      "city": "New York",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 40.754,
+      "lng": -73.984
+    },
+    "marketCap": 220.0,
+    "employees": 75000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "American Express",
+      "Amex"
+    ]
+  },
+  {
+    "id": "C",
+    "ticker": "C",
+    "name": "Citigroup Inc.",
+    "shortName": "Citi",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "hq": {
+      "city": "New York",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 40.754,
+      "lng": -73.984
+    },
+    "marketCap": 150.0,
+    "employees": 229000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Citigroup",
+      "Citi"
+    ]
+  },
+  {
+    "id": "SCHW",
+    "ticker": "SCHW",
+    "name": "The Charles Schwab Corporation",
+    "shortName": "Schwab",
+    "sector": "Financials",
+    "industry": "Investment Banking",
+    "hq": {
+      "city": "Westlake",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 32.984,
+      "lng": -97.201
+    },
+    "marketCap": 165.0,
+    "employees": 32000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Charles Schwab"
+    ]
+  },
+  {
+    "id": "PYPL",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "shortName": "PayPal",
+    "sector": "Financials",
+    "industry": "Transaction Processing",
+    "hq": {
+      "city": "San Jose",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.331,
+      "lng": -121.894
+    },
+    "marketCap": 70.0,
+    "employees": 24000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "PayPal"
+    ]
+  },
+  {
+    "id": "SPGI",
+    "ticker": "SPGI",
+    "name": "S&P Global Inc.",
+    "shortName": "S&P Global",
+    "sector": "Financials",
+    "industry": "Financial Data",
+    "hq": {
+      "city": "New York",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 40.754,
+      "lng": -73.984
+    },
+    "marketCap": 160.0,
+    "employees": 42000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "S&P Global"
+    ]
+  },
+  {
+    "id": "COF",
+    "ticker": "COF",
+    "name": "Capital One Financial Corporation",
+    "shortName": "Capital One",
+    "sector": "Financials",
+    "industry": "Consumer Finance",
+    "hq": {
+      "city": "McLean",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 38.934,
+      "lng": -77.177
+    },
+    "marketCap": 130.0,
+    "employees": 52000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Capital One"
+    ]
+  },
+  {
+    "id": "GE",
+    "ticker": "GE",
+    "name": "GE Aerospace",
+    "shortName": "GE Aerospace",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hq": {
+      "city": "Evendale",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 39.256,
+      "lng": -84.418
+    },
+    "marketCap": 260.0,
+    "employees": 53000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "GE Aerospace",
+      "General Electric"
+    ]
+  },
+  {
+    "id": "RTX",
+    "ticker": "RTX",
+    "name": "RTX Corporation",
+    "shortName": "RTX",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hq": {
+      "city": "Arlington",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 38.88,
+      "lng": -77.107
+    },
+    "marketCap": 195.0,
+    "employees": 185000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "RTX",
+      "Raytheon",
+      "Pratt & Whitney",
+      "Collins Aerospace"
+    ]
+  },
+  {
+    "id": "BA",
+    "ticker": "BA",
+    "name": "The Boeing Company",
+    "shortName": "Boeing",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hq": {
+      "city": "Arlington",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 38.88,
+      "lng": -77.107
+    },
+    "marketCap": 160.0,
+    "employees": 172000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Boeing"
+    ]
+  },
+  {
+    "id": "CAT",
+    "ticker": "CAT",
+    "name": "Caterpillar Inc.",
+    "shortName": "Caterpillar",
+    "sector": "Industrials",
+    "industry": "Construction Machinery",
+    "hq": {
+      "city": "Irving",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 32.814,
+      "lng": -96.949
+    },
+    "marketCap": 180.0,
+    "employees": 113000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Caterpillar"
+    ]
+  },
+  {
+    "id": "HON",
+    "ticker": "HON",
+    "name": "Honeywell International Inc.",
+    "shortName": "Honeywell",
+    "sector": "Industrials",
+    "industry": "Industrial Conglomerates",
+    "hq": {
+      "city": "Charlotte",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 35.227,
+      "lng": -80.843
+    },
+    "marketCap": 150.0,
+    "employees": 102000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Honeywell"
+    ]
+  },
+  {
+    "id": "UPS",
+    "ticker": "UPS",
+    "name": "United Parcel Service, Inc.",
+    "shortName": "UPS",
+    "sector": "Industrials",
+    "industry": "Air Freight & Logistics",
+    "hq": {
+      "city": "Atlanta",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 33.749,
+      "lng": -84.388
+    },
+    "marketCap": 85.0,
+    "employees": 490000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "United Parcel Service",
+      "UPS"
+    ]
+  },
+  {
+    "id": "FDX",
+    "ticker": "FDX",
+    "name": "FedEx Corporation",
+    "shortName": "FedEx",
+    "sector": "Industrials",
+    "industry": "Air Freight & Logistics",
+    "hq": {
+      "city": "Memphis",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 35.149,
+      "lng": -90.049
+    },
+    "marketCap": 55.0,
+    "employees": 500000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "FedEx"
+    ]
+  },
+  {
+    "id": "LMT",
+    "ticker": "LMT",
+    "name": "Lockheed Martin Corporation",
+    "shortName": "Lockheed Martin",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hq": {
+      "city": "Bethesda",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 38.984,
+      "lng": -77.094
+    },
+    "marketCap": 110.0,
+    "employees": 121000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Lockheed Martin"
+    ]
+  },
+  {
+    "id": "DE",
+    "ticker": "DE",
+    "name": "Deere & Company",
+    "shortName": "Deere",
+    "sector": "Industrials",
+    "industry": "Agricultural Machinery",
+    "hq": {
+      "city": "Moline",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 41.506,
+      "lng": -90.515
+    },
+    "marketCap": 140.0,
+    "employees": 75000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "John Deere",
+      "Deere"
+    ]
+  },
+  {
+    "id": "UNP",
+    "ticker": "UNP",
+    "name": "Union Pacific Corporation",
+    "shortName": "Union Pacific",
+    "sector": "Industrials",
+    "industry": "Rail Transportation",
+    "hq": {
+      "city": "Omaha",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 41.257,
+      "lng": -95.935
+    },
+    "marketCap": 140.0,
+    "employees": 32000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Union Pacific"
+    ]
+  },
+  {
+    "id": "GEV",
+    "ticker": "GEV",
+    "name": "GE Vernova Inc.",
+    "shortName": "GE Vernova",
+    "sector": "Industrials",
+    "industry": "Heavy Electrical Equipment",
+    "hq": {
+      "city": "Cambridge",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 42.373,
+      "lng": -71.109
+    },
+    "marketCap": 150.0,
+    "employees": 75000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "GE Vernova"
+    ]
+  },
+  {
+    "id": "UBER",
+    "ticker": "UBER",
+    "name": "Uber Technologies, Inc.",
+    "shortName": "Uber",
+    "sector": "Industrials",
+    "industry": "Passenger Ground Transport",
+    "hq": {
+      "city": "San Francisco",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.79,
+      "lng": -122.397
+    },
+    "marketCap": 190.0,
+    "employees": 31000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Uber"
+    ]
+  },
+  {
+    "id": "ETN",
+    "ticker": "ETN",
+    "name": "Eaton Corporation plc",
+    "shortName": "Eaton",
+    "sector": "Industrials",
+    "industry": "Electrical Components",
+    "hq": {
+      "city": "Dublin",
+      "country": "Ireland",
+      "countryCode": "IE",
+      "lat": 53.349,
+      "lng": -6.26
+    },
+    "marketCap": 140.0,
+    "employees": 94000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Eaton"
+    ]
+  },
+  {
+    "id": "NOC",
+    "ticker": "NOC",
+    "name": "Northrop Grumman Corporation",
+    "shortName": "Northrop Grumman",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hq": {
+      "city": "Falls Church",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 38.882,
+      "lng": -77.171
+    },
+    "marketCap": 72.0,
+    "employees": 97000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Northrop Grumman"
+    ]
+  },
+  {
+    "id": "GD",
+    "ticker": "GD",
+    "name": "General Dynamics Corporation",
+    "shortName": "General Dynamics",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hq": {
+      "city": "Reston",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 38.958,
+      "lng": -77.357
+    },
+    "marketCap": 78.0,
+    "employees": 111000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "General Dynamics"
+    ]
+  },
+  {
+    "id": "XOM",
+    "ticker": "XOM",
+    "name": "Exxon Mobil Corporation",
+    "shortName": "ExxonMobil",
+    "sector": "Energy",
+    "industry": "Integrated Oil & Gas",
+    "hq": {
+      "city": "Spring",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 30.08,
+      "lng": -95.417
+    },
+    "marketCap": 470.0,
+    "employees": 62000,
+    "universe": "SP500",
+    "cik": "0000034088",
+    "aliases": [
+      "ExxonMobil",
+      "Exxon"
+    ]
+  },
+  {
+    "id": "CVX",
+    "ticker": "CVX",
+    "name": "Chevron Corporation",
+    "shortName": "Chevron",
+    "sector": "Energy",
+    "industry": "Integrated Oil & Gas",
+    "hq": {
+      "city": "Houston",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 29.76,
+      "lng": -95.37
+    },
+    "marketCap": 250.0,
+    "employees": 45000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Chevron"
+    ]
+  },
+  {
+    "id": "COP",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "shortName": "ConocoPhillips",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "hq": {
+      "city": "Houston",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 29.76,
+      "lng": -95.37
+    },
+    "marketCap": 115.0,
+    "employees": 12000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "ConocoPhillips"
+    ]
+  },
+  {
+    "id": "SLB",
+    "ticker": "SLB",
+    "name": "SLB N.V.",
+    "shortName": "SLB",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "hq": {
+      "city": "Houston",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 29.76,
+      "lng": -95.37
+    },
+    "marketCap": 50.0,
+    "employees": 110000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "SLB",
+      "Schlumberger"
+    ]
+  },
+  {
+    "id": "OXY",
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corporation",
+    "shortName": "Occidental",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "hq": {
+      "city": "Houston",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 29.76,
+      "lng": -95.37
+    },
+    "marketCap": 42.0,
+    "employees": 13000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Occidental"
+    ]
+  },
+  {
+    "id": "LIN",
+    "ticker": "LIN",
+    "name": "Linde plc",
+    "shortName": "Linde",
+    "sector": "Materials",
+    "industry": "Industrial Gases",
+    "hq": {
+      "city": "Woking",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "lat": 51.319,
+      "lng": -0.558
+    },
+    "marketCap": 220.0,
+    "employees": 66000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Linde"
+    ]
+  },
+  {
+    "id": "APD",
+    "ticker": "APD",
+    "name": "Air Products and Chemicals, Inc.",
+    "shortName": "Air Products",
+    "sector": "Materials",
+    "industry": "Industrial Gases",
+    "hq": {
+      "city": "Allentown",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 40.608,
+      "lng": -75.49
+    },
+    "marketCap": 62.0,
+    "employees": 21000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Air Products"
+    ]
+  },
+  {
+    "id": "SHW",
+    "ticker": "SHW",
+    "name": "The Sherwin-Williams Company",
+    "shortName": "Sherwin-Williams",
+    "sector": "Materials",
+    "industry": "Specialty Chemicals",
+    "hq": {
+      "city": "Cleveland",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 41.499,
+      "lng": -81.694
+    },
+    "marketCap": 85.0,
+    "employees": 64000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Sherwin-Williams"
+    ]
+  },
+  {
+    "id": "NEE",
+    "ticker": "NEE",
+    "name": "NextEra Energy, Inc.",
+    "shortName": "NextEra",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hq": {
+      "city": "Juno Beach",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 26.88,
+      "lng": -80.053
+    },
+    "marketCap": 150.0,
+    "employees": 17000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "NextEra"
+    ]
+  },
+  {
+    "id": "CEG",
+    "ticker": "CEG",
+    "name": "Constellation Energy Corporation",
+    "shortName": "Constellation",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hq": {
+      "city": "Baltimore",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 39.29,
+      "lng": -76.612
+    },
+    "marketCap": 95.0,
+    "employees": 14000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Constellation Energy"
+    ]
+  },
+  {
+    "id": "VST",
+    "ticker": "VST",
+    "name": "Vistra Corp.",
+    "shortName": "Vistra",
+    "sector": "Utilities",
+    "industry": "Independent Power Producers",
+    "hq": {
+      "city": "Irving",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 32.814,
+      "lng": -96.949
+    },
+    "marketCap": 55.0,
+    "employees": 5000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Vistra"
+    ]
+  },
+  {
+    "id": "DUK",
+    "ticker": "DUK",
+    "name": "Duke Energy Corporation",
+    "shortName": "Duke Energy",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hq": {
+      "city": "Charlotte",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 35.227,
+      "lng": -80.843
+    },
+    "marketCap": 90.0,
+    "employees": 27000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Duke Energy"
+    ]
+  },
+  {
+    "id": "PLD",
+    "ticker": "PLD",
+    "name": "Prologis, Inc.",
+    "shortName": "Prologis",
+    "sector": "Real Estate",
+    "industry": "Industrial REITs",
+    "hq": {
+      "city": "San Francisco",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.79,
+      "lng": -122.397
+    },
+    "marketCap": 100.0,
+    "employees": 2700,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Prologis"
+    ]
+  },
+  {
+    "id": "AMT",
+    "ticker": "AMT",
+    "name": "American Tower Corporation",
+    "shortName": "American Tower",
+    "sector": "Real Estate",
+    "industry": "Telecom Tower REITs",
+    "hq": {
+      "city": "Boston",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 42.36,
+      "lng": -71.058
+    },
+    "marketCap": 100.0,
+    "employees": 4700,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "American Tower"
+    ]
+  },
+  {
+    "id": "EQIX",
+    "ticker": "EQIX",
+    "name": "Equinix, Inc.",
+    "shortName": "Equinix",
+    "sector": "Real Estate",
+    "industry": "Data Center REITs",
+    "hq": {
+      "city": "Redwood City",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.523,
+      "lng": -122.256
+    },
+    "marketCap": 85.0,
+    "employees": 13000,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Equinix"
+    ]
+  },
+  {
+    "id": "DLR",
+    "ticker": "DLR",
+    "name": "Digital Realty Trust, Inc.",
+    "shortName": "Digital Realty",
+    "sector": "Real Estate",
+    "industry": "Data Center REITs",
+    "hq": {
+      "city": "Austin",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 30.267,
+      "lng": -97.743
+    },
+    "marketCap": 57.0,
+    "employees": 3900,
+    "universe": "SP500",
+    "cik": null,
+    "aliases": [
+      "Digital Realty"
+    ]
+  },
+  {
+    "id": "TSM",
+    "ticker": "TSM",
+    "name": "Taiwan Semiconductor Manufacturing Company",
+    "shortName": "TSMC",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": {
+      "city": "Hsinchu",
+      "country": "Taiwan",
+      "countryCode": "TW",
+      "lat": 24.804,
+      "lng": 120.971
+    },
+    "marketCap": 1000.0,
+    "employees": 77000,
+    "universe": "GLOBAL",
+    "cik": null,
+    "aliases": [
+      "Taiwan Semiconductor",
+      "TSMC"
+    ]
+  },
+  {
+    "id": "005930.KS",
+    "ticker": "005930.KS",
+    "name": "Samsung Electronics Co., Ltd.",
+    "shortName": "Samsung",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware",
+    "hq": {
+      "city": "Suwon",
+      "country": "South Korea",
+      "countryCode": "KR",
+      "lat": 37.263,
+      "lng": 127.029
+    },
+    "marketCap": 280.0,
+    "employees": 267000,
+    "universe": "GLOBAL",
+    "cik": null,
+    "aliases": [
+      "Samsung"
+    ]
+  },
+  {
+    "id": "ASML",
+    "ticker": "ASML",
+    "name": "ASML Holding N.V.",
+    "shortName": "ASML",
+    "sector": "Information Technology",
+    "industry": "Semiconductor Equipment",
+    "hq": {
+      "city": "Veldhoven",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "lat": 51.42,
+      "lng": 5.405
+    },
+    "marketCap": 290.0,
+    "employees": 42000,
+    "universe": "GLOBAL",
+    "cik": null,
+    "aliases": [
+      "ASML"
+    ]
+  },
+  {
+    "id": "2317.TW",
+    "ticker": "2317.TW",
+    "name": "Hon Hai Precision Industry Co., Ltd.",
+    "shortName": "Foxconn",
+    "sector": "Information Technology",
+    "industry": "Electronic Manufacturing Services",
+    "hq": {
+      "city": "New Taipei",
+      "country": "Taiwan",
+      "countryCode": "TW",
+      "lat": 25.012,
+      "lng": 121.465
+    },
+    "marketCap": 75.0,
+    "employees": 800000,
+    "universe": "GLOBAL",
+    "cik": null,
+    "aliases": [
+      "Hon Hai",
+      "Foxconn"
+    ]
+  },
+  {
+    "id": "000660.KS",
+    "ticker": "000660.KS",
+    "name": "SK hynix Inc.",
+    "shortName": "SK hynix",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": {
+      "city": "Icheon",
+      "country": "South Korea",
+      "countryCode": "KR",
+      "lat": 37.279,
+      "lng": 127.443
+    },
+    "marketCap": 120.0,
+    "employees": 32000,
+    "universe": "GLOBAL",
+    "cik": null,
+    "aliases": [
+      "SK hynix",
+      "SK Hynix"
+    ]
+  },
+  {
+    "id": "ARM",
+    "ticker": "ARM",
+    "name": "Arm Holdings plc",
+    "shortName": "Arm",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": {
+      "city": "Cambridge",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "lat": 52.205,
+      "lng": 0.119
+    },
+    "marketCap": 150.0,
+    "employees": 8000,
+    "universe": "GLOBAL",
+    "cik": null,
+    "aliases": [
+      "Arm Holdings",
+      "Arm Limited"
+    ]
+  },
+  {
+    "id": "SAP",
+    "ticker": "SAP",
+    "name": "SAP SE",
+    "shortName": "SAP",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hq": {
+      "city": "Walldorf",
+      "country": "Germany",
+      "countryCode": "DE",
+      "lat": 49.306,
+      "lng": 8.642
+    },
+    "marketCap": 330.0,
+    "employees": 108000,
+    "universe": "GLOBAL",
+    "cik": null,
+    "aliases": [
+      "SAP"
+    ]
+  },
+  {
+    "id": "SONY",
+    "ticker": "SONY",
+    "name": "Sony Group Corporation",
+    "shortName": "Sony",
+    "sector": "Consumer Discretionary",
+    "industry": "Consumer Electronics",
+    "hq": {
+      "city": "Tokyo",
+      "country": "Japan",
+      "countryCode": "JP",
+      "lat": 35.681,
+      "lng": 139.767
+    },
+    "marketCap": 150.0,
+    "employees": 113000,
+    "universe": "GLOBAL",
+    "cik": null,
+    "aliases": [
+      "Sony"
+    ]
+  },
+  {
+    "id": "TM",
+    "ticker": "TM",
+    "name": "Toyota Motor Corporation",
+    "shortName": "Toyota",
+    "sector": "Consumer Discretionary",
+    "industry": "Automobile Manufacturers",
+    "hq": {
+      "city": "Toyota City",
+      "country": "Japan",
+      "countryCode": "JP",
+      "lat": 35.083,
+      "lng": 137.156
+    },
+    "marketCap": 230.0,
+    "employees": 380000,
+    "universe": "GLOBAL",
+    "cik": null,
+    "aliases": [
+      "Toyota"
+    ]
+  },
+  {
+    "id": "NVO",
+    "ticker": "NVO",
+    "name": "Novo Nordisk A/S",
+    "shortName": "Novo Nordisk",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hq": {
+      "city": "Bagsvaerd",
+      "country": "Denmark",
+      "countryCode": "DK",
+      "lat": 55.759,
+      "lng": 12.456
+    },
+    "marketCap": 300.0,
+    "employees": 77000,
+    "universe": "GLOBAL",
+    "cik": null,
+    "aliases": [
+      "Novo Nordisk"
+    ]
+  },
+  {
+    "id": "openai",
+    "ticker": null,
+    "name": "OpenAI",
+    "shortName": "OpenAI",
+    "sector": "Information Technology",
+    "industry": "AI Research & Products",
+    "hq": {
+      "city": "San Francisco",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.79,
+      "lng": -122.397
+    },
+    "marketCap": 300.0,
+    "employees": null,
+    "universe": "PRIVATE",
+    "cik": null,
+    "aliases": [
+      "OpenAI"
+    ]
+  },
+  {
+    "id": "anthropic",
+    "ticker": null,
+    "name": "Anthropic",
+    "shortName": "Anthropic",
+    "sector": "Information Technology",
+    "industry": "AI Research & Products",
+    "hq": {
+      "city": "San Francisco",
+      "country": "United States",
+      "countryCode": "US",
+      "lat": 37.79,
+      "lng": -122.397
+    },
+    "marketCap": 60.0,
+    "employees": null,
+    "universe": "PRIVATE",
+    "cik": null,
+    "aliases": [
+      "Anthropic"
+    ]
+  }
+]

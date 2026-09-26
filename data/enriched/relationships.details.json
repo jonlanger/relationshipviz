@@ -1,0 +1,158 @@
+{
+  "ko__investor__mnst": {
+    "summary": "Coca-Cola owns roughly a fifth of Monster Beverage, a stake bought in 2015 for $2.15 billion that has grown to about 19% as Monster repurchased shares. The deal swapped brands between the two: Monster took Coca-Cola's energy drinks, and Coca-Cola's bottlers became Monster's main distribution network.",
+    "flows": [
+      "Equity stake (~19%)",
+      "Distribution through Coca-Cola bottlers",
+      "Brand swap (energy drinks to Monster)"
+    ],
+    "materiality": {
+      "dealValueUsdB": 2.15,
+      "note": "Coca-Cola is Monster's largest shareholder."
+    },
+    "since": 2015,
+    "status": "active",
+    "events": [
+      {
+        "date": "2015-06",
+        "title": "Coca-Cola closes 16.7% stake purchase",
+        "url": "https://investors.monsterbevcorp.com/news-releases/news-release-details/coca-cola-company-and-monster-beverage-corporation-close"
+      }
+    ],
+    "provenance": "machine",
+    "researchedAt": "2026-09-24"
+  },
+  "mrvl__supplier__amzn": {
+    "summary": "Marvell designs custom AI accelerators and data-center networking chips for Amazon Web Services under a five-year agreement signed in December 2024, and is a key design partner on AWS's Trainium chips. AWS is one of Marvell's most important growth customers.",
+    "flows": [
+      "Custom AI accelerators (Trainium)",
+      "Optical and electrical interconnect DSPs",
+      "Ethernet switching silicon"
+    ],
+    "materiality": {
+      "note": "Deal value not disclosed; custom AI silicon for hyperscalers is Marvell's fastest-growing business."
+    },
+    "since": 2024,
+    "status": "active",
+    "events": [
+      {
+        "date": "2024-12",
+        "title": "Five-year AWS agreement announced",
+        "url": "https://www.marvell.com/company/newsroom/marvell-expands-strategic-collaboration-aws-enable-accelerated-infrastructure-ai-cloud.html"
+      }
+    ],
+    "provenance": "machine",
+    "researchedAt": "2026-09-24"
+  },
+  "vz__supplier__chtr": {
+    "summary": "Charter's Spectrum Mobile is a mobile virtual network operator: it sells wireless service that runs on Verizon's network, combined with Spectrum Wi-Fi. The arrangement lets Charter bundle mobile with broadband without building a cellular network, and pays Verizon wholesale revenue.",
+    "flows": [
+      "Wholesale wireless network access (MVNO)"
+    ],
+    "materiality": {
+      "note": "Mobile is Charter's main source of customer growth; Charter added a business-focused MVNO with T-Mobile later."
+    },
+    "since": 2018,
+    "status": "active",
+    "events": [
+      {
+        "date": "2018",
+        "title": "Spectrum Mobile launches on Verizon's network",
+        "url": "https://rcrwireless.com/20180706/carriers/spectrum-mobile-charter-comcast-mvno-tag17"
+      }
+    ],
+    "provenance": "machine",
+    "researchedAt": "2026-09-24"
+  },
+  "axp__partner__dal": {
+    "summary": "Delta and American Express run the co-branded Delta SkyMiles credit cards. Amex buys miles and pays Delta for card benefits; Delta received about $7.4 billion in 2024 and about $8.2 billion in 2025, one of its most profitable revenue streams. For Amex, Delta cards are among its largest co-brand portfolios.",
+    "flows": [
+      "SkyMiles purchases and co-brand remuneration",
+      "Card benefits (lounge access, companion fares)"
+    ],
+    "materiality": {
+      "dealValueUsdB": 8.2,
+      "note": "Annual remuneration to Delta in 2025."
+    },
+    "status": "active",
+    "events": [
+      {
+        "date": "2024",
+        "title": "Amex remuneration to Delta reaches ~$7.4B",
+        "url": "https://www.flyertalk.com/articles/delta-earns-nearly-2-billion-on-american-express-cards-alone.html"
+      }
+    ],
+    "provenance": "machine",
+    "researchedAt": "2026-09-24"
+  },
+  "jbl__supplier__aapl": {
+    "summary": "Jabil manufactures components and enclosures for Apple products and has long been one of Apple's contract manufacturers. Apple remains Jabil's largest customer, although its share of Jabil's revenue has fallen from 28% in fiscal 2018 to 11% in fiscal 2024 as Jabil diversified into data-center and healthcare work.",
+    "flows": [
+      "Precision components and enclosures",
+      "Contract manufacturing"
+    ],
+    "materiality": {
+      "revenueShare": {
+        "value": 0.11,
+        "of": "JBL",
+        "year": 2024,
+        "basis": "Jabil 10-K customer concentration disclosure"
+      }
+    },
+    "status": "active",
+    "events": [
+      {
+        "date": "2024",
+        "title": "Apple 11% of Jabil revenue",
+        "url": "https://www.sec.gov/Archives/edgar/data/898293/000162828024043960/jbl-20240831.htm"
+      }
+    ],
+    "provenance": "machine",
+    "researchedAt": "2026-09-24"
+  },
+  "cdns__partner__nvda": {
+    "summary": "Cadence's chip-design (EDA) and simulation software runs accelerated on Nvidia GPUs, and Nvidia designs its own chips with Cadence tools. In April 2026 the companies expanded the partnership to agentic AI design flows, physics simulation and digital twins.",
+    "flows": [
+      "EDA and simulation software",
+      "GPU-accelerated solvers (CUDA-X, Omniverse)"
+    ],
+    "materiality": {
+      "note": "Strategic rather than a disclosed revenue share."
+    },
+    "status": "active",
+    "events": [
+      {
+        "date": "2026-04",
+        "title": "Partnership expanded at CadenceLIVE",
+        "url": "https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-and-nvidia-expand-partnership-to-reinvent-engineering.html"
+      }
+    ],
+    "provenance": "machine",
+    "researchedAt": "2026-09-24"
+  },
+  "cah__supplier__cvs": {
+    "summary": "Cardinal Health distributes pharmaceuticals to CVS Health's pharmacies, and CVS is by far its largest customer at about a quarter of revenue for a decade. The two also run Red Oak Sourcing, a generic-drug sourcing joint venture.",
+    "flows": [
+      "Pharmaceutical distribution",
+      "Generic drug sourcing (Red Oak JV)"
+    ],
+    "materiality": {
+      "revenueShare": {
+        "value": 0.28,
+        "of": "CAH",
+        "year": 2026,
+        "basis": "Cardinal Health 10-K customer concentration disclosure"
+      }
+    },
+    "status": "active",
+    "events": [
+      {
+        "date": "2026",
+        "title": "CVS 28% of Cardinal revenue",
+        "url": "https://www.stocktitan.net/sec-filings/CAH/10-k-cardinal-health-inc-files-annual-report-d553bdd2cd17.html"
+      }
+    ],
+    "provenance": "machine",
+    "researchedAt": "2026-09-24"
+  }
+}

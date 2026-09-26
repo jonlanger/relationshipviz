@@ -1,0 +1,932 @@
+{
+  "tsm__supplier__nvda": {
+    "summary": "TSMC manufactures Nvidia's data-center GPUs and packages them with high-bandwidth memory using its CoWoS advanced packaging. Demand for Blackwell, and next for Rubin, made Nvidia TSMC's largest customer in 2025. Nvidia has reportedly reserved most of TSMC's CoWoS capacity for 2025\u20132026.",
+    "flows": [
+      "Leading-edge wafer fabrication",
+      "CoWoS-L advanced packaging",
+      "Blackwell and Rubin data-center GPUs"
+    ],
+    "materiality": {
+      "revenueShare": {
+        "value": 0.19,
+        "of": "TSM",
+        "year": 2025,
+        "basis": "Industry estimates of TSMC customer mix (TSMC does not name customers)"
+      },
+      "dealValueUsdB": null,
+      "note": "Nvidia reportedly holds more than 60% of TSMC's CoWoS packaging capacity for 2025\u20132026."
+    },
+    "since": null,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-02",
+        "title": "Reports: Nvidia books ~70% of TSMC's 2025 CoWoS-L capacity",
+        "url": "https://www.trendforce.com/news/2025/02/24/news-tsmc-reportedly-sees-cowos-order-surge-with-nvidia-securing-70-of-2025-cowos-l-capacity/"
+      },
+      {
+        "date": "2025",
+        "title": "Nvidia overtakes Apple as TSMC's largest customer (~19% of revenue)",
+        "url": "https://www.techpowerup.com/346835/nvidia-beats-apple-to-become-tsmcs-largest-customer"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "tsm__supplier__aapl": {
+    "summary": "TSMC is the sole manufacturer of Apple-designed chips: the A-series in iPhone and the M-series in Mac and iPad. Apple was TSMC's largest customer for years, at roughly a quarter of revenue in 2023\u20132024. It slipped to second behind Nvidia in 2025 as AI accelerators drove TSMC's growth.",
+    "flows": [
+      "A-series iPhone processors (e.g. A19 Pro)",
+      "M-series Mac and iPad processors (e.g. M5)",
+      "Early access to leading-edge nodes"
+    ],
+    "materiality": {
+      "revenueShare": {
+        "value": 0.17,
+        "of": "TSM",
+        "year": 2025,
+        "basis": "Industry estimates of TSMC customer mix"
+      },
+      "dealValueUsdB": null,
+      "note": "Apple's orders are high-volume but smaller chips; AI accelerators earn TSMC more per wafer."
+    },
+    "since": null,
+    "status": "active",
+    "events": [
+      {
+        "date": "2024",
+        "title": "Apple is TSMC's biggest customer at ~24% of revenue",
+        "url": "https://wccftech.com/apple-might-not-be-biggest-tsmc-customer-in-2025/"
+      },
+      {
+        "date": "2025",
+        "title": "Nvidia overtakes Apple as TSMC's largest customer",
+        "url": "https://www.iclarified.com/99762/nvidia-set-to-overtake-apple-as-tsmcs-largest-customer-amid-ai-boom-report"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "asml__supplier__tsm": {
+    "summary": "ASML is the only maker of EUV lithography machines, which TSMC needs for every leading-edge process. TSMC is reported to be ASML's largest customer. In 2026 TSMC said it would not adopt ASML's newest High-NA EUV tools through 2029, citing their cost of over \u20ac350M each. Samsung, Intel and SK hynix will lead early High-NA adoption instead.",
+    "flows": [
+      "EUV lithography systems",
+      "DUV lithography systems",
+      "Installed-base service and upgrades"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": null,
+      "note": "ASML's 2025 net sales were \u20ac32.7B; TSMC is reported as its largest customer (~a quarter of sales)."
+    },
+    "since": null,
+    "status": "active",
+    "events": [
+      {
+        "date": "2026-04",
+        "title": "TSMC says it will skip High-NA EUV through 2029",
+        "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/asml-s-high-na-commitments-from-samsung-and-tsmc-cement-revenue-visibility/70133653"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "000660.ks__supplier__nvda": {
+    "summary": "SK hynix is Nvidia's main supplier of high-bandwidth memory (HBM), the stacked DRAM packaged next to each GPU. It led the global HBM market in 2025 with about 59% of bit output. It is reported to supply roughly 70% of Nvidia's HBM4 orders for the Vera Rubin platform, with Samsung as the other supplier.",
+    "flows": [
+      "HBM3E memory",
+      "HBM4 memory for Vera Rubin"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": null,
+      "note": "Reported to hold ~70% of Nvidia's HBM4 orders; Micron was not selected for Vera Rubin HBM4."
+    },
+    "since": null,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-09-12",
+        "title": "SK hynix readies HBM4 production for Nvidia",
+        "url": "https://www.cnbc.com/2025/09/12/sk-hynix-hbm4-chips-nvidia-samsung-micron.html"
+      },
+      {
+        "date": "2026-03",
+        "title": "Samsung and SK hynix selected as Vera Rubin HBM4 suppliers",
+        "url": "https://www.trendforce.com/news/2026/03/09/news-samsung-sk%E2%80%AFhynix-reportedly-tapped-as-nvidia-rubin-hbm4-suppliers-shipments-could-start-in-march/"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "qcom__supplier__aapl": {
+    "summary": "Qualcomm has supplied the cellular modem in most iPhones, but Apple is replacing it with its own C-series modems. Apple's C1X ships in iPhone Air and iPhone 17e, while iPhone 17 and 17 Pro kept Qualcomm's X80, partly for mmWave support. Reports say Apple's 2026 C2 modem covers most of the lineup, with Qualcomm still used in US models that need mmWave.",
+    "flows": [
+      "Snapdragon X-series cellular modems",
+      "mmWave support for US carriers"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": null,
+      "note": "Winding down as Apple's in-house modems take over."
+    },
+    "since": null,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-09",
+        "title": "iPhone 17 and 17 Pro keep Qualcomm X80; iPhone Air uses Apple C1X",
+        "url": "https://9to5mac.com/2025/09/24/why-iphone-17-pro-doesnt-have-apples-new-c1x-modem/"
+      },
+      {
+        "date": "2026-07",
+        "title": "Reports: iPhone 18 Pro uses Qualcomm in the US, Apple C2 elsewhere",
+        "url": "https://www.macrumors.com/2026/07/02/iphone-18-pro-could-use-qualcomm-modem-in-the-us/"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "2317.tw__supplier__aapl": {
+    "summary": "Foxconn (Hon Hai) is Apple's main iPhone assembler. It runs large plants in China and a growing base in India that now builds most iPhones sold in the US. Apple matters less to Foxconn than it used to: AI server revenue overtook consumer electronics in Q2 2025, and the division that includes iPhone was under 29% of revenue in a recent quarter.",
+    "flows": [
+      "iPhone final assembly",
+      "Manufacturing in China and India"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": null,
+      "note": "Foxconn's consumer electronics segment (incl. iPhone) fell below 30% of revenue as AI servers grew."
+    },
+    "since": null,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-05",
+        "title": "Foxconn ships $3.2B of iPhones from India (Mar\u2013May), 97% to the US",
+        "url": "https://www.theregister.com/2025/08/15/foxconn_q2_2025"
+      },
+      {
+        "date": "2025-Q2",
+        "title": "AI servers overtake consumer electronics in Foxconn revenue",
+        "url": "https://www.datacenterdynamics.com/en/news/foxconn-generated-more-revenue-from-ai-servers-than-iphones-in-q2-2025/"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "avgo__supplier__googl": {
+    "summary": "Broadcom has co-designed Google's TPU AI accelerators since 2016 and is now on the seventh generation, Ironwood, launched November 2025. Google has been Broadcom's largest custom-chip (XPU) customer. Broadcom says Anthropic, which runs on Google TPUs, is on track to become its largest XPU customer in 2027.",
+    "flows": [
+      "TPU co-design and supply (Ironwood / TPU v7)",
+      "Custom AI accelerator (XPU) services"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": null,
+      "note": "Broadcom's AI semiconductor revenue reached $8.4B in Q1 FY2026, up 106% year over year."
+    },
+    "since": 2016,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-11",
+        "title": "Google launches Ironwood (TPU v7)",
+        "url": "https://www.trendforce.com/news/2025/11/07/news-google-unveils-7th-gen-tpu-ironwood-with-9216-chip-superpod-taking-aim-at-nvidia/"
+      },
+      {
+        "date": "2026-09",
+        "title": "Broadcom: Anthropic on track to become largest XPU customer in 2027",
+        "url": "https://www.benzinga.com/markets/tech/26/09/61594615/broadcom-ceo-hock-tan-anthropic-largest-xpu-customer-google-tpu-orders"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "nvda__investor__intc": {
+    "summary": "Nvidia bought about $5B of Intel stock (about 217M shares at $23.28, a stake of roughly 4\u20135%), cleared by the FTC in December 2025. The deal came with a product collaboration. Intel will build custom x86 CPUs for Nvidia's AI platforms, and x86 PC chips with integrated Nvidia RTX GPU chiplets.",
+    "flows": [
+      "$5B equity investment",
+      "Custom x86 CPUs for Nvidia data-center platforms",
+      "x86 SoCs with Nvidia RTX GPU chiplets"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": 5.0,
+      "note": null
+    },
+    "since": 2025,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-09-18",
+        "title": "Nvidia announces $5B Intel stake and chip collaboration",
+        "url": "https://techcrunch.com/2025/09/18/nvidia-buys-5-billion-stake-in-intel-planning-ai-chip-collaboration/"
+      },
+      {
+        "date": "2025-12-19",
+        "title": "FTC clears the investment",
+        "url": "https://www.tomshardware.com/tech-industry/nvidia-gives-intel-a-lifeline-with-usd5-billion-common-stock-deal-september-deal-gets-ftc-approval-for-more-than-217-4-million-intel-shares-at-usd23-28-per-share"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "nvda__supplier__msft": {
+    "summary": "Microsoft is among the largest buyers of Nvidia GPU systems for Azure AI infrastructure. Nvidia doesn't name customers, but its fiscal 2026 10-K shows heavy concentration: one direct customer was 22% of revenue and another 14%. In November 2025 the two also joined a three-way partnership with Anthropic, whose Claude models run on Azure on Nvidia systems.",
+    "flows": [
+      "GPU systems (Hopper, Blackwell) for Azure",
+      "AI networking"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": null,
+      "note": "Nvidia's two largest (unnamed) direct customers were 22% and 14% of fiscal 2026 revenue."
+    },
+    "since": null,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-11-18",
+        "title": "Microsoft\u2013Nvidia\u2013Anthropic partnership announced",
+        "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "msft__investor__openai": {
+    "summary": "Microsoft is one of OpenAI's largest shareholders. After OpenAI became a public benefit corporation in October 2025, Microsoft held about 27% (valued at roughly $135B) on about $13.8B invested. The partnership loosened in April 2026: Microsoft's exclusive right to resell OpenAI models ended, but it keeps a license to OpenAI IP through 2032.",
+    "flows": [
+      "Equity capital (~$13.8B invested)",
+      "License to OpenAI models and IP through 2032",
+      "Capped revenue share paid by OpenAI to Microsoft through 2030"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": 13.8,
+      "note": "Stake valued at ~$135B after the October 2025 recapitalization."
+    },
+    "since": 2019,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-10-28",
+        "title": "OpenAI recapitalizes as a PBC; Microsoft holds ~27%",
+        "url": "https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/"
+      },
+      {
+        "date": "2026-04-27",
+        "title": "Exclusivity ends; Microsoft stops paying revenue share to OpenAI",
+        "url": "https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "msft__supplier__openai": {
+    "summary": "Azure has been OpenAI's primary cloud. In October 2025 OpenAI contracted an additional $250B of Azure services. Since April 2026 OpenAI can serve its products on any cloud, but Microsoft remains its primary cloud partner and OpenAI products ship first on Azure.",
+    "flows": [
+      "Azure compute for training and inference",
+      "Azure OpenAI Service distribution (non-exclusive since April 2026)"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": 250.0,
+      "note": null
+    },
+    "since": 2019,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-10-28",
+        "title": "OpenAI commits an incremental $250B to Azure",
+        "url": "https://www.geekwire.com/2025/microsoft-secures-27-stake-in-openai-in-new-deal-with-commitment-for-250b-in-azure-usage/"
+      },
+      {
+        "date": "2026-04-27",
+        "title": "Azure exclusivity ends; Azure remains primary cloud",
+        "url": "https://openai.com/index/next-phase-of-microsoft-partnership/"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "orcl__supplier__openai": {
+    "summary": "Oracle is building much of OpenAI's Stargate capacity. A roughly $300B, five-year contract signed in September 2025 and starting in 2027 covers about 4.5 GW of data-center capacity. The flagship Stargate campus in Abilene, Texas runs on Oracle Cloud Infrastructure.",
+    "flows": [
+      "Oracle Cloud Infrastructure compute",
+      "Stargate data-center capacity (~4.5 GW)"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": 300.0,
+      "note": "Expected to add roughly $30B a year to Oracle revenue from 2027."
+    },
+    "since": null,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-09",
+        "title": "~$300B, five-year compute contract",
+        "url": "https://siliconangle.com/2025/09/10/openai-oracle-strike-300b-cloud-computing-deal-power-ai/"
+      },
+      {
+        "date": "2025-09",
+        "title": "Five new Stargate sites announced with Oracle and SoftBank",
+        "url": "https://openai.com/index/five-new-stargate-sites/"
+      },
+      {
+        "date": "2025-12",
+        "title": "Oracle says the contract is on schedule",
+        "url": "https://www.theregister.com/2025/12/15/oracle_denies_openai_delays/"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "amd__supplier__openai": {
+    "summary": "In October 2025 AMD and OpenAI agreed that OpenAI will deploy 6 GW of AMD Instinct GPUs across several generations, starting with 1 GW of MI450 in the second half of 2026. AMD also gave OpenAI a warrant for up to 160 million AMD shares at $0.01. The shares vest as deployments scale and as AMD's stock clears price targets up to $600.",
+    "flows": [
+      "Instinct MI450 GPUs and later generations",
+      "Warrant for up to 160M AMD shares (to OpenAI)"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": null,
+      "note": "First 1 GW deployment scheduled for the second half of 2026."
+    },
+    "since": 2025,
+    "status": "announced",
+    "events": [
+      {
+        "date": "2025-10-06",
+        "title": "6 GW agreement and 160M-share warrant announced",
+        "url": "https://ir.amd.com/financial-information/sec-filings/content/0001193125-25-230895/d28189dex991.htm"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "nvda__investor__openai": {
+    "summary": "In September 2025 Nvidia signed a letter of intent to invest up to $100B in OpenAI, in step with 10 GW of Nvidia systems being deployed. That plan was dropped. In February 2026 Nvidia instead invested $30B directly in OpenAI's $110B funding round.",
+    "flows": [
+      "$30B equity investment"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": 30.0,
+      "note": null
+    },
+    "since": 2025,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-09-22",
+        "title": "Letter of intent: up to $100B tied to 10 GW of Nvidia systems",
+        "url": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems"
+      },
+      {
+        "date": "2026-02-27",
+        "title": "Nvidia invests $30B in OpenAI's $110B round, replacing the LOI",
+        "url": "https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "nvda__supplier__openai": {
+    "summary": "OpenAI runs mostly on Nvidia systems, bought directly and through cloud partners Microsoft, Oracle and AWS. The September 2025 partnership envisioned at least 10 GW of Nvidia systems for OpenAI, with the first gigawatt on the Vera Rubin platform in the second half of 2026.",
+    "flows": [
+      "GPU systems (Blackwell, Vera Rubin)",
+      "Networking"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": null,
+      "note": null
+    },
+    "since": null,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-09-22",
+        "title": "Plan to deploy at least 10 GW of Nvidia systems",
+        "url": "https://openai.com/index/openai-nvidia-systems-partnership/"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "amzn__investor__anthropic": {
+    "summary": "Amazon invested $8B in Anthropic through 2024. In April 2026 it agreed to invest $5B more immediately and up to $20B beyond that. In return, Anthropic committed to spend more than $100B on AWS over ten years.",
+    "flows": [
+      "Equity capital ($8B; +$5B and up to $20B more from April 2026)"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": 13.0,
+      "note": "$13B committed outright; up to $33B including contingent tranches."
+    },
+    "since": 2023,
+    "status": "active",
+    "events": [
+      {
+        "date": "2023-09",
+        "title": "Amazon agrees to invest up to $4B",
+        "url": "https://techcrunch.com/2023/09/25/amazon-to-invest-up-to-4-billion-in-ai-startup-anthropic"
+      },
+      {
+        "date": "2026-04",
+        "title": "Additional $5B now, up to $20B more",
+        "url": "https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "amzn__supplier__anthropic": {
+    "summary": "AWS is Anthropic's primary training partner. Project Rainier, an ~$11B AWS data center in Indiana, went live in October 2025 with nearly 500,000 Trainium2 chips for Claude, and over a million Trainium2 chips now train and serve Claude. Anthropic has committed to spend more than $100B on AWS over ten years.",
+    "flows": [
+      "Trainium2 / Trainium3 accelerators",
+      "Project Rainier compute cluster",
+      "AWS cloud infrastructure"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": 100.0,
+      "note": null
+    },
+    "since": 2023,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-10-29",
+        "title": "Project Rainier opens with ~500,000 Trainium2 chips",
+        "url": "https://www.cnbc.com/2025/10/29/amazon-opens-11-billion-ai-data-center-project-rainier-in-indiana.html"
+      },
+      {
+        "date": "2026-04",
+        "title": "Anthropic commits $100B+ to AWS over ten years",
+        "url": "https://www.anthropic.com/news/anthropic-amazon-compute"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "googl__investor__anthropic": {
+    "summary": "Google has backed Anthropic since 2023, with more than $3B invested and a reported ~14% stake before 2026. In April 2026 it agreed to invest up to $40B more: $10B immediately at a $350B valuation, and up to $30B more tied to performance milestones.",
+    "flows": [
+      "Equity capital ($10B now, up to $30B more)"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": 40.0,
+      "note": "Largest single commitment to an AI startup outside Microsoft\u2013OpenAI."
+    },
+    "since": 2023,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-01",
+        "title": "Google adds a $1B investment",
+        "url": "https://aimagazine.com/news/why-is-google-doubling-down-on-anthropic-with-a-us-40bn-bet"
+      },
+      {
+        "date": "2026-04-24",
+        "title": "Up to $40B investment announced",
+        "url": "https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "googl__supplier__anthropic": {
+    "summary": "Anthropic is Google Cloud's largest outside TPU customer. An October 2025 deal worth tens of billions of dollars gives it access to up to one million TPUs, well over a gigawatt of capacity coming online in 2026. In 2026 the deal was expanded with Broadcom to cover several more gigawatts from 2027.",
+    "flows": [
+      "Google Cloud TPUs (Ironwood)",
+      "Google Cloud services"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": null,
+      "note": "Deal value reported in the tens of billions of dollars."
+    },
+    "since": 2023,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-10-23",
+        "title": "Up to one million TPUs (>1 GW in 2026)",
+        "url": "https://www.googlecloudpresscorner.com/2025-10-23-Anthropic-to-Expand-Use-of-Google-Cloud-TPUs-and-Services"
+      },
+      {
+        "date": "2026",
+        "title": "Google\u2013Broadcom deal expanded to multiple gigawatts from 2027",
+        "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "aapl__partner__googl": {
+    "summary": "Google pays Apple to be the default search engine in Safari: about $20B of the more than $26B a year Google spends on default placements, per the 2025 antitrust case. A September 2025 ruling let the payments continue but barred exclusive deals and limited such agreements to one year. Separately, since January 2026 Apple licenses Google's Gemini models for Siri.",
+    "flows": [
+      "Default search placement in Safari",
+      "Traffic-acquisition payments to Apple (~$20B a year)"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": null,
+      "note": "Roughly $20B a year flows from Google to Apple for search defaults, per trial evidence."
+    },
+    "since": null,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-09-02",
+        "title": "Court allows default-search payments but bans exclusive deals",
+        "url": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html"
+      },
+      {
+        "date": "2025-12-05",
+        "title": "Remedies finalized; deals capped at one year",
+        "url": "https://www.cnbc.com/2025/12/05/judge-finalize-remedies-in-google-antitrust-case.html"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "brk.b__investor__aapl": {
+    "summary": "Apple remains Berkshire Hathaway's largest stock holding, but Berkshire has been a steady seller since late 2023. It cut about two-thirds of the position in 2024 and kept trimming through 2025, to about 238 million shares after Q3 2025.",
+    "flows": [
+      "Equity stake (~238M shares after Q3 2025)"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": null,
+      "note": null
+    },
+    "since": 2016,
+    "status": "active",
+    "events": [
+      {
+        "date": "2024",
+        "title": "Berkshire sells about two-thirds of its Apple shares",
+        "url": "https://www.fool.com/investing/2025/11/19/billionaire-warren-buffett-sold-74-berkshire-apple/"
+      },
+      {
+        "date": "2025-Q3",
+        "title": "Sells ~42M more shares (~15% of the position)",
+        "url": "https://www.cnbc.com/2025/11/03/warren-buffett-may-have-again-cut-berkshires-stake-in-apple-in-q3-.html"
+      },
+      {
+        "date": "2025-Q4",
+        "title": "Trims again; Apple still the largest holding",
+        "url": "https://www.forbes.com/sites/bill_stone/2026/02/18/berkshire-q4-13f-buffett-trims-apple-buys-new-york-times/"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "brk.b__investor__oxy": {
+    "summary": "Berkshire owned about 28% of Occidental's common stock as of mid-2025. It deepened the tie by buying Occidental's chemicals unit, OxyChem, for $9.7B in cash, closed January 2, 2026, which was Berkshire's largest acquisition since 2022. Occidental used most of the proceeds to pay down debt.",
+    "flows": [
+      "Equity stake (~28%)",
+      "$9.7B cash for OxyChem"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": 9.7,
+      "note": null
+    },
+    "since": 2019,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-10-02",
+        "title": "Berkshire agrees to buy OxyChem for $9.7B",
+        "url": "https://www.cnbc.com/2025/10/02/warren-buffett-berkshire-occidental-oxychem.html"
+      },
+      {
+        "date": "2026-01-02",
+        "title": "OxyChem acquisition completed",
+        "url": "https://berkshirehathaway.com/news/jan0226.pdf"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "aapl__partner__gs": {
+    "summary": "Goldman Sachs has issued the Apple Card since 2019 but is leaving consumer lending. In January 2026 Apple agreed to move the program, with more than $20B in balances, to JPMorgan Chase over about two years. Goldman runs the card during the transition, and Mastercard remains the network.",
+    "flows": [
+      "Apple Card issuing and servicing (through transition)"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": null,
+      "note": "Winding down: the program moves to JPMorgan Chase over ~24 months."
+    },
+    "since": 2019,
+    "status": "active",
+    "events": [
+      {
+        "date": "2026-01-07",
+        "title": "Agreement to transition Apple Card to Chase",
+        "url": "https://www.goldmansachs.com/pressroom/press-releases/2026/goldman-sachs-announces-agreement-to-transition-apple-card-program-to-chase"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "pg__supplier__wmt": {
+    "summary": "Walmart is P&G's biggest customer. Sales to Walmart and its affiliates were about 16% of P&G's total sales in fiscal 2025 and 2024 (15% in 2023), according to P&G's 10-K.",
+    "flows": [
+      "Household and personal-care products"
+    ],
+    "materiality": {
+      "revenueShare": {
+        "value": 0.16,
+        "of": "PG",
+        "year": 2025,
+        "basis": "P&G fiscal 2025 Form 10-K"
+      },
+      "dealValueUsdB": null,
+      "note": null
+    },
+    "since": null,
+    "status": "active",
+    "events": [],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "ups__supplier__amzn": {
+    "summary": "Amazon is UPS's largest customer but not its most profitable. In January 2025 UPS agreed with Amazon to cut Amazon volume in its network by more than 50% by June 2026, shedding about $5B of revenue. Amazon's share of UPS revenue fell from 11.8% in 2024 to 10.6% in 2025, and 8.8% in a recent quarter.",
+    "flows": [
+      "Parcel delivery and logistics"
+    ],
+    "materiality": {
+      "revenueShare": {
+        "value": 0.106,
+        "of": "UPS",
+        "year": 2025,
+        "basis": "UPS disclosures as reported by trade press"
+      },
+      "dealValueUsdB": null,
+      "note": "Deliberately shrinking: UPS is trading Amazon volume for margin."
+    },
+    "since": null,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-01",
+        "title": "UPS to cut Amazon volume by more than 50% by mid-2026",
+        "url": "https://www.retaildive.com/news/ups-amazon-volume-reduction-q4-2024-earnings/738770/"
+      },
+      {
+        "date": "2026",
+        "title": "Glide-down nearly complete",
+        "url": "https://www.supplychaindive.com/news/ups-amazon-volume-cuts-are-nearly-done-whats-next/818673/"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "ge__supplier__ba": {
+    "summary": "GE Aerospace powers Boeing's two key commercial programs. Through CFM International, its 50/50 joint venture with Safran, it supplies the LEAP-1B, the only engine on the 737 MAX; CFM has powered every 737 since 1981. GE is also the exclusive engine supplier for the 777X with the GE9X.",
+    "flows": [
+      "LEAP-1B engines via CFM International",
+      "GE9X engines for the 777X",
+      "Aftermarket services"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": null,
+      "note": "Sole-source on both the 737 MAX and 777X."
+    },
+    "since": 1981,
+    "status": "active",
+    "events": [
+      {
+        "date": "2011",
+        "title": "Boeing selects LEAP-1B as sole engine for the 737 MAX",
+        "url": "https://www.cfmaeroengines.com/press-articles/boeing-selects-leap-1b-as-sole-powerplant-for-new-737-max"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "ceg__supplier__msft": {
+    "summary": "Under a 20-year power purchase agreement signed in 2024, Microsoft will buy the output of Three Mile Island Unit 1. Constellation is restarting the ~835 MW unit as the Crane Clean Energy Center to help match Microsoft's data-center power use in the PJM grid with carbon-free energy. Constellation is investing about $1.6B and initially targeted a 2028 restart.",
+    "flows": [
+      "~835 MW of nuclear power (20-year PPA)"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": null,
+      "note": "First US nuclear plant restart backed by a single tech buyer."
+    },
+    "since": 2024,
+    "status": "announced",
+    "events": [
+      {
+        "date": "2024-09-20",
+        "title": "20-year PPA to restart Three Mile Island Unit 1",
+        "url": "https://www.constellationenergy.com/news/2024/Constellation-to-Launch-Crane-Clean-Energy-Center-Restoring-Jobs-and-Carbon-Free-Power-to-The-Grid.html"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "msft__investor__anthropic": {
+    "summary": "As part of a three-way partnership announced in November 2025, Microsoft committed to invest up to $5B in Anthropic, and Anthropic's Claude models became available to Azure customers. The deal valued Anthropic at around $350B.",
+    "flows": [
+      "Equity capital (up to $5B)"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": 5.0,
+      "note": null
+    },
+    "since": 2025,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-11-18",
+        "title": "Microsoft commits up to $5B",
+        "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "nvda__investor__anthropic": {
+    "summary": "Nvidia committed to invest up to $10B in Anthropic in November 2025. The two companies agreed to optimize Claude for Nvidia's Grace Blackwell and Vera Rubin systems.",
+    "flows": [
+      "Equity capital (up to $10B)",
+      "Joint engineering on Grace Blackwell / Vera Rubin"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": 10.0,
+      "note": null
+    },
+    "since": 2025,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-11-18",
+        "title": "Nvidia commits up to $10B",
+        "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "msft__supplier__anthropic": {
+    "summary": "Anthropic committed to buy $30B of Azure compute capacity, plus additional capacity of up to one gigawatt, running on Nvidia systems. This makes Microsoft one of Anthropic's three major cloud providers, alongside AWS and Google Cloud.",
+    "flows": [
+      "Azure compute ($30B commitment)",
+      "Up to 1 GW of additional capacity"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": 30.0,
+      "note": null
+    },
+    "since": 2025,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-11-18",
+        "title": "$30B Azure commitment",
+        "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "amzn__investor__openai": {
+    "summary": "Amazon invested $50B in OpenAI's $110B funding round in 2026: $15B up front, and $35B more once conditions were met. The round valued OpenAI at $730B before the new money. Amazon is now a significant OpenAI shareholder while remaining Anthropic's largest cloud partner.",
+    "flows": [
+      "Equity capital ($50B)"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": 50.0,
+      "note": null
+    },
+    "since": 2026,
+    "status": "active",
+    "events": [
+      {
+        "date": "2026-02-27",
+        "title": "Amazon commits $50B in OpenAI's $110B round",
+        "url": "https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html"
+      },
+      {
+        "date": "2026-07",
+        "title": "Amazon completes the $50B investment",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-completes-50-billion-dollar-investment-openai/"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "amzn__supplier__openai": {
+    "summary": "After Microsoft's cloud exclusivity loosened, OpenAI signed a seven-year, $38B AWS agreement in November 2025 for access to hundreds of thousands of Nvidia GPUs. In 2026 the agreement was expanded by $100B over eight years.",
+    "flows": [
+      "AWS EC2 UltraServers with Nvidia GPUs",
+      "CPU capacity for agentic workloads"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": 138.0,
+      "note": "$38B initial agreement plus a $100B expansion."
+    },
+    "since": 2025,
+    "status": "active",
+    "events": [
+      {
+        "date": "2025-11-03",
+        "title": "$38B, seven-year AWS agreement",
+        "url": "https://www.aboutamazon.com/news/aws/aws-open-ai-workloads-compute-infrastructure"
+      },
+      {
+        "date": "2026-02",
+        "title": "Agreement expanded by $100B over eight years",
+        "url": "https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "avgo__supplier__anthropic": {
+    "summary": "Broadcom builds the Google-designed TPUs that Anthropic uses. It is deploying about 1 GW of Ironwood TPU capacity for Anthropic in 2026 and expects roughly 5 GW of next-generation TPUs in 2027. Broadcom's CEO says Anthropic is on track to become its largest custom-chip (XPU) customer in 2027.",
+    "flows": [
+      "Ironwood TPU racks (~1 GW in 2026)",
+      "Next-generation TPU capacity (~5 GW expected in 2027)"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": null,
+      "note": "Reported orders of ~$10B (2025) and ~$11B (2026) for TPU racks."
+    },
+    "since": 2025,
+    "status": "active",
+    "events": [
+      {
+        "date": "2026-09",
+        "title": "Broadcom: Anthropic to be largest XPU customer in 2027",
+        "url": "https://www.benzinga.com/markets/tech/26/09/61594615/broadcom-ceo-hock-tan-anthropic-largest-xpu-customer-google-tpu-orders"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "aapl__partner__jpm": {
+    "summary": "JPMorgan Chase will become the issuer of Apple Card, taking over a portfolio of more than $20B in balances from Goldman Sachs. The transition is expected to take about two years, and the card stays on the Mastercard network.",
+    "flows": [
+      "Apple Card issuing (from ~2026\u20132028)"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": null,
+      "note": null
+    },
+    "since": 2026,
+    "status": "announced",
+    "events": [
+      {
+        "date": "2026-01-07",
+        "title": "Chase to become Apple Card issuer",
+        "url": "https://www.apple.com/newsroom/2026/01/chase-to-become-new-issuer-of-apple-card/"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  },
+  "googl__supplier__aapl": {
+    "summary": "Under a multi-year, non-exclusive deal announced in January 2026, Apple's next-generation foundation models are based on Google's Gemini models and cloud technology. They power a rebuilt, more personal Siri and other Apple Intelligence features. Apple reportedly pays about $1B a year.",
+    "flows": [
+      "Gemini models for Apple Foundation Models",
+      "Google Cloud technology"
+    ],
+    "materiality": {
+      "revenueShare": null,
+      "dealValueUsdB": null,
+      "note": "Reported at about $1B a year; non-exclusive."
+    },
+    "since": 2026,
+    "status": "active",
+    "events": [
+      {
+        "date": "2026-01-12",
+        "title": "Joint statement: Gemini to power Apple Intelligence and Siri",
+        "url": "https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/"
+      }
+    ],
+    "provenance": "verified",
+    "researchedAt": "2026-09-23"
+  }
+}

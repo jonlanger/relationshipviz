@@ -1,0 +1,19 @@
+.row {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2_5);
+  width: calc(100% + var(--space-4));
+  margin: 0 calc(var(--space-2) * -1);
+  padding: var(--space-1_5) var(--space-2);
+  border-radius: var(--radius-md);
+  text-align: left;
+  transition: background-color var(--duration-fast) var(--ease-standard);
+}
+.row:hover { background: var(--color-bg-hover); }
+.body { display: grid; flex: 1; min-width: 0; }
+.relation { display: flex; align-items: center; gap: var(--space-1); color: var(--color-text-tertiary); min-width: 0; }
+.strength { flex-shrink: 0; }
+.bar { display: block; width: 40px; height: 4px; border-radius: 2px; background: var(--color-bg-active); overflow: hidden; }
+.fill { display: block; height: 100%; border-radius: 2px; background: var(--color-text-secondary); }
+.nameRow { display: flex; align-items: center; gap: var(--space-1_5); min-width: 0; }
+.researched { width: 6px; height: 6px; border-radius: 50%; background: var(--color-accent-default); flex-shrink: 0; }

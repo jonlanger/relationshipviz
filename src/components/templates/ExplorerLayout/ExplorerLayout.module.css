@@ -1,0 +1,90 @@
+.layout {
+  --sidebar-w: 300px;
+  --drawer-w: 380px;
+  position: relative;
+  display: grid;
+  grid-template-columns: 0 1fr 0;
+  height: 100%;
+  min-height: 0;
+  overflow: hidden;
+  transition: grid-template-columns var(--duration-slow) var(--ease-emphasized);
+}
+.withSidebar { grid-template-columns: var(--sidebar-w) 1fr 0; }
+.withDrawer { grid-template-columns: 0 1fr var(--drawer-w); }
+.withSidebar.withDrawer { grid-template-columns: var(--sidebar-w) 1fr var(--drawer-w); }
+
+.sidebar {
+  min-height: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background: var(--color-bg-surface-1);
+  border-right: 1px solid var(--color-border-subtle);
+}
+.sidebar[hidden] { display: block; visibility: hidden; }
+.canvas { position: relative; min-width: 0; min-height: 0; }
+.toolbar {
+  position: absolute;
+  top: var(--space-4);
+  left: var(--space-4);
+  right: var(--space-4);
+  z-index: var(--z-raised);
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  pointer-events: none;
+}
+.toolbar > * { pointer-events: auto; }
+.drawer {
+  min-height: 0;
+  overflow: hidden;
+  background: var(--color-bg-surface-1);
+  border-left: 1px solid var(--color-border-subtle);
+}
+.drawer > * { width: var(--drawer-w); }
+
+@media (max-width: 1200px) {
+  .layout { --drawer-w: 340px; --sidebar-w: 288px; }
+  /* Drawer overlays the canvas instead of squeezing it. */
+  .withDrawer { grid-template-columns: 0 1fr 0; }
+  .withSidebar.withDrawer { grid-template-columns: var(--sidebar-w) 1fr 0; }
+  .drawer {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: var(--drawer-w);
+    z-index: var(--z-drawer);
+    box-shadow: var(--shadow-lg);
+    transform: translateX(100%);
+    transition: transform var(--duration-slow) var(--ease-emphasized);
+  }
+  .drawerOpen { transform: none; }
+}
+
+@media (max-width: 900px) {
+  .layout, .withSidebar, .withDrawer, .withSidebar.withDrawer { grid-template-columns: 1fr; }
+  /* Toolbar stays reachable above the overlay panel so it can be closed. */
+  .toolbar { z-index: calc(var(--z-drawer) + 1); }
+  .sidebar {
+    position: absolute;
+    inset: 64px auto 0 0;
+    width: min(320px, 88vw);
+    border-radius: 0 var(--radius-xl) 0 0;
+    border-top: 1px solid var(--color-border-default);
+    z-index: var(--z-drawer);
+    box-shadow: var(--shadow-lg);
+  }
+  .sidebar[hidden] { display: none; }
+  .drawer {
+    top: auto;
+    left: 0;
+    width: 100%;
+    height: min(70vh, 560px);
+    border-left: 0;
+    border-top: 1px solid var(--color-border-default);
+    border-radius: var(--radius-xl) var(--radius-xl) 0 0;
+    transform: translateY(100%);
+  }
+  .drawer > * { width: 100%; }
+  .drawerOpen { transform: none; }
+}

@@ -1,0 +1,22 @@
+.meter { display: grid; gap: var(--space-1); min-width: 0; }
+.label {
+  font-size: var(--text-overline-size);
+  line-height: var(--text-overline-line);
+  letter-spacing: var(--text-overline-tracking);
+  font-weight: var(--text-overline-weight);
+  text-transform: uppercase;
+  color: var(--color-text-tertiary);
+}
+.value {
+  font-size: var(--text-h1-size);
+  line-height: var(--text-h1-line);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-primary);
+  font-variant-numeric: tabular-nums;
+}
+.sm .value { font-size: var(--text-h3-size); line-height: var(--text-h3-line); }
+.of { margin-left: var(--space-0_5); font-size: var(--text-caption-size); font-weight: var(--font-weight-regular); color: var(--color-text-tertiary); }
+.track { display: block; height: 4px; border-radius: 2px; background: var(--color-bg-active); overflow: hidden; }
+.fill { display: block; height: 100%; border-radius: 2px; }
+.caption { font-size: var(--text-caption-size); line-height: var(--text-caption-line); color: var(--color-text-tertiary); }
+.note { color: var(--color-text-secondary); }

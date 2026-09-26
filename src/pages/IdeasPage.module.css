@@ -1,0 +1,33 @@
+.page { height: 100%; overflow-y: auto; }
+.inner { max-width: 1200px; margin: 0 auto; padding: var(--space-10) var(--space-6) var(--space-16); display: grid; gap: var(--space-8); }
+.header { display: grid; gap: var(--space-3); }
+.title {
+  font-size: var(--text-display-size);
+  line-height: var(--text-display-line);
+  letter-spacing: var(--text-display-tracking);
+  font-weight: var(--text-display-weight);
+  color: var(--color-text-primary);
+}
+.lede { max-width: 68ch; }
+.disclaimer {
+  display: flex;
+  gap: var(--space-2_5);
+  align-items: flex-start;
+  max-width: 80ch;
+  padding: var(--space-3) var(--space-4);
+  border-radius: var(--radius-lg);
+  background: var(--color-bg-surface-2);
+  border: 1px solid var(--color-border-subtle);
+  color: var(--color-text-secondary);
+}
+.results { display: grid; gap: var(--space-8); }
+.answers { display: flex; flex-wrap: wrap; gap: var(--space-2); align-items: center; }
+.section { display: grid; gap: var(--space-4); }
+.sectionTitle { font-size: var(--text-h1-size); line-height: var(--text-h1-line); font-weight: var(--font-weight-semibold); color: var(--color-text-primary); }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: var(--space-4); }
+.exposure { display: grid; gap: var(--space-3); padding: var(--space-4); border-radius: var(--radius-lg); background: var(--color-bg-surface-1); border: 1px solid var(--color-border-subtle); }
+.exposureHead { display: flex; flex-wrap: wrap; justify-content: space-between; gap: var(--space-3); align-items: center; }
+.warnings { display: grid; gap: var(--space-1_5); list-style: disc; padding-left: var(--space-5); color: var(--color-text-secondary); font-size: var(--text-body-sm-size); }
+.link { color: var(--color-text-accent); text-decoration: underline; text-underline-offset: 2px; font-size: var(--text-body-sm-size); }
+.srOnly { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+@media (max-width: 760px) { .inner { padding: var(--space-6) var(--space-4) var(--space-12); } }

@@ -1,0 +1,616 @@
+{
+  "tsm__supplier__nvda": [
+    {
+      "kind": "research",
+      "url": "https://www.trendforce.com/news/2025/02/24/news-tsmc-reportedly-sees-cowos-order-surge-with-nvidia-securing-70-of-2025-cowos-l-capacity/",
+      "title": "TSMC Reportedly Sees CoWoS Order Surge, with NVIDIA Securing 70% of 2025 CoWoS-L Capacity",
+      "publisher": "TrendForce",
+      "date": "2025-02-24",
+      "note": "Nvidia's share of TSMC's advanced-packaging capacity."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.techpowerup.com/346835/nvidia-beats-apple-to-become-tsmcs-largest-customer",
+      "title": "NVIDIA Beats Apple to Become TSMC's Largest Customer",
+      "publisher": "TechPowerUp",
+      "date": null,
+      "note": "Nvidia ~19% vs Apple ~17% of TSMC 2025 revenue."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.tomshardware.com/tech-industry/why-tsmc-grew-four-times-faster-than-its-foundry-rivals-in-2025",
+      "title": "Why TSMC grew four times faster than its foundry rivals in 2025",
+      "publisher": "Tom's Hardware",
+      "date": null,
+      "note": "AI demand drove TSMC's 2025 growth."
+    }
+  ],
+  "tsm__supplier__aapl": [
+    {
+      "kind": "research",
+      "url": "https://www.iclarified.com/99762/nvidia-set-to-overtake-apple-as-tsmcs-largest-customer-amid-ai-boom-report",
+      "title": "Nvidia Set to Overtake Apple as TSMC's Largest Customer",
+      "publisher": "iClarified",
+      "date": null,
+      "note": "Apple ~17% of TSMC 2025 revenue; product mix explanation."
+    },
+    {
+      "kind": "research",
+      "url": "https://wccftech.com/apple-might-not-be-biggest-tsmc-customer-in-2025/",
+      "title": "Apple Was TSMC's Biggest Customer In 2024, Accounting For 24% Of Revenue",
+      "publisher": "Wccftech",
+      "date": null,
+      "note": "Apple's 2024 share of TSMC revenue."
+    }
+  ],
+  "asml__supplier__tsm": [
+    {
+      "kind": "research",
+      "url": "https://www.techzine.eu/news/devices/144122/asml-gets-tsmc-and-samsung-excited-about-high-na-euv/",
+      "title": "ASML gets TSMC and Samsung excited about High-NA EUV",
+      "publisher": "Techzine",
+      "date": null,
+      "note": "High-NA adoption plans at TSMC and Samsung."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/asml-s-high-na-commitments-from-samsung-and-tsmc-cement-revenue-visibility/70133653",
+      "title": "ASML's High-NA Commitments From Samsung and TSMC",
+      "publisher": "ad-hoc-news",
+      "date": null,
+      "note": "TSMC skipping High-NA through 2029; tool cost."
+    }
+  ],
+  "000660.ks__supplier__nvda": [
+    {
+      "kind": "research",
+      "url": "https://www.cnbc.com/2025/09/12/sk-hynix-hbm4-chips-nvidia-samsung-micron.html",
+      "title": "Nvidia-supplier SK Hynix readies production for cutting-edge HBM4 memory chips",
+      "publisher": "CNBC",
+      "date": "2025-09-12",
+      "note": "SK hynix as Nvidia's primary HBM supplier."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.kedglobal.com/korean-chipmakers/newsView/ked202603080004",
+      "title": "Samsung, SK Hynix win Vera Rubin HBM4 slots, widening lead over Micron",
+      "publisher": "KED Global",
+      "date": "2026-03-08",
+      "note": "Supplier selection for Vera Rubin HBM4."
+    }
+  ],
+  "qcom__supplier__aapl": [
+    {
+      "kind": "research",
+      "url": "https://9to5mac.com/2025/09/24/why-iphone-17-pro-doesnt-have-apples-new-c1x-modem/",
+      "title": "Why iPhone 17 Pro doesn't have Apple's new C1X modem",
+      "publisher": "9to5Mac",
+      "date": "2025-09-24",
+      "note": "iPhone 17 lineup modem split."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.macrumors.com/2026/07/02/iphone-18-pro-could-use-qualcomm-modem-in-the-us/",
+      "title": "iPhone 18 Pro Could Use Qualcomm Modem in the US and C2 Elsewhere",
+      "publisher": "MacRumors",
+      "date": "2026-07-02",
+      "note": "2026 modem plans."
+    },
+    {
+      "kind": "research",
+      "url": "https://appleinsider.com/articles/26/07/08/all-the-qualcomm-parts-used-in-the-iphone-ipad-apple-watch-and-more",
+      "title": "All the Qualcomm parts used in the iPhone, iPad, Apple Watch",
+      "publisher": "AppleInsider",
+      "date": "2026-07-08",
+      "note": "Remaining Qualcomm components in Apple devices."
+    }
+  ],
+  "2317.tw__supplier__aapl": [
+    {
+      "kind": "research",
+      "url": "https://www.datacenterdynamics.com/en/news/foxconn-generated-more-revenue-from-ai-servers-than-iphones-in-q2-2025/",
+      "title": "Foxconn generated more revenue from AI servers than iPhones in Q2 2025",
+      "publisher": "DCD",
+      "date": null,
+      "note": "Segment mix shift."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.macobserver.com/news/apple-supplier-foxconns-ai-server-business-just-crossed-50-of-revenue/",
+      "title": "Apple Supplier Foxconn's AI Server Business Just Crossed 50% of Revenue",
+      "publisher": "The Mac Observer",
+      "date": null,
+      "note": "iPhone segment under 29% of revenue."
+    }
+  ],
+  "avgo__supplier__googl": [
+    {
+      "kind": "research",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia",
+      "title": "The custom AI ASIC state of play (May 2026)",
+      "publisher": "Tom's Hardware",
+      "date": "2026-05",
+      "note": "Broadcom's role in Google TPUs."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.trendforce.com/news/2025/11/07/news-google-unveils-7th-gen-tpu-ironwood-with-9216-chip-superpod-taking-aim-at-nvidia/",
+      "title": "Google Unveils 7th-Gen TPU Ironwood",
+      "publisher": "TrendForce",
+      "date": "2025-11-07",
+      "note": "Ironwood launch."
+    }
+  ],
+  "nvda__investor__intc": [
+    {
+      "kind": "research",
+      "url": "https://techcrunch.com/2025/09/18/nvidia-buys-5-billion-stake-in-intel-planning-ai-chip-collaboration/",
+      "title": "Nvidia buys $5 billion stake in Intel",
+      "publisher": "TechCrunch",
+      "date": "2025-09-18",
+      "note": "Deal terms and collaboration."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.tomshardware.com/tech-industry/nvidia-gives-intel-a-lifeline-with-usd5-billion-common-stock-deal-september-deal-gets-ftc-approval-for-more-than-217-4-million-intel-shares-at-usd23-28-per-share",
+      "title": "Nvidia gives Intel a lifeline with $5 billion common stock deal",
+      "publisher": "Tom's Hardware",
+      "date": "2025-12",
+      "note": "FTC approval; share count and price."
+    }
+  ],
+  "nvda__supplier__msft": [
+    {
+      "kind": "filing",
+      "url": "https://www.marketscreener.com/news/nvidia-annual-report-for-fiscal-year-ending-january-25-2026-form-10-k-ce7e5cd8d18af32d",
+      "title": "NVIDIA Annual Report for Fiscal Year Ending January 25, 2026 (Form 10-K)",
+      "publisher": "MarketScreener",
+      "date": "2026-02",
+      "note": "Customer concentration disclosure."
+    },
+    {
+      "kind": "press",
+      "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/",
+      "title": "Microsoft, NVIDIA and Anthropic announce strategic partnerships",
+      "publisher": "Microsoft",
+      "date": "2025-11-18",
+      "note": "Three-way partnership."
+    }
+  ],
+  "msft__investor__openai": [
+    {
+      "kind": "press",
+      "url": "https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/",
+      "title": "The next chapter of the Microsoft\u2013OpenAI partnership",
+      "publisher": "Microsoft",
+      "date": "2025-10-28",
+      "note": "27% stake, IP rights through 2032."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.geekwire.com/2025/microsoft-secures-27-stake-in-openai-in-new-deal-with-commitment-for-250b-in-azure-usage/",
+      "title": "Microsoft gets 27% stake in OpenAI, and a $250B Azure commitment",
+      "publisher": "GeekWire",
+      "date": "2025-10-28",
+      "note": "$13.8B invested; stake value."
+    },
+    {
+      "kind": "press",
+      "url": "https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/",
+      "title": "The next phase of the Microsoft\u2013OpenAI partnership",
+      "publisher": "Microsoft",
+      "date": "2026-04-27",
+      "note": "End of exclusivity; revenue-share changes."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.cnbc.com/2026/04/27/openai-microsoft-partnership-revenue-cap.html",
+      "title": "OpenAI shakes up partnership with Microsoft, capping revenue share payments",
+      "publisher": "CNBC",
+      "date": "2026-04-27",
+      "note": "Revenue share capped through 2030; AGI clause removed."
+    }
+  ],
+  "msft__supplier__openai": [
+    {
+      "kind": "research",
+      "url": "https://www.geekwire.com/2025/microsoft-secures-27-stake-in-openai-in-new-deal-with-commitment-for-250b-in-azure-usage/",
+      "title": "Microsoft gets 27% stake in OpenAI, and a $250B Azure commitment",
+      "publisher": "GeekWire",
+      "date": "2025-10-28",
+      "note": "$250B incremental Azure commitment."
+    },
+    {
+      "kind": "press",
+      "url": "https://openai.com/index/next-phase-of-microsoft-partnership/",
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "publisher": "OpenAI",
+      "date": "2026-04-27",
+      "note": "Any-cloud distribution; Azure first."
+    }
+  ],
+  "orcl__supplier__openai": [
+    {
+      "kind": "research",
+      "url": "https://siliconangle.com/2025/09/10/openai-oracle-strike-300b-cloud-computing-deal-power-ai/",
+      "title": "OpenAI and Oracle strike $300B cloud computing deal",
+      "publisher": "SiliconANGLE",
+      "date": "2025-09-10",
+      "note": "Contract size and term."
+    },
+    {
+      "kind": "press",
+      "url": "https://openai.com/index/five-new-stargate-sites/",
+      "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI data center sites",
+      "publisher": "OpenAI",
+      "date": "2025-09-23",
+      "note": "Stargate site expansion."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.theregister.com/2025/12/15/oracle_denies_openai_delays/",
+      "title": "Oracle insists its $300B contract with OpenAI is on schedule",
+      "publisher": "The Register",
+      "date": "2025-12-15",
+      "note": "Delivery status."
+    }
+  ],
+  "amd__supplier__openai": [
+    {
+      "kind": "filing",
+      "url": "https://ir.amd.com/financial-information/sec-filings/content/0001193125-25-230895/d28189dex991.htm",
+      "title": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
+      "publisher": "AMD (8-K exhibit)",
+      "date": "2025-10-06",
+      "note": "Deal terms and warrant."
+    }
+  ],
+  "nvda__investor__openai": [
+    {
+      "kind": "press",
+      "url": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
+      "title": "OpenAI and NVIDIA Announce Strategic Partnership to Deploy 10 Gigawatts of NVIDIA Systems",
+      "publisher": "NVIDIA",
+      "date": "2025-09-22",
+      "note": "Original letter of intent."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html",
+      "title": "OpenAI announces $110 billion funding round with backing from Amazon, Nvidia, SoftBank",
+      "publisher": "CNBC",
+      "date": "2026-02-27",
+      "note": "Nvidia's $30B participation."
+    }
+  ],
+  "nvda__supplier__openai": [
+    {
+      "kind": "press",
+      "url": "https://openai.com/index/openai-nvidia-systems-partnership/",
+      "title": "OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems",
+      "publisher": "OpenAI",
+      "date": "2025-09-22",
+      "note": "Deployment plan."
+    }
+  ],
+  "amzn__investor__anthropic": [
+    {
+      "kind": "press",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai",
+      "title": "Amazon announces $5B Anthropic investment, up to $20B more",
+      "publisher": "Amazon",
+      "date": "2026-04",
+      "note": "2026 investment terms."
+    },
+    {
+      "kind": "research",
+      "url": "https://techcrunch.com/2023/09/25/amazon-to-invest-up-to-4-billion-in-ai-startup-anthropic",
+      "title": "Amazon to invest up to $4 billion in AI startup Anthropic",
+      "publisher": "TechCrunch",
+      "date": "2023-09-25",
+      "note": "Initial investment."
+    }
+  ],
+  "amzn__supplier__anthropic": [
+    {
+      "kind": "research",
+      "url": "https://www.cnbc.com/2025/10/29/amazon-opens-11-billion-ai-data-center-project-rainier-in-indiana.html",
+      "title": "Amazon opens $11 billion AI data center Project Rainier in Indiana",
+      "publisher": "CNBC",
+      "date": "2025-10-29",
+      "note": "Project Rainier scale."
+    },
+    {
+      "kind": "press",
+      "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+      "title": "Anthropic and Amazon expand compute collaboration",
+      "publisher": "Anthropic",
+      "date": "2026-04",
+      "note": "Expanded compute commitment."
+    }
+  ],
+  "googl__investor__anthropic": [
+    {
+      "kind": "research",
+      "url": "https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html",
+      "title": "Google to invest up to $40 billion in Anthropic",
+      "publisher": "CNBC",
+      "date": "2026-04-24",
+      "note": "Deal terms; prior stake."
+    },
+    {
+      "kind": "research",
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "publisher": "TechCrunch",
+      "date": "2026-04-24",
+      "note": "Cash and compute structure."
+    }
+  ],
+  "googl__supplier__anthropic": [
+    {
+      "kind": "press",
+      "url": "https://www.googlecloudpresscorner.com/2025-10-23-Anthropic-to-Expand-Use-of-Google-Cloud-TPUs-and-Services",
+      "title": "Anthropic to Expand Use of Google Cloud TPUs and Services",
+      "publisher": "Google Cloud",
+      "date": "2025-10-23",
+      "note": "TPU capacity deal."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.cnbc.com/2025/10/23/anthropic-google-cloud-deal-tpu.html",
+      "title": "Google and Anthropic announce cloud deal worth tens of billions of dollars",
+      "publisher": "CNBC",
+      "date": "2025-10-23",
+      "note": "Deal value."
+    }
+  ],
+  "aapl__partner__googl": [
+    {
+      "kind": "research",
+      "url": "https://www.cnbc.com/2025/08/27/google-search-antitrust-decision-apple.html",
+      "title": "Google might lose its $26 billion search deals in antitrust trial",
+      "publisher": "CNBC",
+      "date": "2025-08-27",
+      "note": "Size of payments to Apple."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html",
+      "title": "Google avoids worst-case penalties in antitrust case",
+      "publisher": "CNBC",
+      "date": "2025-09-02",
+      "note": "Remedies ruling."
+    }
+  ],
+  "brk.b__investor__aapl": [
+    {
+      "kind": "research",
+      "url": "https://www.cnbc.com/2025/11/03/warren-buffett-may-have-again-cut-berkshires-stake-in-apple-in-q3-.html",
+      "title": "Warren Buffett may have cut Berkshire's stake in Apple again in the third quarter",
+      "publisher": "CNBC",
+      "date": "2025-11-03",
+      "note": "Q3 2025 sales."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.forbes.com/sites/bill_stone/2026/02/18/berkshire-q4-13f-buffett-trims-apple-buys-new-york-times/",
+      "title": "Berkshire Q4 13F: Buffett Trims Apple",
+      "publisher": "Forbes",
+      "date": "2026-02-18",
+      "note": "Q4 2025 13F."
+    }
+  ],
+  "brk.b__investor__oxy": [
+    {
+      "kind": "press",
+      "url": "https://www.oxy.com/news/news-releases/berkshire-hathaway-inc.-to-acquire-oxychem",
+      "title": "Berkshire Hathaway Inc. to Acquire OxyChem",
+      "publisher": "Occidental",
+      "date": "2025-10-02",
+      "note": "Deal terms."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.cnbc.com/2025/10/02/warren-buffett-berkshire-occidental-oxychem.html",
+      "title": "Berkshire Hathaway to buy Occidental's OxyChem for $9.7 billion",
+      "publisher": "CNBC",
+      "date": "2025-10-02",
+      "note": "28.2% stake as of June 2025."
+    }
+  ],
+  "aapl__partner__gs": [
+    {
+      "kind": "press",
+      "url": "https://www.goldmansachs.com/pressroom/press-releases/2026/goldman-sachs-announces-agreement-to-transition-apple-card-program-to-chase",
+      "title": "Goldman Sachs Announces Agreement to Transition Apple Card Program to Chase",
+      "publisher": "Goldman Sachs",
+      "date": "2026-01-07",
+      "note": "Transition terms."
+    }
+  ],
+  "pg__supplier__wmt": [
+    {
+      "kind": "filing",
+      "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm",
+      "title": "Procter & Gamble Form 10-K, fiscal 2025",
+      "publisher": "P&G (SEC)",
+      "date": "2025-08",
+      "note": "Walmart \u224816% of total sales."
+    }
+  ],
+  "ups__supplier__amzn": [
+    {
+      "kind": "research",
+      "url": "https://www.retaildive.com/news/ups-amazon-volume-reduction-q4-2024-earnings/738770/",
+      "title": "UPS to cut Amazon volume by more than 50%",
+      "publisher": "Retail Dive",
+      "date": "2025-01",
+      "note": "Volume reduction plan."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.freightwaves.com/news/ups-navigates-amazon-draw-down-in-hard-pivot-to-premium-services",
+      "title": "UPS navigates Amazon draw down in hard pivot to premium services",
+      "publisher": "FreightWaves",
+      "date": null,
+      "note": "Amazon's share of UPS revenue."
+    }
+  ],
+  "ge__supplier__ba": [
+    {
+      "kind": "press",
+      "url": "https://www.geaerospace.com/news/press-releases/joint-ventures/boeing-selects-leap-1b-sole-powerplant-new-737-max",
+      "title": "Boeing Selects LEAP-1B as Sole Powerplant for New 737 MAX",
+      "publisher": "GE Aerospace",
+      "date": null,
+      "note": "Sole-source 737 MAX engine."
+    },
+    {
+      "kind": "press",
+      "url": "https://www.geaerospace.com/commercial/aircraft-engines/cfm-leap",
+      "title": "CFM LEAP",
+      "publisher": "GE Aerospace",
+      "date": null,
+      "note": "CFM joint venture with Safran."
+    }
+  ],
+  "ceg__supplier__msft": [
+    {
+      "kind": "press",
+      "url": "https://www.constellationenergy.com/news/2024/Constellation-to-Launch-Crane-Clean-Energy-Center-Restoring-Jobs-and-Carbon-Free-Power-to-The-Grid.html",
+      "title": "Constellation to Launch Crane Clean Energy Center",
+      "publisher": "Constellation",
+      "date": "2024-09-20",
+      "note": "PPA terms and restart plan."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.utilitydive.com/news/constellation-three-mile-island-nuclear-power-plant-microsoft-data-center-ppa/727652/",
+      "title": "Constellation plans 2028 restart of Three Mile Island unit 1",
+      "publisher": "Utility Dive",
+      "date": "2024-09",
+      "note": "Restart timeline and investment."
+    }
+  ],
+  "msft__investor__anthropic": [
+    {
+      "kind": "research",
+      "url": "https://www.geekwire.com/2025/microsoft-to-invest-5b-in-anthropic-as-claude-maker-commits-30b-to-azure-in-new-nvidia-alliance/",
+      "title": "Microsoft to invest $5B in Anthropic, as Claude maker commits $30B to Azure",
+      "publisher": "GeekWire",
+      "date": "2025-11-18",
+      "note": "Investment and Azure commitment."
+    }
+  ],
+  "nvda__investor__anthropic": [
+    {
+      "kind": "research",
+      "url": "https://www.cnbc.com/2025/11/18/anthropic-ai-azure-microsoft-nvidia.html",
+      "title": "Anthropic valued in range of $350 billion following investment deal with Microsoft, Nvidia",
+      "publisher": "CNBC",
+      "date": "2025-11-18",
+      "note": "Investment amounts and valuation."
+    }
+  ],
+  "msft__supplier__anthropic": [
+    {
+      "kind": "press",
+      "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/",
+      "title": "Microsoft, NVIDIA and Anthropic announce strategic partnerships",
+      "publisher": "Microsoft",
+      "date": "2025-11-18",
+      "note": "Compute commitment."
+    }
+  ],
+  "amzn__investor__openai": [
+    {
+      "kind": "press",
+      "url": "https://www.aboutamazon.com/news/aws/openai-amazon-partnership-explained",
+      "title": "Amazon's $50 billion investment in OpenAI: What to know",
+      "publisher": "Amazon",
+      "date": "2026",
+      "note": "Investment structure."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html",
+      "title": "OpenAI announces $110 billion funding round with backing from Amazon, Nvidia, SoftBank",
+      "publisher": "CNBC",
+      "date": "2026-02-27",
+      "note": "Round size and participants."
+    }
+  ],
+  "amzn__supplier__openai": [
+    {
+      "kind": "press",
+      "url": "https://www.aboutamazon.com/news/aws/aws-open-ai-workloads-compute-infrastructure",
+      "title": "AWS announces new partnership to power OpenAI's AI workloads",
+      "publisher": "Amazon",
+      "date": "2025-11-03",
+      "note": "Initial agreement."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.cnbc.com/2025/11/03/open-ai-amazon-aws-cloud-deal.html",
+      "title": "Amazon closes at record after $38 billion OpenAI deal with AWS",
+      "publisher": "CNBC",
+      "date": "2025-11-03",
+      "note": "Deal size and term."
+    }
+  ],
+  "avgo__supplier__anthropic": [
+    {
+      "kind": "press",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "title": "Anthropic expands Google and Broadcom compute deal",
+      "publisher": "Anthropic",
+      "date": "2026",
+      "note": "Multi-gigawatt expansion."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.fool.com/investing/2026/09/14/broadcom-just-named-its-next-customer-to-pass-goog/",
+      "title": "Broadcom Just Named Its Next Customer to Pass Google: Anthropic",
+      "publisher": "The Motley Fool",
+      "date": "2026-09-14",
+      "note": "XPU customer ranking."
+    }
+  ],
+  "aapl__partner__jpm": [
+    {
+      "kind": "press",
+      "url": "https://www.apple.com/newsroom/2026/01/chase-to-become-new-issuer-of-apple-card/",
+      "title": "Chase to become new issuer of Apple Card",
+      "publisher": "Apple",
+      "date": "2026-01-07",
+      "note": "Transition announcement."
+    },
+    {
+      "kind": "research",
+      "url": "https://www.bankingdive.com/news/jpmorgan-chase-take-over-issuer-apple-card-goldman-sachs/809122/",
+      "title": "JPMorgan Chase to take over as Apple Card's issuer",
+      "publisher": "Banking Dive",
+      "date": "2026-01",
+      "note": "Portfolio size."
+    }
+  ],
+  "googl__supplier__aapl": [
+    {
+      "kind": "press",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/",
+      "title": "Joint statement from Google and Apple",
+      "publisher": "Google",
+      "date": "2026-01-12",
+      "note": "Partnership scope."
+    },
+    {
+      "kind": "research",
+      "url": "https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/",
+      "title": "Google's Gemini to power Apple's AI features like Siri",
+      "publisher": "TechCrunch",
+      "date": "2026-01-12",
+      "note": "Deal details."
+    }
+  ]
+}

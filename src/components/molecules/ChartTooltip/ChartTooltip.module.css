@@ -1,0 +1,16 @@
+.tooltip {
+  position: absolute;
+  z-index: var(--z-tooltip);
+  min-width: 140px;
+  max-width: 260px;
+  display: grid;
+  gap: var(--space-1);
+  padding: var(--space-2) var(--space-2_5);
+  border-radius: var(--radius-md);
+  background: var(--color-bg-surface-2);
+  box-shadow: var(--shadow-lg);
+  pointer-events: none;
+}
+.title { margin-bottom: 2px; }
+.row { display: flex; align-items: center; gap: var(--space-2); }
+.label { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }

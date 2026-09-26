@@ -1,0 +1,6 @@
+/* minmax(0, 1fr): the track may not grow past the padding to fit long labels or range inputs. */
+.panel { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--space-4); padding: var(--space-4) var(--space-5) var(--space-6) var(--space-4); }
+.section { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--space-3); min-width: 0; }
+.hint { font-size: var(--text-caption-size); line-height: var(--text-caption-line); color: var(--color-text-tertiary); margin-top: calc(var(--space-1) * -1); }
+.field { display: grid; gap: var(--space-1_5); }
+.fieldLabel { font-size: var(--text-caption-size); line-height: var(--text-caption-line); color: var(--color-text-secondary); }

@@ -1,0 +1,25 @@
+.wrap { position: relative; display: inline-flex; }
+.tip {
+  position: absolute;
+  z-index: var(--z-tooltip);
+  padding: var(--space-1) var(--space-2);
+  border-radius: var(--radius-sm);
+  background: var(--color-bg-inverse);
+  color: var(--color-text-inverse);
+  font-size: var(--text-caption-size);
+  line-height: var(--text-caption-line);
+  font-weight: var(--font-weight-medium);
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity var(--duration-fast) var(--ease-standard), transform var(--duration-fast) var(--ease-standard);
+}
+.open { opacity: 1; }
+.top { bottom: calc(100% + 6px); left: 50%; transform: translate(-50%, 2px); }
+.top.open { transform: translate(-50%, 0); }
+.bottom { top: calc(100% + 6px); left: 50%; transform: translate(-50%, -2px); }
+.bottom.open { transform: translate(-50%, 0); }
+.left { right: calc(100% + 6px); top: 50%; transform: translate(2px, -50%); }
+.left.open { transform: translate(0, -50%); }
+.right { left: calc(100% + 6px); top: 50%; transform: translate(-2px, -50%); }
+.right.open { transform: translate(0, -50%); }

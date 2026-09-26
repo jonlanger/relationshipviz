@@ -1,0 +1,13 @@
+/* Shared chart anatomy. Ink uses text tokens; color only on marks. */
+.frame { position: relative; width: 100%; }
+.svg { display: block; overflow: visible; }
+.axisLabel { font-size: 11px; fill: var(--color-text-tertiary); font-variant-numeric: tabular-nums; }
+.label { font-size: 12px; fill: var(--color-text-secondary); }
+.labelStrong { font-size: 12px; font-weight: 500; fill: var(--color-text-primary); }
+.grid { stroke: var(--viz-grid); stroke-width: 1; shape-rendering: crispEdges; }
+.baseline { stroke: var(--viz-axis); stroke-width: 1; shape-rendering: crispEdges; }
+.hit { fill: transparent; cursor: pointer; }
+.mark { transition: opacity var(--duration-fast) var(--ease-standard); }
+.faded { opacity: 0.15; }
+.empty { display: grid; place-items: center; min-height: 200px; color: var(--color-text-tertiary); font-size: var(--text-body-sm-size); }
+.legendRow { margin-top: var(--space-3); }

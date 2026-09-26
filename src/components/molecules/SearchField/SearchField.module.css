@@ -1,0 +1,27 @@
+.root { position: relative; width: 100%; }
+.list {
+  position: absolute;
+  z-index: var(--z-popover);
+  top: calc(100% + 6px);
+  left: 0;
+  right: 0;
+  padding: var(--space-1);
+  border-radius: var(--radius-lg);
+  background: var(--color-bg-surface-2);
+  box-shadow: var(--shadow-lg);
+  max-height: 360px;
+  overflow-y: auto;
+  animation: pop var(--duration-fast) var(--ease-emphasized);
+}
+.option {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2_5);
+  padding: var(--space-1_5) var(--space-2);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+}
+.active { background: var(--color-bg-active); }
+.optionText { display: grid; flex: 1; min-width: 0; }
+.empty { padding: var(--space-3); }
+@keyframes pop { from { opacity: 0; transform: translateY(-4px); } }

@@ -1,0 +1,7338 @@
+{
+  "AAPL": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320193.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-09-26",
+        "revenue": 274515000000,
+        "netIncome": 57411000000,
+        "rnd": 18752000000,
+        "epsDiluted": 3.28,
+        "dividendsPerShare": 0.795
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-09-25",
+        "revenue": 365817000000,
+        "netIncome": 94680000000,
+        "rnd": 21914000000,
+        "epsDiluted": 5.61,
+        "dividendsPerShare": 0.85
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-09-24",
+        "revenue": 394328000000,
+        "netIncome": 99803000000,
+        "rnd": 26251000000,
+        "epsDiluted": 6.11,
+        "dividendsPerShare": 0.9
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-09-30",
+        "revenue": 383285000000,
+        "netIncome": 96995000000,
+        "rnd": 29915000000,
+        "epsDiluted": 6.13,
+        "dividendsPerShare": 0.94
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-09-28",
+        "revenue": 391035000000,
+        "netIncome": 93736000000,
+        "rnd": 31370000000,
+        "epsDiluted": 6.08,
+        "dividendsPerShare": 0.98
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-09-27",
+        "revenue": 416161000000,
+        "netIncome": 112010000000,
+        "rnd": 34550000000,
+        "epsDiluted": 7.46,
+        "dividendsPerShare": 1.02
+      }
+    ]
+  },
+  "MSFT": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000789019.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-06-30",
+        "revenue": 168088000000,
+        "netIncome": 61271000000,
+        "rnd": 20716000000,
+        "epsDiluted": 8.05,
+        "dividendsPerShare": 2.24
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-06-30",
+        "revenue": 198270000000,
+        "netIncome": 72738000000,
+        "rnd": 24512000000,
+        "epsDiluted": 9.65,
+        "dividendsPerShare": 2.48
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-06-30",
+        "revenue": 211915000000,
+        "netIncome": 72361000000,
+        "rnd": 27195000000,
+        "epsDiluted": 9.68,
+        "dividendsPerShare": 2.72
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-06-30",
+        "revenue": 245122000000,
+        "netIncome": 88136000000,
+        "rnd": 29510000000,
+        "epsDiluted": 11.8,
+        "dividendsPerShare": 3
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-06-30",
+        "revenue": 281724000000,
+        "netIncome": 101832000000,
+        "rnd": 32488000000,
+        "epsDiluted": 13.64,
+        "dividendsPerShare": 3.32
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-06-30",
+        "revenue": 331839000000,
+        "netIncome": 133749000000,
+        "rnd": 35562000000,
+        "epsDiluted": 17.95,
+        "dividendsPerShare": 3.64
+      }
+    ]
+  },
+  "NVDA": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-01-31",
+        "revenue": 16675000000,
+        "netIncome": 4332000000,
+        "rnd": 3924000000,
+        "epsDiluted": 1.73,
+        "dividendsPerShare": 0.16
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-01-30",
+        "revenue": 26914000000,
+        "netIncome": 9752000000,
+        "rnd": 5268000000,
+        "epsDiluted": 3.85,
+        "dividendsPerShare": 0.16
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-01-29",
+        "revenue": 26974000000,
+        "netIncome": 4368000000,
+        "rnd": 7339000000,
+        "epsDiluted": 0.17,
+        "dividendsPerShare": 0.016
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-01-28",
+        "revenue": 60922000000,
+        "netIncome": 29760000000,
+        "rnd": 8675000000,
+        "epsDiluted": 1.19,
+        "dividendsPerShare": 0.016
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-01-26",
+        "revenue": 130497000000,
+        "netIncome": 72880000000,
+        "rnd": 12914000000,
+        "epsDiluted": 2.94,
+        "dividendsPerShare": 0.034
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-01-25",
+        "revenue": 215938000000,
+        "netIncome": 120067000000,
+        "rnd": 18497000000,
+        "epsDiluted": 4.9,
+        "dividendsPerShare": 0.04
+      }
+    ]
+  },
+  "AVGO": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001730168.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-11-01",
+        "revenue": 23888000000,
+        "netIncome": 2960000000,
+        "rnd": 4968000000,
+        "epsDiluted": 6.33,
+        "dividendsPerShare": 13
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-10-31",
+        "revenue": 27450000000,
+        "netIncome": 6736000000,
+        "rnd": 4854000000,
+        "epsDiluted": 15,
+        "dividendsPerShare": 14.4
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-10-30",
+        "revenue": 33203000000,
+        "netIncome": 11495000000,
+        "rnd": 4919000000,
+        "epsDiluted": 2.65,
+        "dividendsPerShare": 1.64
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-10-29",
+        "revenue": 35819000000,
+        "netIncome": 14082000000,
+        "rnd": 5253000000,
+        "epsDiluted": 3.3,
+        "dividendsPerShare": 1.84
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-11-03",
+        "revenue": 51574000000,
+        "netIncome": 5895000000,
+        "rnd": 9310000000,
+        "epsDiluted": 1.23,
+        "dividendsPerShare": 2.105
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-11-02",
+        "revenue": 63887000000,
+        "netIncome": 23126000000,
+        "rnd": 10977000000,
+        "epsDiluted": 4.77,
+        "dividendsPerShare": 2.36
+      }
+    ]
+  },
+  "ORCL": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001341439.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-05-31",
+        "revenue": 40479000000,
+        "netIncome": 13746000000,
+        "rnd": 6527000000,
+        "epsDiluted": 4.55,
+        "dividendsPerShare": 1.04
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-05-31",
+        "revenue": 42440000000,
+        "netIncome": 6717000000,
+        "rnd": 7219000000,
+        "epsDiluted": 2.41,
+        "dividendsPerShare": 1.28
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-05-31",
+        "revenue": 49954000000,
+        "netIncome": 8503000000,
+        "rnd": 8623000000,
+        "epsDiluted": 3.07,
+        "dividendsPerShare": 1.36
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-05-31",
+        "revenue": 52961000000,
+        "netIncome": 10467000000,
+        "rnd": 8915000000,
+        "epsDiluted": 3.71,
+        "dividendsPerShare": 1.6
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-05-31",
+        "revenue": 57399000000,
+        "netIncome": 12443000000,
+        "rnd": 9860000000,
+        "epsDiluted": 4.34,
+        "dividendsPerShare": 1.7
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-05-31",
+        "revenue": 67357000000,
+        "netIncome": 17087000000,
+        "rnd": 10272000000,
+        "epsDiluted": 5.83,
+        "dividendsPerShare": 2
+      }
+    ]
+  },
+  "CRM": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001108524.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-01-31",
+        "revenue": 21252000000,
+        "netIncome": 4072000000,
+        "rnd": 3598000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-01-31",
+        "revenue": 26492000000,
+        "netIncome": 1444000000,
+        "rnd": 4465000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-01-31",
+        "revenue": 31352000000,
+        "netIncome": 208000000,
+        "rnd": 5055000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-01-31",
+        "revenue": 34857000000,
+        "netIncome": 4136000000,
+        "rnd": 4906000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-01-31",
+        "revenue": 37895000000,
+        "netIncome": 6197000000,
+        "rnd": 5493000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-01-31",
+        "revenue": 41525000000,
+        "netIncome": 7457000000,
+        "rnd": 5993000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "AMD": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000002488.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-26",
+        "revenue": 9763000000,
+        "netIncome": 2490000000,
+        "rnd": 1983000000,
+        "epsDiluted": 2.06,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-25",
+        "revenue": 16434000000,
+        "netIncome": 3162000000,
+        "rnd": 2845000000,
+        "epsDiluted": 2.57,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 23601000000,
+        "netIncome": 1320000000,
+        "rnd": 5005000000,
+        "epsDiluted": 0.84,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-30",
+        "revenue": 22680000000,
+        "netIncome": 854000000,
+        "rnd": 5872000000,
+        "epsDiluted": 0.53,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-28",
+        "revenue": 25785000000,
+        "netIncome": 1641000000,
+        "rnd": 6456000000,
+        "epsDiluted": 1,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-27",
+        "revenue": 34639000000,
+        "netIncome": 4335000000,
+        "rnd": 8091000000,
+        "epsDiluted": 2.65,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "ADBE": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000796343.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-11-27",
+        "revenue": 12868000000,
+        "netIncome": 5260000000,
+        "rnd": null,
+        "epsDiluted": 10.83,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-03",
+        "revenue": 15785000000,
+        "netIncome": 4822000000,
+        "rnd": null,
+        "epsDiluted": 10.02,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-02",
+        "revenue": 17606000000,
+        "netIncome": 4756000000,
+        "rnd": null,
+        "epsDiluted": 10.1,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-01",
+        "revenue": 19409000000,
+        "netIncome": 5428000000,
+        "rnd": null,
+        "epsDiluted": 11.82,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-11-29",
+        "revenue": 21505000000,
+        "netIncome": 5560000000,
+        "rnd": null,
+        "epsDiluted": 12.36,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-11-28",
+        "revenue": 23769000000,
+        "netIncome": 7130000000,
+        "rnd": null,
+        "epsDiluted": 16.7,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "CSCO": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000858877.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-07-31",
+        "revenue": 49818000000,
+        "netIncome": 10591000000,
+        "rnd": 6549000000,
+        "epsDiluted": null,
+        "dividendsPerShare": 1.46
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-07-30",
+        "revenue": 51557000000,
+        "netIncome": 11812000000,
+        "rnd": 6774000000,
+        "epsDiluted": null,
+        "dividendsPerShare": 1.5
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-07-29",
+        "revenue": 56998000000,
+        "netIncome": 12613000000,
+        "rnd": 7551000000,
+        "epsDiluted": null,
+        "dividendsPerShare": 1.54
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-07-27",
+        "revenue": 53803000000,
+        "netIncome": 10320000000,
+        "rnd": 7983000000,
+        "epsDiluted": null,
+        "dividendsPerShare": 1.58
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-07-26",
+        "revenue": 56654000000,
+        "netIncome": 10180000000,
+        "rnd": 9300000000,
+        "epsDiluted": null,
+        "dividendsPerShare": 1.62
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-07-25",
+        "revenue": 63325000000,
+        "netIncome": 13267000000,
+        "rnd": 9563000000,
+        "epsDiluted": null,
+        "dividendsPerShare": 1.66
+      }
+    ]
+  },
+  "INTC": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000050863.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-26",
+        "revenue": 77867000000,
+        "netIncome": 20899000000,
+        "rnd": 13556000000,
+        "epsDiluted": 4.94,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-25",
+        "revenue": 79024000000,
+        "netIncome": 19868000000,
+        "rnd": 15190000000,
+        "epsDiluted": 4.86,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 63054000000,
+        "netIncome": 8014000000,
+        "rnd": 17528000000,
+        "epsDiluted": 1.94,
+        "dividendsPerShare": 1.46
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-30",
+        "revenue": 54228000000,
+        "netIncome": 1689000000,
+        "rnd": 16046000000,
+        "epsDiluted": 0.4,
+        "dividendsPerShare": 0.74
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-28",
+        "revenue": 53101000000,
+        "netIncome": -18756000000,
+        "rnd": 16546000000,
+        "epsDiluted": -4.38,
+        "dividendsPerShare": 0.38
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-27",
+        "revenue": 52853000000,
+        "netIncome": -267000000,
+        "rnd": 13774000000,
+        "epsDiluted": -0.06,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "QCOM": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000804328.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-09-27",
+        "revenue": 23531000000,
+        "netIncome": 5198000000,
+        "rnd": 5975000000,
+        "epsDiluted": 4.52,
+        "dividendsPerShare": 2.54
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-09-26",
+        "revenue": 33566000000,
+        "netIncome": 9043000000,
+        "rnd": 7176000000,
+        "epsDiluted": 7.87,
+        "dividendsPerShare": 2.66
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-09-25",
+        "revenue": 44200000000,
+        "netIncome": 12936000000,
+        "rnd": 8194000000,
+        "epsDiluted": 11.37,
+        "dividendsPerShare": 2.86
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-09-24",
+        "revenue": 35820000000,
+        "netIncome": 7232000000,
+        "rnd": 8818000000,
+        "epsDiluted": 6.42,
+        "dividendsPerShare": 3.1
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-09-29",
+        "revenue": 38962000000,
+        "netIncome": 10142000000,
+        "rnd": 8893000000,
+        "epsDiluted": 8.97,
+        "dividendsPerShare": 3.3
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-09-28",
+        "revenue": 44284000000,
+        "netIncome": 5541000000,
+        "rnd": 9042000000,
+        "epsDiluted": 5.01,
+        "dividendsPerShare": 3.48
+      }
+    ]
+  },
+  "TXN": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000097476.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 14461000000,
+        "netIncome": 5595000000,
+        "rnd": 1530000000,
+        "epsDiluted": 5.97,
+        "dividendsPerShare": 3.72
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 18344000000,
+        "netIncome": 7769000000,
+        "rnd": 1554000000,
+        "epsDiluted": 8.26,
+        "dividendsPerShare": 4.21
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 20028000000,
+        "netIncome": 8749000000,
+        "rnd": 1670000000,
+        "epsDiluted": 9.41,
+        "dividendsPerShare": 4.69
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 17519000000,
+        "netIncome": 6510000000,
+        "rnd": 1863000000,
+        "epsDiluted": 7.07,
+        "dividendsPerShare": 5.02
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 15641000000,
+        "netIncome": 4799000000,
+        "rnd": 1959000000,
+        "epsDiluted": 5.2,
+        "dividendsPerShare": 5.26
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 17682000000,
+        "netIncome": 5001000000,
+        "rnd": 2083000000,
+        "epsDiluted": 5.45,
+        "dividendsPerShare": 5.5
+      }
+    ]
+  },
+  "IBM": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000051143.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 55179000000,
+        "netIncome": 5590000000,
+        "rnd": 6262000000,
+        "epsDiluted": 6.23,
+        "dividendsPerShare": 6.51
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 57350000000,
+        "netIncome": 5743000000,
+        "rnd": 6488000000,
+        "epsDiluted": 6.35,
+        "dividendsPerShare": 6.55
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 60530000000,
+        "netIncome": 1639000000,
+        "rnd": 6567000000,
+        "epsDiluted": 1.8,
+        "dividendsPerShare": 6.59
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 61860000000,
+        "netIncome": 7502000000,
+        "rnd": 6775000000,
+        "epsDiluted": 8.14,
+        "dividendsPerShare": 6.63
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 62753000000,
+        "netIncome": 6023000000,
+        "rnd": 7479000000,
+        "epsDiluted": 6.43,
+        "dividendsPerShare": 6.67
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 67535000000,
+        "netIncome": 10593000000,
+        "rnd": 8316000000,
+        "epsDiluted": 11.17,
+        "dividendsPerShare": 6.71
+      }
+    ]
+  },
+  "AMAT": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000006951.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-10-25",
+        "revenue": 17202000000,
+        "netIncome": 3619000000,
+        "rnd": 2234000000,
+        "epsDiluted": 3.92,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-10-31",
+        "revenue": 23063000000,
+        "netIncome": 5888000000,
+        "rnd": 2485000000,
+        "epsDiluted": 6.4,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-10-30",
+        "revenue": 25785000000,
+        "netIncome": 6525000000,
+        "rnd": 2771000000,
+        "epsDiluted": 7.44,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-10-29",
+        "revenue": 26517000000,
+        "netIncome": 6856000000,
+        "rnd": 3102000000,
+        "epsDiluted": 8.11,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-10-27",
+        "revenue": 27176000000,
+        "netIncome": 7177000000,
+        "rnd": 3233000000,
+        "epsDiluted": 8.61,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-10-26",
+        "revenue": 28368000000,
+        "netIncome": 6998000000,
+        "rnd": 3570000000,
+        "epsDiluted": 8.66,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "LRCX": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000707549.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-06-27",
+        "revenue": 14626150000,
+        "netIncome": 3908458000,
+        "rnd": 1493408000,
+        "epsDiluted": 26.9,
+        "dividendsPerShare": 5.2
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-06-26",
+        "revenue": 17227039000,
+        "netIncome": 4605286000,
+        "rnd": 1604248000,
+        "epsDiluted": 32.75,
+        "dividendsPerShare": 6
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-06-25",
+        "revenue": 17428516000,
+        "netIncome": 4510931000,
+        "rnd": 1727162000,
+        "epsDiluted": 3.32,
+        "dividendsPerShare": 0.69
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-06-30",
+        "revenue": 14905386000,
+        "netIncome": 3827772000,
+        "rnd": 1902444000,
+        "epsDiluted": 2.9,
+        "dividendsPerShare": 0.8
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-06-29",
+        "revenue": 18435591000,
+        "netIncome": 5358217000,
+        "rnd": 2096387000,
+        "epsDiluted": 4.15,
+        "dividendsPerShare": 0.92
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-06-28",
+        "revenue": 23232690000,
+        "netIncome": 7265396000,
+        "rnd": 2375873000,
+        "epsDiluted": 5.76,
+        "dividendsPerShare": 1.04
+      }
+    ]
+  },
+  "KLAC": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000319201.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-06-30",
+        "revenue": 6918734000,
+        "netIncome": 2078292000,
+        "rnd": 928487000,
+        "epsDiluted": null,
+        "dividendsPerShare": 3.6
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-06-30",
+        "revenue": 9211883000,
+        "netIncome": 3321807000,
+        "rnd": 1105254000,
+        "epsDiluted": null,
+        "dividendsPerShare": 4.2
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-06-30",
+        "revenue": 10496056000,
+        "netIncome": 3387277000,
+        "rnd": 1296727000,
+        "epsDiluted": null,
+        "dividendsPerShare": 5.2
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-06-30",
+        "revenue": 9812247000,
+        "netIncome": 2761896000,
+        "rnd": 1278981000,
+        "epsDiluted": null,
+        "dividendsPerShare": 0.565
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-06-30",
+        "revenue": 12156162000,
+        "netIncome": 4061643000,
+        "rnd": 1360334000,
+        "epsDiluted": null,
+        "dividendsPerShare": 0.675
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-06-30",
+        "revenue": 13579476000,
+        "netIncome": 4830771000,
+        "rnd": 1532118000,
+        "epsDiluted": null,
+        "dividendsPerShare": 0.8
+      }
+    ]
+  },
+  "MU": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000723125.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-09-03",
+        "revenue": 21435000000,
+        "netIncome": 2687000000,
+        "rnd": 2600000000,
+        "epsDiluted": 2.37,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-09-02",
+        "revenue": 27705000000,
+        "netIncome": 5861000000,
+        "rnd": 2663000000,
+        "epsDiluted": 5.14,
+        "dividendsPerShare": 0.1
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-09-01",
+        "revenue": 30758000000,
+        "netIncome": 8687000000,
+        "rnd": 3116000000,
+        "epsDiluted": 7.75,
+        "dividendsPerShare": 0.315
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-08-31",
+        "revenue": 15540000000,
+        "netIncome": -5833000000,
+        "rnd": 3114000000,
+        "epsDiluted": -5.34,
+        "dividendsPerShare": 0.46
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-08-29",
+        "revenue": 25111000000,
+        "netIncome": 778000000,
+        "rnd": 3430000000,
+        "epsDiluted": 0.7,
+        "dividendsPerShare": 0.46
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-08-28",
+        "revenue": 37378000000,
+        "netIncome": 8539000000,
+        "rnd": 3798000000,
+        "epsDiluted": 7.59,
+        "dividendsPerShare": 0.46
+      }
+    ]
+  },
+  "NOW": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001373715.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 4519000000,
+        "netIncome": 119000000,
+        "rnd": 1024000000,
+        "epsDiluted": 0.59,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 5896000000,
+        "netIncome": 230000000,
+        "rnd": 1397000000,
+        "epsDiluted": 1.13,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 7245000000,
+        "netIncome": 325000000,
+        "rnd": 1768000000,
+        "epsDiluted": 1.6,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 8971000000,
+        "netIncome": 1731000000,
+        "rnd": 2124000000,
+        "epsDiluted": 1.68,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 10984000000,
+        "netIncome": 1425000000,
+        "rnd": 2543000000,
+        "epsDiluted": 1.37,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 13278000000,
+        "netIncome": 1748000000,
+        "rnd": 2960000000,
+        "epsDiluted": 1.67,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "INTU": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000896878.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-07-31",
+        "revenue": 9633000000,
+        "netIncome": 2062000000,
+        "rnd": 1678000000,
+        "epsDiluted": 7.56,
+        "dividendsPerShare": 2.36
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-07-31",
+        "revenue": 12726000000,
+        "netIncome": 2066000000,
+        "rnd": 2347000000,
+        "epsDiluted": 7.28,
+        "dividendsPerShare": 2.72
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-07-31",
+        "revenue": 14368000000,
+        "netIncome": 2384000000,
+        "rnd": 2539000000,
+        "epsDiluted": 8.42,
+        "dividendsPerShare": 3.12
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-07-31",
+        "revenue": 16285000000,
+        "netIncome": 2963000000,
+        "rnd": 2754000000,
+        "epsDiluted": 10.43,
+        "dividendsPerShare": 3.6
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-07-31",
+        "revenue": 18831000000,
+        "netIncome": 3869000000,
+        "rnd": 2928000000,
+        "epsDiluted": 13.67,
+        "dividendsPerShare": 4.16
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-07-31",
+        "revenue": 21448000000,
+        "netIncome": 4566000000,
+        "rnd": 3376000000,
+        "epsDiluted": 16.46,
+        "dividendsPerShare": 4.8
+      }
+    ]
+  },
+  "DELL": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001571996.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-01-29",
+        "revenue": 86670000000,
+        "netIncome": 3250000000,
+        "rnd": 2455000000,
+        "epsDiluted": 4.22,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-01-28",
+        "revenue": 101197000000,
+        "netIncome": 5563000000,
+        "rnd": 2577000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-02-03",
+        "revenue": 102301000000,
+        "netIncome": 2442000000,
+        "rnd": 2779000000,
+        "epsDiluted": 3.24,
+        "dividendsPerShare": 1.32
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-02-02",
+        "revenue": 88425000000,
+        "netIncome": 3388000000,
+        "rnd": 2801000000,
+        "epsDiluted": 4.6,
+        "dividendsPerShare": 1.48
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-01-31",
+        "revenue": 95567000000,
+        "netIncome": 4592000000,
+        "rnd": 3061000000,
+        "epsDiluted": 6.38,
+        "dividendsPerShare": 1.78
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-01-30",
+        "revenue": 113538000000,
+        "netIncome": 5936000000,
+        "rnd": 3142000000,
+        "epsDiluted": 8.68,
+        "dividendsPerShare": 2.1
+      }
+    ]
+  },
+  "HPE": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001645590.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-10-31",
+        "revenue": 26982000000,
+        "netIncome": -322000000,
+        "rnd": 1874000000,
+        "epsDiluted": -0.25,
+        "dividendsPerShare": 0.36
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-10-31",
+        "revenue": 27784000000,
+        "netIncome": 3427000000,
+        "rnd": 1979000000,
+        "epsDiluted": 2.58,
+        "dividendsPerShare": 0.48
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-10-31",
+        "revenue": 28496000000,
+        "netIncome": 868000000,
+        "rnd": 2045000000,
+        "epsDiluted": 0.66,
+        "dividendsPerShare": 0.48
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-10-31",
+        "revenue": 29135000000,
+        "netIncome": 2025000000,
+        "rnd": 2349000000,
+        "epsDiluted": 1.54,
+        "dividendsPerShare": 0.48
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-10-31",
+        "revenue": 30127000000,
+        "netIncome": 2579000000,
+        "rnd": 2246000000,
+        "epsDiluted": 1.93,
+        "dividendsPerShare": 0.52
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-10-31",
+        "revenue": 34296000000,
+        "netIncome": 57000000,
+        "rnd": 2518000000,
+        "epsDiluted": -0.04,
+        "dividendsPerShare": 0.52
+      }
+    ]
+  },
+  "PANW": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001327567.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-07-31",
+        "revenue": 4256100000,
+        "netIncome": -498900000,
+        "rnd": 1140400000,
+        "epsDiluted": -1.73,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-07-31",
+        "revenue": 5501500000,
+        "netIncome": -267000000,
+        "rnd": 1417700000,
+        "epsDiluted": -0.9,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-07-31",
+        "revenue": 6892700000,
+        "netIncome": 439700000,
+        "rnd": 1604000000,
+        "epsDiluted": 0.64,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-07-31",
+        "revenue": 8027000000,
+        "netIncome": 2578000000,
+        "rnd": 1810000000,
+        "epsDiluted": 3.64,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-07-31",
+        "revenue": 9221000000,
+        "netIncome": 1134000000,
+        "rnd": 1984000000,
+        "epsDiluted": 1.6,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-07-31",
+        "revenue": 11480000000,
+        "netIncome": 307000000,
+        "rnd": 2552000000,
+        "epsDiluted": 0.4,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "SMCI": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001375365.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-06-30",
+        "revenue": 3557422000,
+        "netIncome": 111865000,
+        "rnd": 224369000,
+        "epsDiluted": 2.09,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-06-30",
+        "revenue": 5196099000,
+        "netIncome": 285163000,
+        "rnd": 272273000,
+        "epsDiluted": 0.53,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-06-30",
+        "revenue": 7123482000,
+        "netIncome": 639998000,
+        "rnd": 307260000,
+        "epsDiluted": 1.14,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-06-30",
+        "revenue": 14989251000,
+        "netIncome": 1152666000,
+        "rnd": 463548000,
+        "epsDiluted": 1.92,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-06-30",
+        "revenue": 21972042000,
+        "netIncome": 1048854000,
+        "rnd": 636550000,
+        "epsDiluted": 1.68,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-06-30",
+        "revenue": 39063072000,
+        "netIncome": 2230453000,
+        "rnd": 771232000,
+        "epsDiluted": 3.26,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "ANET": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001596532.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 2317512000,
+        "netIncome": 634557000,
+        "rnd": 486594000,
+        "epsDiluted": 2,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 2948037000,
+        "netIncome": 840854000,
+        "rnd": 586752000,
+        "epsDiluted": 2.63,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 4381310000,
+        "netIncome": 1352446000,
+        "rnd": 728394000,
+        "epsDiluted": 1.07,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 5860200000,
+        "netIncome": 2087300000,
+        "rnd": 854900000,
+        "epsDiluted": 1.65,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 7003100000,
+        "netIncome": 2852100000,
+        "rnd": 996700000,
+        "epsDiluted": 2.23,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 9005700000,
+        "netIncome": 3511400000,
+        "rnd": 1237300000,
+        "epsDiluted": 2.75,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "APH": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000820313.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 8598900000,
+        "netIncome": 1203400000,
+        "rnd": 260700000,
+        "epsDiluted": 1.96,
+        "dividendsPerShare": 0.52
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 10876300000,
+        "netIncome": 1590800000,
+        "rnd": 317700000,
+        "epsDiluted": 2.54,
+        "dividendsPerShare": 0.635
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 12623000000,
+        "netIncome": 1902300000,
+        "rnd": 323600000,
+        "epsDiluted": 1.53,
+        "dividendsPerShare": 0.405
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 12554700000,
+        "netIncome": 1928000000,
+        "rnd": 342200000,
+        "epsDiluted": 1.55,
+        "dividendsPerShare": 0.425
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 15222700000,
+        "netIncome": 2424000000,
+        "rnd": 453000000,
+        "epsDiluted": 1.92,
+        "dividendsPerShare": 0.55
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 23094700000,
+        "netIncome": 4270300000,
+        "rnd": 647000000,
+        "epsDiluted": 3.34,
+        "dividendsPerShare": 0.745
+      }
+    ]
+  },
+  "GLW": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000024741.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 11303000000,
+        "netIncome": 512000000,
+        "rnd": 1000000000,
+        "epsDiluted": 0.54,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 14082000000,
+        "netIncome": 1906000000,
+        "rnd": 800000000,
+        "epsDiluted": 1.28,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 14189000000,
+        "netIncome": 1316000000,
+        "rnd": 900000000,
+        "epsDiluted": 1.54,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 12588000000,
+        "netIncome": 581000000,
+        "rnd": 900000000,
+        "epsDiluted": 0.68,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 13118000000,
+        "netIncome": 506000000,
+        "rnd": 800000000,
+        "epsDiluted": 0.58,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 15629000000,
+        "netIncome": 1596000000,
+        "rnd": 800000000,
+        "epsDiluted": 1.83,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "GOOGL": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 182527000000,
+        "netIncome": 40269000000,
+        "rnd": 27573000000,
+        "epsDiluted": 2.93,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 257637000000,
+        "netIncome": 76033000000,
+        "rnd": 31562000000,
+        "epsDiluted": 5.61,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 282836000000,
+        "netIncome": 59972000000,
+        "rnd": 39500000000,
+        "epsDiluted": 4.56,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 307394000000,
+        "netIncome": 73795000000,
+        "rnd": 45427000000,
+        "epsDiluted": 5.8,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 350018000000,
+        "netIncome": 100118000000,
+        "rnd": 49326000000,
+        "epsDiluted": 8.04,
+        "dividendsPerShare": 0.6
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 402836000000,
+        "netIncome": 132170000000,
+        "rnd": 61087000000,
+        "epsDiluted": 10.81,
+        "dividendsPerShare": 0.83
+      }
+    ]
+  },
+  "META": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 85965000000,
+        "netIncome": 29146000000,
+        "rnd": 18447000000,
+        "epsDiluted": 10.09,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 117929000000,
+        "netIncome": 39370000000,
+        "rnd": 24655000000,
+        "epsDiluted": 13.77,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 116609000000,
+        "netIncome": 23200000000,
+        "rnd": 35338000000,
+        "epsDiluted": 8.59,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 134902000000,
+        "netIncome": 39098000000,
+        "rnd": 38483000000,
+        "epsDiluted": 14.87,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 164501000000,
+        "netIncome": 62360000000,
+        "rnd": 43873000000,
+        "epsDiluted": 23.86,
+        "dividendsPerShare": 2
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 200966000000,
+        "netIncome": 60458000000,
+        "rnd": 57372000000,
+        "epsDiluted": 23.49,
+        "dividendsPerShare": 2.1
+      }
+    ]
+  },
+  "NFLX": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001065280.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 24996056000,
+        "netIncome": 2761395000,
+        "rnd": 1829600000,
+        "epsDiluted": 6.08,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 29697844000,
+        "netIncome": 5116228000,
+        "rnd": 2273885000,
+        "epsDiluted": 11.24,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 31615550000,
+        "netIncome": 4491924000,
+        "rnd": 2711041000,
+        "epsDiluted": 9.95,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 33723297000,
+        "netIncome": 5407990000,
+        "rnd": 2675758000,
+        "epsDiluted": 1.2,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 39000966000,
+        "netIncome": 8711631000,
+        "rnd": 2925295000,
+        "epsDiluted": 1.98,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 45183036000,
+        "netIncome": 10981201000,
+        "rnd": 3391390000,
+        "epsDiluted": 2.53,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "DIS": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001744489.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-10-03",
+        "revenue": 65388000000,
+        "netIncome": -2864000000,
+        "rnd": null,
+        "epsDiluted": -1.58,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-10-02",
+        "revenue": 67418000000,
+        "netIncome": 1995000000,
+        "rnd": null,
+        "epsDiluted": 1.09,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-10-01",
+        "revenue": 82722000000,
+        "netIncome": 3145000000,
+        "rnd": null,
+        "epsDiluted": 1.72,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-09-30",
+        "revenue": 88898000000,
+        "netIncome": 2354000000,
+        "rnd": null,
+        "epsDiluted": 1.29,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-09-28",
+        "revenue": 91361000000,
+        "netIncome": 4972000000,
+        "rnd": null,
+        "epsDiluted": 2.72,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-09-27",
+        "revenue": 94425000000,
+        "netIncome": 12404000000,
+        "rnd": null,
+        "epsDiluted": 6.85,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "CMCSA": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001166691.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 103564000000,
+        "netIncome": 10534000000,
+        "rnd": null,
+        "epsDiluted": 2.28,
+        "dividendsPerShare": 0.92
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 116385000000,
+        "netIncome": 14159000000,
+        "rnd": null,
+        "epsDiluted": 3.04,
+        "dividendsPerShare": 1
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 121427000000,
+        "netIncome": 5370000000,
+        "rnd": null,
+        "epsDiluted": 1.21,
+        "dividendsPerShare": 1.08
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 121572000000,
+        "netIncome": 15388000000,
+        "rnd": null,
+        "epsDiluted": 3.71,
+        "dividendsPerShare": 1.16
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 123731000000,
+        "netIncome": 16192000000,
+        "rnd": null,
+        "epsDiluted": 4.14,
+        "dividendsPerShare": 1.24
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 123707000000,
+        "netIncome": 19998000000,
+        "rnd": null,
+        "epsDiluted": 5.39,
+        "dividendsPerShare": 1.32
+      }
+    ]
+  },
+  "T": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000732717.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 143050000000,
+        "netIncome": -5176000000,
+        "rnd": null,
+        "epsDiluted": -0.75,
+        "dividendsPerShare": 2.08
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 134038000000,
+        "netIncome": 20081000000,
+        "rnd": null,
+        "epsDiluted": 2.73,
+        "dividendsPerShare": 2.08
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 120741000000,
+        "netIncome": -8524000000,
+        "rnd": null,
+        "epsDiluted": -1.13,
+        "dividendsPerShare": 1.11
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 122428000000,
+        "netIncome": 14400000000,
+        "rnd": null,
+        "epsDiluted": 1.97,
+        "dividendsPerShare": 1.11
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 122336000000,
+        "netIncome": 10948000000,
+        "rnd": null,
+        "epsDiluted": 1.49,
+        "dividendsPerShare": 1.11
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 125648000000,
+        "netIncome": 21953000000,
+        "rnd": null,
+        "epsDiluted": 3.04,
+        "dividendsPerShare": 1.11
+      }
+    ]
+  },
+  "VZ": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000732712.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 128292000000,
+        "netIncome": 17801000000,
+        "rnd": null,
+        "epsDiluted": 4.3,
+        "dividendsPerShare": 2.485
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 133613000000,
+        "netIncome": 22065000000,
+        "rnd": null,
+        "epsDiluted": 5.32,
+        "dividendsPerShare": 2.535
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 136835000000,
+        "netIncome": 21256000000,
+        "rnd": null,
+        "epsDiluted": 5.06,
+        "dividendsPerShare": 2.585
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 133974000000,
+        "netIncome": 11614000000,
+        "rnd": null,
+        "epsDiluted": 2.75,
+        "dividendsPerShare": 2.635
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 134788000000,
+        "netIncome": 17506000000,
+        "rnd": null,
+        "epsDiluted": 4.14,
+        "dividendsPerShare": 2.685
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 138191000000,
+        "netIncome": 17174000000,
+        "rnd": null,
+        "epsDiluted": 4.06,
+        "dividendsPerShare": 2.735
+      }
+    ]
+  },
+  "TMUS": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001283699.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 68397000000,
+        "netIncome": 3064000000,
+        "rnd": null,
+        "epsDiluted": 2.65,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 80118000000,
+        "netIncome": 3024000000,
+        "rnd": null,
+        "epsDiluted": 2.41,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 79571000000,
+        "netIncome": 2590000000,
+        "rnd": null,
+        "epsDiluted": 2.06,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 78558000000,
+        "netIncome": 8317000000,
+        "rnd": null,
+        "epsDiluted": 6.93,
+        "dividendsPerShare": 0.65
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 81400000000,
+        "netIncome": 11339000000,
+        "rnd": null,
+        "epsDiluted": 9.66,
+        "dividendsPerShare": 3.71
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 88309000000,
+        "netIncome": 10992000000,
+        "rnd": null,
+        "epsDiluted": 9.72,
+        "dividendsPerShare": 3.8
+      }
+    ]
+  },
+  "WBD": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001437107.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 10671000000,
+        "netIncome": 1219000000,
+        "rnd": null,
+        "epsDiluted": 1.81,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 12191000000,
+        "netIncome": 1006000000,
+        "rnd": null,
+        "epsDiluted": 1.54,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 33817000000,
+        "netIncome": -7371000000,
+        "rnd": null,
+        "epsDiluted": -3.82,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 41321000000,
+        "netIncome": -3126000000,
+        "rnd": null,
+        "epsDiluted": -1.28,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 39321000000,
+        "netIncome": -11311000000,
+        "rnd": null,
+        "epsDiluted": -4.62,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 37296000000,
+        "netIncome": 727000000,
+        "rnd": null,
+        "epsDiluted": 0.29,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "AMZN": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 386064000000,
+        "netIncome": 21331000000,
+        "rnd": null,
+        "epsDiluted": 2.09,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 469822000000,
+        "netIncome": 33364000000,
+        "rnd": null,
+        "epsDiluted": 3.24,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 513983000000,
+        "netIncome": -2722000000,
+        "rnd": null,
+        "epsDiluted": -0.27,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 574785000000,
+        "netIncome": 30425000000,
+        "rnd": null,
+        "epsDiluted": 2.9,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 637959000000,
+        "netIncome": 59248000000,
+        "rnd": null,
+        "epsDiluted": 5.53,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 716924000000,
+        "netIncome": 77670000000,
+        "rnd": null,
+        "epsDiluted": 7.17,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "TSLA": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001318605.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 31536000000,
+        "netIncome": 721000000,
+        "rnd": 1491000000,
+        "epsDiluted": 0.21,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 53823000000,
+        "netIncome": 5519000000,
+        "rnd": 2593000000,
+        "epsDiluted": 1.63,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 81462000000,
+        "netIncome": 12556000000,
+        "rnd": 3075000000,
+        "epsDiluted": 3.62,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 96773000000,
+        "netIncome": 14997000000,
+        "rnd": 3969000000,
+        "epsDiluted": 4.3,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 97690000000,
+        "netIncome": 7091000000,
+        "rnd": 4540000000,
+        "epsDiluted": 2.04,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 94827000000,
+        "netIncome": 3794000000,
+        "rnd": 6411000000,
+        "epsDiluted": 1.08,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "HD": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000354950.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-01-31",
+        "revenue": 132110000000,
+        "netIncome": 12866000000,
+        "rnd": null,
+        "epsDiluted": 11.94,
+        "dividendsPerShare": 6
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-01-30",
+        "revenue": 151157000000,
+        "netIncome": 16433000000,
+        "rnd": null,
+        "epsDiluted": 15.53,
+        "dividendsPerShare": 6.6
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-01-29",
+        "revenue": 157403000000,
+        "netIncome": 17105000000,
+        "rnd": null,
+        "epsDiluted": 16.69,
+        "dividendsPerShare": 7.6
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-01-28",
+        "revenue": 152669000000,
+        "netIncome": 15143000000,
+        "rnd": null,
+        "epsDiluted": 15.11,
+        "dividendsPerShare": 8.36
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-02-02",
+        "revenue": 159514000000,
+        "netIncome": 14806000000,
+        "rnd": null,
+        "epsDiluted": 14.91,
+        "dividendsPerShare": 9
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-02-01",
+        "revenue": 164683000000,
+        "netIncome": 14156000000,
+        "rnd": null,
+        "epsDiluted": 14.23,
+        "dividendsPerShare": 9.2
+      }
+    ]
+  },
+  "MCD": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000063908.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 19207800000,
+        "netIncome": 4730500000,
+        "rnd": null,
+        "epsDiluted": 6.31,
+        "dividendsPerShare": 5.04
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 23222900000,
+        "netIncome": 7545200000,
+        "rnd": null,
+        "epsDiluted": 10.04,
+        "dividendsPerShare": 5.25
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 23183000000,
+        "netIncome": 6177000000,
+        "rnd": null,
+        "epsDiluted": 8.33,
+        "dividendsPerShare": 5.66
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 25494000000,
+        "netIncome": 8469000000,
+        "rnd": null,
+        "epsDiluted": 11.56,
+        "dividendsPerShare": 6.23
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 25920000000,
+        "netIncome": 8223000000,
+        "rnd": null,
+        "epsDiluted": 11.39,
+        "dividendsPerShare": 6.78
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 26885000000,
+        "netIncome": 8563000000,
+        "rnd": null,
+        "epsDiluted": 11.95,
+        "dividendsPerShare": 7.17
+      }
+    ]
+  },
+  "NKE": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320187.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-05-31",
+        "revenue": 44538000000,
+        "netIncome": 5727000000,
+        "rnd": null,
+        "epsDiluted": 3.56,
+        "dividendsPerShare": 1.07
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-05-31",
+        "revenue": 46710000000,
+        "netIncome": 6046000000,
+        "rnd": null,
+        "epsDiluted": 3.75,
+        "dividendsPerShare": 1.19
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-05-31",
+        "revenue": 51217000000,
+        "netIncome": 5070000000,
+        "rnd": null,
+        "epsDiluted": 3.23,
+        "dividendsPerShare": 1.325
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-05-31",
+        "revenue": 51362000000,
+        "netIncome": 5700000000,
+        "rnd": null,
+        "epsDiluted": 3.73,
+        "dividendsPerShare": 1.45
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-05-31",
+        "revenue": 46309000000,
+        "netIncome": 3219000000,
+        "rnd": null,
+        "epsDiluted": 2.16,
+        "dividendsPerShare": 1.57
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-05-31",
+        "revenue": 46398000000,
+        "netIncome": 3108000000,
+        "rnd": null,
+        "epsDiluted": 2.1,
+        "dividendsPerShare": 1.63
+      }
+    ]
+  },
+  "SBUX": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000829224.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-09-27",
+        "revenue": 23518000000,
+        "netIncome": 928300000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-10-03",
+        "revenue": 29060600000,
+        "netIncome": 4199300000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-10-02",
+        "revenue": 32250300000,
+        "netIncome": 3281600000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-10-01",
+        "revenue": 35975600000,
+        "netIncome": 4124500000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-09-29",
+        "revenue": 36176200000,
+        "netIncome": 3760900000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-09-28",
+        "revenue": 37184400000,
+        "netIncome": 1856400000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "LOW": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000060667.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-01-29",
+        "revenue": 89597000000,
+        "netIncome": 5835000000,
+        "rnd": null,
+        "epsDiluted": 7.75,
+        "dividendsPerShare": 2.3
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-01-28",
+        "revenue": 96250000000,
+        "netIncome": 8442000000,
+        "rnd": null,
+        "epsDiluted": 12.04,
+        "dividendsPerShare": 3
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-02-03",
+        "revenue": 97059000000,
+        "netIncome": 6437000000,
+        "rnd": null,
+        "epsDiluted": 10.17,
+        "dividendsPerShare": 3.95
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-02-02",
+        "revenue": 86377000000,
+        "netIncome": 7726000000,
+        "rnd": null,
+        "epsDiluted": 13.2,
+        "dividendsPerShare": 4.35
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-01-31",
+        "revenue": 83674000000,
+        "netIncome": 6957000000,
+        "rnd": null,
+        "epsDiluted": 12.23,
+        "dividendsPerShare": 4.55
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-01-30",
+        "revenue": 86286000000,
+        "netIncome": 6654000000,
+        "rnd": null,
+        "epsDiluted": 11.85,
+        "dividendsPerShare": 4.75
+      }
+    ]
+  },
+  "BKNG": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001075531.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 6796000000,
+        "netIncome": 59000000,
+        "rnd": null,
+        "epsDiluted": 1.44,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 10958000000,
+        "netIncome": 1165000000,
+        "rnd": null,
+        "epsDiluted": 28.17,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 17090000000,
+        "netIncome": 3058000000,
+        "rnd": null,
+        "epsDiluted": 76.35,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 21365000000,
+        "netIncome": 4289000000,
+        "rnd": null,
+        "epsDiluted": 117.4,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 23739000000,
+        "netIncome": 5882000000,
+        "rnd": null,
+        "epsDiluted": 172.69,
+        "dividendsPerShare": 8.75
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 26917000000,
+        "netIncome": 5404000000,
+        "rnd": null,
+        "epsDiluted": 165.57,
+        "dividendsPerShare": 9.6
+      }
+    ]
+  },
+  "GM": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001467858.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 108673000000,
+        "netIncome": 6427000000,
+        "rnd": null,
+        "epsDiluted": 4.33,
+        "dividendsPerShare": 0.38
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 113590000000,
+        "netIncome": 10019000000,
+        "rnd": null,
+        "epsDiluted": 6.7,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 143975000000,
+        "netIncome": 9934000000,
+        "rnd": null,
+        "epsDiluted": 6.13,
+        "dividendsPerShare": 0.18
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 157658000000,
+        "netIncome": 10127000000,
+        "rnd": null,
+        "epsDiluted": 7.32,
+        "dividendsPerShare": 0.36
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 171606000000,
+        "netIncome": 6008000000,
+        "rnd": null,
+        "epsDiluted": 6.37,
+        "dividendsPerShare": 0.48
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 167971000000,
+        "netIncome": 2697000000,
+        "rnd": null,
+        "epsDiluted": 3.27,
+        "dividendsPerShare": 0.57
+      }
+    ]
+  },
+  "F": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000037996.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 127144000000,
+        "netIncome": -1276000000,
+        "rnd": 7100000000,
+        "epsDiluted": -0.32,
+        "dividendsPerShare": 0.15
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 136341000000,
+        "netIncome": 17937000000,
+        "rnd": 7600000000,
+        "epsDiluted": 4.45,
+        "dividendsPerShare": 0.1
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 158057000000,
+        "netIncome": -1981000000,
+        "rnd": 7800000000,
+        "epsDiluted": -0.49,
+        "dividendsPerShare": 0.5
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 176191000000,
+        "netIncome": 4347000000,
+        "rnd": 8200000000,
+        "epsDiluted": 1.08,
+        "dividendsPerShare": 1.25
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 184992000000,
+        "netIncome": 5879000000,
+        "rnd": 8000000000,
+        "epsDiluted": 1.46,
+        "dividendsPerShare": 0.78
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 187267000000,
+        "netIncome": -8162000000,
+        "rnd": 9400000000,
+        "epsDiluted": -2.06,
+        "dividendsPerShare": 0.75
+      }
+    ]
+  },
+  "WMT": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000104169.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-01-31",
+        "revenue": 555233000000,
+        "netIncome": 13510000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-01-31",
+        "revenue": 567762000000,
+        "netIncome": 13673000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-01-31",
+        "revenue": 605881000000,
+        "netIncome": 11680000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-01-31",
+        "revenue": 642637000000,
+        "netIncome": 15511000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-01-31",
+        "revenue": 674538000000,
+        "netIncome": 19436000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-01-31",
+        "revenue": 706413000000,
+        "netIncome": 21893000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "COST": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000909832.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-08-30",
+        "revenue": 166761000000,
+        "netIncome": 4002000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-08-29",
+        "revenue": 195929000000,
+        "netIncome": 5007000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-08-28",
+        "revenue": 226954000000,
+        "netIncome": 5844000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-09-03",
+        "revenue": 242290000000,
+        "netIncome": 6292000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-09-01",
+        "revenue": 254453000000,
+        "netIncome": 7367000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-08-31",
+        "revenue": 275235000000,
+        "netIncome": 8099000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "TGT": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000027419.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-01-30",
+        "revenue": 93561000000,
+        "netIncome": 4368000000,
+        "rnd": null,
+        "epsDiluted": 8.64,
+        "dividendsPerShare": 2.7
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-01-29",
+        "revenue": 106005000000,
+        "netIncome": 6946000000,
+        "rnd": null,
+        "epsDiluted": 14.1,
+        "dividendsPerShare": 3.38
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-01-28",
+        "revenue": 109120000000,
+        "netIncome": 2780000000,
+        "rnd": null,
+        "epsDiluted": 5.98,
+        "dividendsPerShare": 4.14
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-02-03",
+        "revenue": 107412000000,
+        "netIncome": 4138000000,
+        "rnd": null,
+        "epsDiluted": 8.94,
+        "dividendsPerShare": 4.38
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-02-01",
+        "revenue": 106566000000,
+        "netIncome": 4091000000,
+        "rnd": null,
+        "epsDiluted": 8.86,
+        "dividendsPerShare": 4.46
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-01-31",
+        "revenue": 104780000000,
+        "netIncome": 3705000000,
+        "rnd": null,
+        "epsDiluted": 8.13,
+        "dividendsPerShare": 4.54
+      }
+    ]
+  },
+  "KR": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000056873.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-01-30",
+        "revenue": 132498000000,
+        "netIncome": 2585000000,
+        "rnd": null,
+        "epsDiluted": 3.27,
+        "dividendsPerShare": 0.7
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-01-29",
+        "revenue": 137888000000,
+        "netIncome": 1655000000,
+        "rnd": null,
+        "epsDiluted": 2.17,
+        "dividendsPerShare": 0.81
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-01-28",
+        "revenue": 148258000000,
+        "netIncome": 2244000000,
+        "rnd": null,
+        "epsDiluted": 3.06,
+        "dividendsPerShare": 0.99
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-02-03",
+        "revenue": 150039000000,
+        "netIncome": 2164000000,
+        "rnd": null,
+        "epsDiluted": 2.96,
+        "dividendsPerShare": 1.13
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-02-01",
+        "revenue": 147123000000,
+        "netIncome": 2665000000,
+        "rnd": null,
+        "epsDiluted": 3.67,
+        "dividendsPerShare": 1.25
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-01-31",
+        "revenue": 147642000000,
+        "netIncome": 1016000000,
+        "rnd": null,
+        "epsDiluted": 1.54,
+        "dividendsPerShare": 1.37
+      }
+    ]
+  },
+  "PG": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000080424.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-06-30",
+        "revenue": 76118000000,
+        "netIncome": 14306000000,
+        "rnd": 1900000000,
+        "epsDiluted": 5.5,
+        "dividendsPerShare": 3.2419
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-06-30",
+        "revenue": 80187000000,
+        "netIncome": 14742000000,
+        "rnd": 2000000000,
+        "epsDiluted": 5.81,
+        "dividendsPerShare": 3.5227
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-06-30",
+        "revenue": 82006000000,
+        "netIncome": 14653000000,
+        "rnd": 2000000000,
+        "epsDiluted": 5.9,
+        "dividendsPerShare": 3.6806
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-06-30",
+        "revenue": 84039000000,
+        "netIncome": 14879000000,
+        "rnd": 2000000000,
+        "epsDiluted": 6.02,
+        "dividendsPerShare": 3.8286
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-06-30",
+        "revenue": 84284000000,
+        "netIncome": 15974000000,
+        "rnd": 2100000000,
+        "epsDiluted": 6.51,
+        "dividendsPerShare": 4.0763
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-06-30",
+        "revenue": 87032000000,
+        "netIncome": 16046000000,
+        "rnd": 2100000000,
+        "epsDiluted": 6.62,
+        "dividendsPerShare": 4.2589
+      }
+    ]
+  },
+  "KO": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000021344.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 33014000000,
+        "netIncome": 7747000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 1.64
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 38655000000,
+        "netIncome": 9771000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 1.68
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 43004000000,
+        "netIncome": 9542000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 1.76
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 45754000000,
+        "netIncome": 10714000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 1.84
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 47061000000,
+        "netIncome": 10631000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 1.94
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 47941000000,
+        "netIncome": 13107000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 2.04
+      }
+    ]
+  },
+  "PEP": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000077476.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-26",
+        "revenue": 70372000000,
+        "netIncome": 7120000000,
+        "rnd": 719000000,
+        "epsDiluted": null,
+        "dividendsPerShare": 4.0225
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-25",
+        "revenue": 79474000000,
+        "netIncome": 7618000000,
+        "rnd": 752000000,
+        "epsDiluted": null,
+        "dividendsPerShare": 4.2475
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 86392000000,
+        "netIncome": 8910000000,
+        "rnd": 771000000,
+        "epsDiluted": null,
+        "dividendsPerShare": 4.525
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-30",
+        "revenue": 91471000000,
+        "netIncome": 9074000000,
+        "rnd": 804000000,
+        "epsDiluted": null,
+        "dividendsPerShare": 4.945
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-28",
+        "revenue": 91854000000,
+        "netIncome": 9578000000,
+        "rnd": 813000000,
+        "epsDiluted": null,
+        "dividendsPerShare": 5.33
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-27",
+        "revenue": 93925000000,
+        "netIncome": 8240000000,
+        "rnd": 839000000,
+        "epsDiluted": null,
+        "dividendsPerShare": 5.6225
+      }
+    ]
+  },
+  "MDLZ": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001103982.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 26581000000,
+        "netIncome": 3555000000,
+        "rnd": 332000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 28720000000,
+        "netIncome": 4300000000,
+        "rnd": 347000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 31496000000,
+        "netIncome": 2717000000,
+        "rnd": 346000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 36016000000,
+        "netIncome": 4959000000,
+        "rnd": 380000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 36441000000,
+        "netIncome": 4611000000,
+        "rnd": 400000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 38537000000,
+        "netIncome": 2451000000,
+        "rnd": 400000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "LLY": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000059478.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 24539800000,
+        "netIncome": 6193700000,
+        "rnd": 5976300000,
+        "epsDiluted": 6.79,
+        "dividendsPerShare": 3.07
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 28318400000,
+        "netIncome": 5581700000,
+        "rnd": 6930700000,
+        "epsDiluted": 6.12,
+        "dividendsPerShare": 3.53
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 28541400000,
+        "netIncome": 6244800000,
+        "rnd": 7190800000,
+        "epsDiluted": 6.9,
+        "dividendsPerShare": 4.07
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 34124000000,
+        "netIncome": 5240000000,
+        "rnd": 9313000000,
+        "epsDiluted": 5.8,
+        "dividendsPerShare": 4.69
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 45043000000,
+        "netIncome": 10590000000,
+        "rnd": 10991000000,
+        "epsDiluted": 11.71,
+        "dividendsPerShare": 5.4
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 65179000000,
+        "netIncome": 20640000000,
+        "rnd": 13337000000,
+        "epsDiluted": 22.95,
+        "dividendsPerShare": 6.23
+      }
+    ]
+  },
+  "JNJ": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000200406.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-01-03",
+        "revenue": 82584000000,
+        "netIncome": 14714000000,
+        "rnd": 12159000000,
+        "epsDiluted": 5.51,
+        "dividendsPerShare": 3.98
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-01-02",
+        "revenue": 78740000000,
+        "netIncome": 20878000000,
+        "rnd": 0,
+        "epsDiluted": 7.81,
+        "dividendsPerShare": 4.19
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-01-01",
+        "revenue": 79990000000,
+        "netIncome": 17941000000,
+        "rnd": 0,
+        "epsDiluted": 6.73,
+        "dividendsPerShare": 4.45
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 85159000000,
+        "netIncome": 35153000000,
+        "rnd": 483000000,
+        "epsDiluted": 13.72,
+        "dividendsPerShare": 4.7
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-29",
+        "revenue": 88821000000,
+        "netIncome": 14066000000,
+        "rnd": 1841000000,
+        "epsDiluted": 5.79,
+        "dividendsPerShare": 4.91
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-28",
+        "revenue": 94193000000,
+        "netIncome": 26804000000,
+        "rnd": 109000000,
+        "epsDiluted": 11.03,
+        "dividendsPerShare": 5.14
+      }
+    ]
+  },
+  "UNH": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000731766.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 257141000000,
+        "netIncome": 15403000000,
+        "rnd": null,
+        "epsDiluted": 16.03,
+        "dividendsPerShare": 4.83
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 287597000000,
+        "netIncome": 17285000000,
+        "rnd": null,
+        "epsDiluted": 18.08,
+        "dividendsPerShare": 5.6
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 324162000000,
+        "netIncome": 20120000000,
+        "rnd": null,
+        "epsDiluted": 21.18,
+        "dividendsPerShare": 6.4
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 371622000000,
+        "netIncome": 22381000000,
+        "rnd": null,
+        "epsDiluted": 23.86,
+        "dividendsPerShare": 7.29
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 400278000000,
+        "netIncome": 14405000000,
+        "rnd": null,
+        "epsDiluted": 15.51,
+        "dividendsPerShare": 8.18
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 447567000000,
+        "netIncome": 12056000000,
+        "rnd": null,
+        "epsDiluted": 13.23,
+        "dividendsPerShare": 8.73
+      }
+    ]
+  },
+  "ABBV": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001551152.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 45804000000,
+        "netIncome": 4616000000,
+        "rnd": 6379000000,
+        "epsDiluted": 2.72,
+        "dividendsPerShare": 4.84
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 56197000000,
+        "netIncome": 11542000000,
+        "rnd": 6922000000,
+        "epsDiluted": 6.45,
+        "dividendsPerShare": 5.31
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 58054000000,
+        "netIncome": 11836000000,
+        "rnd": 6510000000,
+        "epsDiluted": 6.63,
+        "dividendsPerShare": 5.71
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 54318000000,
+        "netIncome": 4863000000,
+        "rnd": 7675000000,
+        "epsDiluted": 2.72,
+        "dividendsPerShare": 5.99
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 56334000000,
+        "netIncome": 4278000000,
+        "rnd": 12791000000,
+        "epsDiluted": 2.39,
+        "dividendsPerShare": 6.29
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 61160000000,
+        "netIncome": 4226000000,
+        "rnd": 9096000000,
+        "epsDiluted": 2.36,
+        "dividendsPerShare": 6.65
+      }
+    ]
+  },
+  "MRK": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000310158.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 41518000000,
+        "netIncome": 7067000000,
+        "rnd": 13397000000,
+        "epsDiluted": 2.78,
+        "dividendsPerShare": 2.48
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 48704000000,
+        "netIncome": 13049000000,
+        "rnd": 12245000000,
+        "epsDiluted": 5.14,
+        "dividendsPerShare": 2.64
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 59283000000,
+        "netIncome": 14519000000,
+        "rnd": 13548000000,
+        "epsDiluted": 5.71,
+        "dividendsPerShare": 2.8
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 60115000000,
+        "netIncome": 365000000,
+        "rnd": 30531000000,
+        "epsDiluted": 0.14,
+        "dividendsPerShare": 2.96
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 64168000000,
+        "netIncome": 17117000000,
+        "rnd": 17938000000,
+        "epsDiluted": 6.74,
+        "dividendsPerShare": 3.12
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 65011000000,
+        "netIncome": 18254000000,
+        "rnd": 15789000000,
+        "epsDiluted": 7.28,
+        "dividendsPerShare": 3.28
+      }
+    ]
+  },
+  "PFE": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000078003.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 41651000000,
+        "netIncome": 9159000000,
+        "rnd": 8709000000,
+        "epsDiluted": 1.63,
+        "dividendsPerShare": 1.53
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 73636000000,
+        "netIncome": 21979000000,
+        "rnd": 10360000000,
+        "epsDiluted": 3.85,
+        "dividendsPerShare": 1.57
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 91793000000,
+        "netIncome": 31372000000,
+        "rnd": 11428000000,
+        "epsDiluted": 5.47,
+        "dividendsPerShare": 1.61
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 50914000000,
+        "netIncome": 2119000000,
+        "rnd": 10679000000,
+        "epsDiluted": 0.37,
+        "dividendsPerShare": 1.65
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 63627000000,
+        "netIncome": 8031000000,
+        "rnd": 10822000000,
+        "epsDiluted": 1.41,
+        "dividendsPerShare": 1.69
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 62579000000,
+        "netIncome": 7771000000,
+        "rnd": 10437000000,
+        "epsDiluted": 1.36,
+        "dividendsPerShare": 1.72
+      }
+    ]
+  },
+  "TMO": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000097745.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 32218000000,
+        "netIncome": 6377000000,
+        "rnd": 1181000000,
+        "epsDiluted": 15.96,
+        "dividendsPerShare": 0.88
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 39211000000,
+        "netIncome": 7728000000,
+        "rnd": 1406000000,
+        "epsDiluted": 19.46,
+        "dividendsPerShare": 1.04
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 44915000000,
+        "netIncome": 6960000000,
+        "rnd": 1471000000,
+        "epsDiluted": 17.63,
+        "dividendsPerShare": 1.2
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 42857000000,
+        "netIncome": 5995000000,
+        "rnd": 1337000000,
+        "epsDiluted": 15.45,
+        "dividendsPerShare": 1.4
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 42879000000,
+        "netIncome": 6335000000,
+        "rnd": 1390000000,
+        "epsDiluted": 16.53,
+        "dividendsPerShare": 1.56
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 44556000000,
+        "netIncome": 6704000000,
+        "rnd": 1397000000,
+        "epsDiluted": 17.74,
+        "dividendsPerShare": 1.72
+      }
+    ]
+  },
+  "ABT": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000001800.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 34608000000,
+        "netIncome": 4495000000,
+        "rnd": 2420000000,
+        "epsDiluted": 2.5,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 43075000000,
+        "netIncome": 7071000000,
+        "rnd": 2742000000,
+        "epsDiluted": 3.94,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 43653000000,
+        "netIncome": 6933000000,
+        "rnd": 2888000000,
+        "epsDiluted": 3.91,
+        "dividendsPerShare": 1.92
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 40109000000,
+        "netIncome": 5723000000,
+        "rnd": 2741000000,
+        "epsDiluted": 3.26,
+        "dividendsPerShare": 2.08
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 41950000000,
+        "netIncome": 13402000000,
+        "rnd": 2844000000,
+        "epsDiluted": 7.64,
+        "dividendsPerShare": 2.24
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 44328000000,
+        "netIncome": 6524000000,
+        "rnd": 2942000000,
+        "epsDiluted": 3.72,
+        "dividendsPerShare": 2.4
+      }
+    ]
+  },
+  "ISRG": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001035267.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 4358400000,
+        "netIncome": 1060600000,
+        "rnd": 595100000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 5710100000,
+        "netIncome": 1704600000,
+        "rnd": 671000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 6222200000,
+        "netIncome": 1322300000,
+        "rnd": 879000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 7124100000,
+        "netIncome": 1798000000,
+        "rnd": 998800000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 8352100000,
+        "netIncome": 2322600000,
+        "rnd": 1145300000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 10064700000,
+        "netIncome": 2856000000,
+        "rnd": 1311800000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "AMGN": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000318154.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 25424000000,
+        "netIncome": 7264000000,
+        "rnd": 4207000000,
+        "epsDiluted": 12.31,
+        "dividendsPerShare": 6.56
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 25979000000,
+        "netIncome": 5893000000,
+        "rnd": 4819000000,
+        "epsDiluted": 10.28,
+        "dividendsPerShare": 7.22
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 26323000000,
+        "netIncome": 6552000000,
+        "rnd": 4434000000,
+        "epsDiluted": 12.11,
+        "dividendsPerShare": 7.95
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 28190000000,
+        "netIncome": 6717000000,
+        "rnd": 4784000000,
+        "epsDiluted": 12.49,
+        "dividendsPerShare": 8.64
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 33424000000,
+        "netIncome": 4090000000,
+        "rnd": 5964000000,
+        "epsDiluted": 7.56,
+        "dividendsPerShare": 9.13
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 36751000000,
+        "netIncome": 7711000000,
+        "rnd": 7272000000,
+        "epsDiluted": 14.23,
+        "dividendsPerShare": 9.66
+      }
+    ]
+  },
+  "GILD": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000882095.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 24689000000,
+        "netIncome": 123000000,
+        "rnd": 4927000000,
+        "epsDiluted": null,
+        "dividendsPerShare": 2.72
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 27305000000,
+        "netIncome": 6225000000,
+        "rnd": 4601000000,
+        "epsDiluted": null,
+        "dividendsPerShare": 2.84
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 27281000000,
+        "netIncome": 4592000000,
+        "rnd": 4977000000,
+        "epsDiluted": null,
+        "dividendsPerShare": 2.92
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 27116000000,
+        "netIncome": 5665000000,
+        "rnd": 5718000000,
+        "epsDiluted": null,
+        "dividendsPerShare": 3
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 28754000000,
+        "netIncome": 480000000,
+        "rnd": 5907000000,
+        "epsDiluted": null,
+        "dividendsPerShare": 3.08
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 29443000000,
+        "netIncome": 8510000000,
+        "rnd": 5799000000,
+        "epsDiluted": null,
+        "dividendsPerShare": 3.16
+      }
+    ]
+  },
+  "CVS": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000064803.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 268706000000,
+        "netIncome": 7179000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 292111000000,
+        "netIncome": 8001000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 322467000000,
+        "netIncome": 4311000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 357776000000,
+        "netIncome": 8344000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 372809000000,
+        "netIncome": 4614000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 402067000000,
+        "netIncome": 1768000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "MCK": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000927653.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-03-31",
+        "revenue": 238228000000,
+        "netIncome": -4539000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-03-31",
+        "revenue": 263966000000,
+        "netIncome": 1114000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-03-31",
+        "revenue": 276711000000,
+        "netIncome": 3560000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-03-31",
+        "revenue": 308951000000,
+        "netIncome": 3002000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-03-31",
+        "revenue": 359051000000,
+        "netIncome": 3295000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-03-31",
+        "revenue": 403430000000,
+        "netIncome": 4762000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "BMY": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000014272.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 42518000000,
+        "netIncome": -9015000000,
+        "rnd": 10048000000,
+        "epsDiluted": -3.99,
+        "dividendsPerShare": 1.84
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 46385000000,
+        "netIncome": 6994000000,
+        "rnd": 10195000000,
+        "epsDiluted": 3.12,
+        "dividendsPerShare": 2.01
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 46159000000,
+        "netIncome": 6327000000,
+        "rnd": 9509000000,
+        "epsDiluted": 2.95,
+        "dividendsPerShare": 2.19
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 45006000000,
+        "netIncome": 8025000000,
+        "rnd": 9299000000,
+        "epsDiluted": 3.86,
+        "dividendsPerShare": 2.31
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 48300000000,
+        "netIncome": -8948000000,
+        "rnd": 11159000000,
+        "epsDiluted": -4.41,
+        "dividendsPerShare": 2.42
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 48194000000,
+        "netIncome": 7054000000,
+        "rnd": 9951000000,
+        "epsDiluted": 3.46,
+        "dividendsPerShare": 2.49
+      }
+    ]
+  },
+  "DHR": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000313616.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 22284000000,
+        "netIncome": 3646000000,
+        "rnd": 1348000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 24802000000,
+        "netIncome": 6433000000,
+        "rnd": 1498000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 26643000000,
+        "netIncome": 7209000000,
+        "rnd": 1528000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 23890000000,
+        "netIncome": 4764000000,
+        "rnd": 1503000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 23875000000,
+        "netIncome": 3899000000,
+        "rnd": 1584000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 24568000000,
+        "netIncome": 3614000000,
+        "rnd": 1598000000,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "BRK.B": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001067983.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 166733000000,
+        "netIncome": 42521000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 191252000000,
+        "netIncome": 89937000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 207771000000,
+        "netIncome": -22759000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 254906000000,
+        "netIncome": 96223000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 249714000000,
+        "netIncome": 88995000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 247244000000,
+        "netIncome": 66968000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "JPM": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000019617.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 119951000000,
+        "netIncome": 29131000000,
+        "rnd": null,
+        "epsDiluted": 8.88,
+        "dividendsPerShare": 3.6
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 121649000000,
+        "netIncome": 48334000000,
+        "rnd": null,
+        "epsDiluted": 15.36,
+        "dividendsPerShare": 3.8
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 128695000000,
+        "netIncome": 37676000000,
+        "rnd": null,
+        "epsDiluted": 12.09,
+        "dividendsPerShare": 4
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 158104000000,
+        "netIncome": 49552000000,
+        "rnd": null,
+        "epsDiluted": 16.23,
+        "dividendsPerShare": 4.1
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 177556000000,
+        "netIncome": 58471000000,
+        "rnd": null,
+        "epsDiluted": 19.75,
+        "dividendsPerShare": 4.8
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 182447000000,
+        "netIncome": 57048000000,
+        "rnd": null,
+        "epsDiluted": 20.02,
+        "dividendsPerShare": 5.8
+      }
+    ]
+  },
+  "V": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001403161.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-09-30",
+        "revenue": 21846000000,
+        "netIncome": 10866000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 0.3
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-09-30",
+        "revenue": 24105000000,
+        "netIncome": 12311000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 0.32
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-09-30",
+        "revenue": 29310000000,
+        "netIncome": 14957000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 0.375
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-09-30",
+        "revenue": 32653000000,
+        "netIncome": 17273000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 0.45
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-09-30",
+        "revenue": 35926000000,
+        "netIncome": 19743000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 0.52
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-09-30",
+        "revenue": 40000000000,
+        "netIncome": 20058000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 0.59
+      }
+    ]
+  },
+  "MA": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001141391.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 23616000000,
+        "netIncome": 6411000000,
+        "rnd": null,
+        "epsDiluted": 6.37,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 29845000000,
+        "netIncome": 8687000000,
+        "rnd": null,
+        "epsDiluted": 8.76,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 22237000000,
+        "netIncome": 9930000000,
+        "rnd": null,
+        "epsDiluted": 10.22,
+        "dividendsPerShare": 2.04
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 25098000000,
+        "netIncome": 11195000000,
+        "rnd": null,
+        "epsDiluted": 11.83,
+        "dividendsPerShare": 2.37
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 28167000000,
+        "netIncome": 12874000000,
+        "rnd": null,
+        "epsDiluted": 13.89,
+        "dividendsPerShare": 2.74
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 32791000000,
+        "netIncome": 14968000000,
+        "rnd": null,
+        "epsDiluted": 16.52,
+        "dividendsPerShare": 3.15
+      }
+    ]
+  },
+  "BAC": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000070858.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 85528000000,
+        "netIncome": 17894000000,
+        "rnd": null,
+        "epsDiluted": 1.87,
+        "dividendsPerShare": 0.72
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 89113000000,
+        "netIncome": 31978000000,
+        "rnd": null,
+        "epsDiluted": 3.57,
+        "dividendsPerShare": 0.78
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 94950000000,
+        "netIncome": 27528000000,
+        "rnd": null,
+        "epsDiluted": 3.19,
+        "dividendsPerShare": 0.86
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 102769000000,
+        "netIncome": 26305000000,
+        "rnd": null,
+        "epsDiluted": 3.05,
+        "dividendsPerShare": 0.92
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 105856000000,
+        "netIncome": 26973000000,
+        "rnd": null,
+        "epsDiluted": 3.19,
+        "dividendsPerShare": 1
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 113097000000,
+        "netIncome": 30509000000,
+        "rnd": null,
+        "epsDiluted": 3.81,
+        "dividendsPerShare": 1.08
+      }
+    ]
+  },
+  "WFC": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000072971.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 74264000000,
+        "netIncome": 3377000000,
+        "rnd": null,
+        "epsDiluted": 0.43,
+        "dividendsPerShare": 1.22
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 79166000000,
+        "netIncome": 22109000000,
+        "rnd": null,
+        "epsDiluted": 5.08,
+        "dividendsPerShare": 0.6
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 74368000000,
+        "netIncome": 13677000000,
+        "rnd": null,
+        "epsDiluted": 3.27,
+        "dividendsPerShare": 1.1
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 82597000000,
+        "netIncome": 19142000000,
+        "rnd": null,
+        "epsDiluted": 4.83,
+        "dividendsPerShare": 1.3
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 82296000000,
+        "netIncome": 19722000000,
+        "rnd": null,
+        "epsDiluted": 5.37,
+        "dividendsPerShare": 1.5
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 83699000000,
+        "netIncome": 21338000000,
+        "rnd": null,
+        "epsDiluted": 6.26,
+        "dividendsPerShare": 1.7
+      }
+    ]
+  },
+  "GS": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000886982.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 44560000000,
+        "netIncome": 9459000000,
+        "rnd": null,
+        "epsDiluted": 24.74,
+        "dividendsPerShare": 5
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 59339000000,
+        "netIncome": 21635000000,
+        "rnd": null,
+        "epsDiluted": 59.45,
+        "dividendsPerShare": 6.5
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 47365000000,
+        "netIncome": 11261000000,
+        "rnd": null,
+        "epsDiluted": 30.06,
+        "dividendsPerShare": 9
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 46254000000,
+        "netIncome": 8516000000,
+        "rnd": null,
+        "epsDiluted": 22.87,
+        "dividendsPerShare": 10.5
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 53512000000,
+        "netIncome": 14276000000,
+        "rnd": null,
+        "epsDiluted": 40.54,
+        "dividendsPerShare": 11.5
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 58283000000,
+        "netIncome": 17176000000,
+        "rnd": null,
+        "epsDiluted": 51.32,
+        "dividendsPerShare": 14
+      }
+    ]
+  },
+  "MS": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000895421.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 48757000000,
+        "netIncome": 10996000000,
+        "rnd": null,
+        "epsDiluted": 6.46,
+        "dividendsPerShare": 1.4
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 59755000000,
+        "netIncome": 15034000000,
+        "rnd": null,
+        "epsDiluted": 8.03,
+        "dividendsPerShare": 2.1
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 53668000000,
+        "netIncome": 11029000000,
+        "rnd": null,
+        "epsDiluted": 6.15,
+        "dividendsPerShare": 2.95
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 54143000000,
+        "netIncome": 9087000000,
+        "rnd": null,
+        "epsDiluted": 5.18,
+        "dividendsPerShare": 3.25
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 61761000000,
+        "netIncome": 13390000000,
+        "rnd": null,
+        "epsDiluted": 7.95,
+        "dividendsPerShare": 3.55
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 70645000000,
+        "netIncome": 16861000000,
+        "rnd": null,
+        "epsDiluted": 10.21,
+        "dividendsPerShare": 3.85
+      }
+    ]
+  },
+  "BLK": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002012383.json",
+    "annual": [
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 17873000000,
+        "netIncome": 5178000000,
+        "rnd": null,
+        "epsDiluted": 33.97,
+        "dividendsPerShare": 19.52
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 17859000000,
+        "netIncome": 5502000000,
+        "rnd": null,
+        "epsDiluted": 36.51,
+        "dividendsPerShare": 20
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 20407000000,
+        "netIncome": 6369000000,
+        "rnd": null,
+        "epsDiluted": 42.01,
+        "dividendsPerShare": 20.4
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 24216000000,
+        "netIncome": 5553000000,
+        "rnd": null,
+        "epsDiluted": 35.31,
+        "dividendsPerShare": 20.84
+      }
+    ]
+  },
+  "AXP": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000004962.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 21974000000,
+        "netIncome": 3135000000,
+        "rnd": null,
+        "epsDiluted": 3.77,
+        "dividendsPerShare": 1.72
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 27716000000,
+        "netIncome": 8060000000,
+        "rnd": null,
+        "epsDiluted": 10.02,
+        "dividendsPerShare": 1.72
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 34219000000,
+        "netIncome": 7514000000,
+        "rnd": null,
+        "epsDiluted": 9.85,
+        "dividendsPerShare": 2.08
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 37218000000,
+        "netIncome": 8374000000,
+        "rnd": null,
+        "epsDiluted": 11.21,
+        "dividendsPerShare": 2.4
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 38825000000,
+        "netIncome": 10129000000,
+        "rnd": null,
+        "epsDiluted": 14.01,
+        "dividendsPerShare": 2.8
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 41304000000,
+        "netIncome": 10833000000,
+        "rnd": null,
+        "epsDiluted": 15.38,
+        "dividendsPerShare": 3.28
+      }
+    ]
+  },
+  "C": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000831001.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 75501000000,
+        "netIncome": 11047000000,
+        "rnd": null,
+        "epsDiluted": 4.72,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 71884000000,
+        "netIncome": 21952000000,
+        "rnd": null,
+        "epsDiluted": 10.14,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 75338000000,
+        "netIncome": 14845000000,
+        "rnd": null,
+        "epsDiluted": 7,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 78066000000,
+        "netIncome": 9228000000,
+        "rnd": null,
+        "epsDiluted": 4.04,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 80722000000,
+        "netIncome": 12682000000,
+        "rnd": null,
+        "epsDiluted": 5.94,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 85225000000,
+        "netIncome": 14306000000,
+        "rnd": null,
+        "epsDiluted": 6.99,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "SCHW": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000316709.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 11691000000,
+        "netIncome": 3299000000,
+        "rnd": null,
+        "epsDiluted": 2.12,
+        "dividendsPerShare": 0.72
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 18520000000,
+        "netIncome": 5855000000,
+        "rnd": null,
+        "epsDiluted": 2.83,
+        "dividendsPerShare": 0.72
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 20762000000,
+        "netIncome": 7183000000,
+        "rnd": null,
+        "epsDiluted": 3.5,
+        "dividendsPerShare": 0.84
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 18837000000,
+        "netIncome": 5067000000,
+        "rnd": null,
+        "epsDiluted": 2.54,
+        "dividendsPerShare": 1
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 19606000000,
+        "netIncome": 5942000000,
+        "rnd": null,
+        "epsDiluted": 2.99,
+        "dividendsPerShare": 1
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 23921000000,
+        "netIncome": 8852000000,
+        "rnd": null,
+        "epsDiluted": 4.65,
+        "dividendsPerShare": 1.08
+      }
+    ]
+  },
+  "PYPL": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001633917.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 21454000000,
+        "netIncome": 4202000000,
+        "rnd": null,
+        "epsDiluted": 3.54,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 25371000000,
+        "netIncome": 4169000000,
+        "rnd": null,
+        "epsDiluted": 3.52,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 27518000000,
+        "netIncome": 2419000000,
+        "rnd": null,
+        "epsDiluted": 2.09,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 29771000000,
+        "netIncome": 4246000000,
+        "rnd": null,
+        "epsDiluted": 3.84,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 31797000000,
+        "netIncome": 4147000000,
+        "rnd": null,
+        "epsDiluted": 3.99,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 33172000000,
+        "netIncome": 5233000000,
+        "rnd": null,
+        "epsDiluted": 5.41,
+        "dividendsPerShare": 0.14
+      }
+    ]
+  },
+  "SPGI": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000064040.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 7442000000,
+        "netIncome": 2339000000,
+        "rnd": null,
+        "epsDiluted": 9.66,
+        "dividendsPerShare": 2.68
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 8297000000,
+        "netIncome": 3024000000,
+        "rnd": null,
+        "epsDiluted": 12.51,
+        "dividendsPerShare": 3.08
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 11181000000,
+        "netIncome": 3248000000,
+        "rnd": null,
+        "epsDiluted": 10.2,
+        "dividendsPerShare": 3.32
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 12497000000,
+        "netIncome": 2626000000,
+        "rnd": null,
+        "epsDiluted": 8.23,
+        "dividendsPerShare": 3.6
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 14208000000,
+        "netIncome": 3852000000,
+        "rnd": null,
+        "epsDiluted": 12.35,
+        "dividendsPerShare": 3.64
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 15336000000,
+        "netIncome": 4471000000,
+        "rnd": null,
+        "epsDiluted": 14.66,
+        "dividendsPerShare": 3.84
+      }
+    ]
+  },
+  "COF": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000927628.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 3737000000,
+        "netIncome": 2714000000,
+        "rnd": null,
+        "epsDiluted": 5.18,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 4780000000,
+        "netIncome": 12390000000,
+        "rnd": null,
+        "epsDiluted": 26.94,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 5417000000,
+        "netIncome": 7360000000,
+        "rnd": null,
+        "epsDiluted": 17.91,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 5645000000,
+        "netIncome": 4887000000,
+        "rnd": null,
+        "epsDiluted": 11.95,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 5915000000,
+        "netIncome": 4750000000,
+        "rnd": null,
+        "epsDiluted": 11.59,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 8062000000,
+        "netIncome": 2453000000,
+        "rnd": null,
+        "epsDiluted": 4.03,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "GE": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000040545.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 75833000000,
+        "netIncome": 5704000000,
+        "rnd": 2565000000,
+        "epsDiluted": 4.63,
+        "dividendsPerShare": 0.32
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 56469000000,
+        "netIncome": -6337000000,
+        "rnd": 1682000000,
+        "epsDiluted": -6,
+        "dividendsPerShare": 0.32
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 29139000000,
+        "netIncome": 336000000,
+        "rnd": 808000000,
+        "epsDiluted": 0.05,
+        "dividendsPerShare": 0.32
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 35348000000,
+        "netIncome": 9482000000,
+        "rnd": 1011000000,
+        "epsDiluted": 8.36,
+        "dividendsPerShare": 0.32
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 38702000000,
+        "netIncome": 6556000000,
+        "rnd": 1286000000,
+        "epsDiluted": 5.99,
+        "dividendsPerShare": 1.12
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 45855000000,
+        "netIncome": 8704000000,
+        "rnd": 1580000000,
+        "epsDiluted": 8.14,
+        "dividendsPerShare": 1.44
+      }
+    ]
+  },
+  "RTX": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000101829.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 56587000000,
+        "netIncome": -3519000000,
+        "rnd": 2582000000,
+        "epsDiluted": -2.59,
+        "dividendsPerShare": 2.16
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 64388000000,
+        "netIncome": 3864000000,
+        "rnd": 2732000000,
+        "epsDiluted": 2.56,
+        "dividendsPerShare": 2.005
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 67074000000,
+        "netIncome": 5197000000,
+        "rnd": 2711000000,
+        "epsDiluted": 3.5,
+        "dividendsPerShare": 2.16
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 68920000000,
+        "netIncome": 3195000000,
+        "rnd": 2805000000,
+        "epsDiluted": 2.23,
+        "dividendsPerShare": 2.32
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 80738000000,
+        "netIncome": 4774000000,
+        "rnd": 2934000000,
+        "epsDiluted": 3.55,
+        "dividendsPerShare": 2.48
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 88603000000,
+        "netIncome": 6732000000,
+        "rnd": 2807000000,
+        "epsDiluted": 4.96,
+        "dividendsPerShare": 2.67
+      }
+    ]
+  },
+  "BA": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000012927.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 58158000000,
+        "netIncome": -11873000000,
+        "rnd": 2476000000,
+        "epsDiluted": -20.88,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 62286000000,
+        "netIncome": -4202000000,
+        "rnd": 2249000000,
+        "epsDiluted": -7.15,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 66608000000,
+        "netIncome": -4935000000,
+        "rnd": 2852000000,
+        "epsDiluted": -8.3,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 77794000000,
+        "netIncome": -2222000000,
+        "rnd": 3377000000,
+        "epsDiluted": -3.67,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 66517000000,
+        "netIncome": -11817000000,
+        "rnd": 3812000000,
+        "epsDiluted": -18.36,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 89463000000,
+        "netIncome": 2235000000,
+        "rnd": 3615000000,
+        "epsDiluted": 2.48,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "CAT": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000018230.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 41748000000,
+        "netIncome": 3003000000,
+        "rnd": 1415000000,
+        "epsDiluted": 5.46,
+        "dividendsPerShare": 4.12
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 50971000000,
+        "netIncome": 6493000000,
+        "rnd": 1686000000,
+        "epsDiluted": 11.83,
+        "dividendsPerShare": 4.36
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 59427000000,
+        "netIncome": 6704000000,
+        "rnd": 1814000000,
+        "epsDiluted": 12.64,
+        "dividendsPerShare": 4.71
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 67060000000,
+        "netIncome": 10332000000,
+        "rnd": 2108000000,
+        "epsDiluted": 20.12,
+        "dividendsPerShare": 5.1
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 64809000000,
+        "netIncome": 10788000000,
+        "rnd": 2107000000,
+        "epsDiluted": 22.05,
+        "dividendsPerShare": 5.53
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 67589000000,
+        "netIncome": 8882000000,
+        "rnd": 2148000000,
+        "epsDiluted": 18.81,
+        "dividendsPerShare": 5.94
+      }
+    ]
+  },
+  "HON": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000773840.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 32637000000,
+        "netIncome": 4779000000,
+        "rnd": 1334000000,
+        "epsDiluted": 6.72,
+        "dividendsPerShare": 3.63
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 34392000000,
+        "netIncome": 5542000000,
+        "rnd": 1333000000,
+        "epsDiluted": 7.91,
+        "dividendsPerShare": 3.77
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 35466000000,
+        "netIncome": 4966000000,
+        "rnd": 1478000000,
+        "epsDiluted": 7.27,
+        "dividendsPerShare": 3.97
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 33009000000,
+        "netIncome": 5658000000,
+        "rnd": 1375000000,
+        "epsDiluted": 8.47,
+        "dividendsPerShare": 4.17
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 34717000000,
+        "netIncome": 5705000000,
+        "rnd": 1454000000,
+        "epsDiluted": 8.71,
+        "dividendsPerShare": 4.37
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 37442000000,
+        "netIncome": 4729000000,
+        "rnd": 1812000000,
+        "epsDiluted": 7.36,
+        "dividendsPerShare": 4.58
+      }
+    ]
+  },
+  "UPS": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001090727.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 84628000000,
+        "netIncome": 1343000000,
+        "rnd": null,
+        "epsDiluted": 1.54,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 97287000000,
+        "netIncome": 12890000000,
+        "rnd": null,
+        "epsDiluted": 14.68,
+        "dividendsPerShare": 4.08
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 100338000000,
+        "netIncome": 11548000000,
+        "rnd": null,
+        "epsDiluted": 13.2,
+        "dividendsPerShare": 6.08
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 90958000000,
+        "netIncome": 6708000000,
+        "rnd": null,
+        "epsDiluted": 7.8,
+        "dividendsPerShare": 6.48
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 91070000000,
+        "netIncome": 5782000000,
+        "rnd": null,
+        "epsDiluted": 6.75,
+        "dividendsPerShare": 6.52
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 88661000000,
+        "netIncome": 5572000000,
+        "rnd": null,
+        "epsDiluted": 6.56,
+        "dividendsPerShare": 6.56
+      }
+    ]
+  },
+  "FDX": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001048911.json",
+    "annual": [
+      {
+        "fiscalYear": 2021,
+        "end": "2021-05-31",
+        "revenue": 83959000000,
+        "netIncome": 5231000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 2.6
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-05-31",
+        "revenue": 93512000000,
+        "netIncome": 3826000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 3
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-05-31",
+        "revenue": 90155000000,
+        "netIncome": 3972000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 5.86
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-05-31",
+        "revenue": 87693000000,
+        "netIncome": 4331000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 3.78
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-05-31",
+        "revenue": 87926000000,
+        "netIncome": 4092000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 5.52
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-05-31",
+        "revenue": 94720000000,
+        "netIncome": 4433000000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 5.8
+      }
+    ]
+  },
+  "LMT": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000936468.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 65398000000,
+        "netIncome": 6833000000,
+        "rnd": 1300000000,
+        "epsDiluted": 24.3,
+        "dividendsPerShare": 9.8
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 67044000000,
+        "netIncome": 6315000000,
+        "rnd": 1500000000,
+        "epsDiluted": 22.76,
+        "dividendsPerShare": 10.6
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 65984000000,
+        "netIncome": 5732000000,
+        "rnd": 1700000000,
+        "epsDiluted": 21.66,
+        "dividendsPerShare": 11.4
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 67571000000,
+        "netIncome": 6920000000,
+        "rnd": 1500000000,
+        "epsDiluted": 27.55,
+        "dividendsPerShare": 12.15
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 71043000000,
+        "netIncome": 5336000000,
+        "rnd": 1600000000,
+        "epsDiluted": 22.31,
+        "dividendsPerShare": 12.75
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 75048000000,
+        "netIncome": 5017000000,
+        "rnd": 2000000000,
+        "epsDiluted": 21.49,
+        "dividendsPerShare": 13.35
+      }
+    ]
+  },
+  "DE": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000315189.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-11-01",
+        "revenue": 35540000000,
+        "netIncome": 2751000000,
+        "rnd": 1644000000,
+        "epsDiluted": 8.69,
+        "dividendsPerShare": 3.04
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-10-31",
+        "revenue": 44024000000,
+        "netIncome": 5963000000,
+        "rnd": 1587000000,
+        "epsDiluted": 18.99,
+        "dividendsPerShare": 3.61
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-10-30",
+        "revenue": 52577000000,
+        "netIncome": 7131000000,
+        "rnd": 1912000000,
+        "epsDiluted": 23.28,
+        "dividendsPerShare": 4.36
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-10-29",
+        "revenue": 61251000000,
+        "netIncome": 10166000000,
+        "rnd": 2177000000,
+        "epsDiluted": 34.63,
+        "dividendsPerShare": 5.05
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-10-27",
+        "revenue": 51716000000,
+        "netIncome": 7100000000,
+        "rnd": 2290000000,
+        "epsDiluted": 25.62,
+        "dividendsPerShare": 5.88
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-11-02",
+        "revenue": 45684000000,
+        "netIncome": 5027000000,
+        "rnd": 2311000000,
+        "epsDiluted": 18.5,
+        "dividendsPerShare": 6.48
+      }
+    ]
+  },
+  "UNP": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000100885.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 19533000000,
+        "netIncome": 5349000000,
+        "rnd": null,
+        "epsDiluted": 7.88,
+        "dividendsPerShare": 3.88
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 21804000000,
+        "netIncome": 6523000000,
+        "rnd": null,
+        "epsDiluted": 9.95,
+        "dividendsPerShare": 4.29
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 24875000000,
+        "netIncome": 6998000000,
+        "rnd": null,
+        "epsDiluted": 11.21,
+        "dividendsPerShare": 5.08
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 24119000000,
+        "netIncome": 6379000000,
+        "rnd": null,
+        "epsDiluted": 10.45,
+        "dividendsPerShare": 5.2
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 24250000000,
+        "netIncome": 6747000000,
+        "rnd": null,
+        "epsDiluted": 11.09,
+        "dividendsPerShare": 5.28
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 24510000000,
+        "netIncome": 7138000000,
+        "rnd": null,
+        "epsDiluted": 11.98,
+        "dividendsPerShare": 5.44
+      }
+    ]
+  },
+  "GEV": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001996810.json",
+    "annual": [
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 29654000000,
+        "netIncome": -2736000000,
+        "rnd": 979000000,
+        "epsDiluted": -10,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 33239000000,
+        "netIncome": -438000000,
+        "rnd": 896000000,
+        "epsDiluted": -1.6,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 34935000000,
+        "netIncome": 1552000000,
+        "rnd": 982000000,
+        "epsDiluted": 5.58,
+        "dividendsPerShare": 0.25
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 38068000000,
+        "netIncome": 4884000000,
+        "rnd": 1197000000,
+        "epsDiluted": 17.69,
+        "dividendsPerShare": 1.25
+      }
+    ]
+  },
+  "UBER": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001543151.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 11139000000,
+        "netIncome": -6768000000,
+        "rnd": 2205000000,
+        "epsDiluted": -3.86,
+        "dividendsPerShare": 0
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 17455000000,
+        "netIncome": -496000000,
+        "rnd": 2054000000,
+        "epsDiluted": -0.29,
+        "dividendsPerShare": 0
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 31877000000,
+        "netIncome": -9141000000,
+        "rnd": 2798000000,
+        "epsDiluted": -4.65,
+        "dividendsPerShare": 0
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 37281000000,
+        "netIncome": 1887000000,
+        "rnd": 3164000000,
+        "epsDiluted": 0.87,
+        "dividendsPerShare": 0
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 43978000000,
+        "netIncome": 9856000000,
+        "rnd": 3109000000,
+        "epsDiluted": 4.56,
+        "dividendsPerShare": 0
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 52017000000,
+        "netIncome": 10053000000,
+        "rnd": 3402000000,
+        "epsDiluted": 4.73,
+        "dividendsPerShare": 0
+      }
+    ]
+  },
+  "ETN": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001551182.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 17858000000,
+        "netIncome": 1410000000,
+        "rnd": 551000000,
+        "epsDiluted": 3.49,
+        "dividendsPerShare": 2.92
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 19628000000,
+        "netIncome": 2144000000,
+        "rnd": 616000000,
+        "epsDiluted": 5.34,
+        "dividendsPerShare": 3.04
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 20752000000,
+        "netIncome": 2462000000,
+        "rnd": 665000000,
+        "epsDiluted": 6.14,
+        "dividendsPerShare": 3.24
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 23196000000,
+        "netIncome": 3218000000,
+        "rnd": 754000000,
+        "epsDiluted": 8.02,
+        "dividendsPerShare": 3.44
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 24878000000,
+        "netIncome": 3794000000,
+        "rnd": 794000000,
+        "epsDiluted": 9.5,
+        "dividendsPerShare": 3.76
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 27448000000,
+        "netIncome": 4087000000,
+        "rnd": 797000000,
+        "epsDiluted": 10.45,
+        "dividendsPerShare": 4.16
+      }
+    ]
+  },
+  "NOC": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001133421.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 36799000000,
+        "netIncome": 3189000000,
+        "rnd": 1100000000,
+        "epsDiluted": 19.03,
+        "dividendsPerShare": 5.67
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 35667000000,
+        "netIncome": 7005000000,
+        "rnd": 1100000000,
+        "epsDiluted": 43.54,
+        "dividendsPerShare": 6.16
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 36602000000,
+        "netIncome": 4896000000,
+        "rnd": 1200000000,
+        "epsDiluted": 31.47,
+        "dividendsPerShare": 6.76
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 39290000000,
+        "netIncome": 2056000000,
+        "rnd": 1200000000,
+        "epsDiluted": 13.53,
+        "dividendsPerShare": 7.34
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 41033000000,
+        "netIncome": 4174000000,
+        "rnd": 1100000000,
+        "epsDiluted": 28.34,
+        "dividendsPerShare": 8.05
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 41954000000,
+        "netIncome": 4182000000,
+        "rnd": 1100000000,
+        "epsDiluted": 29.08,
+        "dividendsPerShare": 8.99
+      }
+    ]
+  },
+  "GD": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000040533.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 37925000000,
+        "netIncome": 3167000000,
+        "rnd": null,
+        "epsDiluted": 11,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 38469000000,
+        "netIncome": 3257000000,
+        "rnd": null,
+        "epsDiluted": 11.55,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 39407000000,
+        "netIncome": 3390000000,
+        "rnd": null,
+        "epsDiluted": 12.19,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 42272000000,
+        "netIncome": 3315000000,
+        "rnd": null,
+        "epsDiluted": 12.02,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 47716000000,
+        "netIncome": 3782000000,
+        "rnd": null,
+        "epsDiluted": 13.63,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 52550000000,
+        "netIncome": 4210000000,
+        "rnd": null,
+        "epsDiluted": 15.45,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "XOM": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000034088.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 178574000000,
+        "netIncome": -22440000000,
+        "rnd": 1016000000,
+        "epsDiluted": -5.25,
+        "dividendsPerShare": 3.48
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 276692000000,
+        "netIncome": 23040000000,
+        "rnd": 843000000,
+        "epsDiluted": 5.39,
+        "dividendsPerShare": 3.49
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 413680000000,
+        "netIncome": 55740000000,
+        "rnd": 824000000,
+        "epsDiluted": 13.26,
+        "dividendsPerShare": 3.55
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 344582000000,
+        "netIncome": 36010000000,
+        "rnd": 900000000,
+        "epsDiluted": 8.89,
+        "dividendsPerShare": 3.68
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 349585000000,
+        "netIncome": 33680000000,
+        "rnd": 1000000000,
+        "epsDiluted": 7.84,
+        "dividendsPerShare": 3.84
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 332238000000,
+        "netIncome": 28844000000,
+        "rnd": 1200000000,
+        "epsDiluted": 6.7,
+        "dividendsPerShare": 4
+      }
+    ]
+  },
+  "CVX": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000093410.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 94471000000,
+        "netIncome": -5543000000,
+        "rnd": 435000000,
+        "epsDiluted": -2.96,
+        "dividendsPerShare": 5.16
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 155606000000,
+        "netIncome": 15625000000,
+        "rnd": 268000000,
+        "epsDiluted": 8.14,
+        "dividendsPerShare": 5.31
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 235717000000,
+        "netIncome": 35465000000,
+        "rnd": 268000000,
+        "epsDiluted": 18.28,
+        "dividendsPerShare": 5.68
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 196913000000,
+        "netIncome": 21369000000,
+        "rnd": 320000000,
+        "epsDiluted": 11.36,
+        "dividendsPerShare": 6.04
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 193414000000,
+        "netIncome": 17661000000,
+        "rnd": 353000000,
+        "epsDiluted": 9.72,
+        "dividendsPerShare": 6.52
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 184432000000,
+        "netIncome": 12299000000,
+        "rnd": 427000000,
+        "epsDiluted": 6.63,
+        "dividendsPerShare": 6.84
+      }
+    ]
+  },
+  "COP": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001163165.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 13662000000,
+        "netIncome": -2701000000,
+        "rnd": 75000000,
+        "epsDiluted": -2.51,
+        "dividendsPerShare": 1.69
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 34590000000,
+        "netIncome": 8079000000,
+        "rnd": 62000000,
+        "epsDiluted": 6.07,
+        "dividendsPerShare": 1.75
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 61049000000,
+        "netIncome": 18680000000,
+        "rnd": 71000000,
+        "epsDiluted": 14.57,
+        "dividendsPerShare": 1.89
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 48522000000,
+        "netIncome": 10957000000,
+        "rnd": 81000000,
+        "epsDiluted": 9.06,
+        "dividendsPerShare": 2.11
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 49418000000,
+        "netIncome": 9245000000,
+        "rnd": 81000000,
+        "epsDiluted": 7.81,
+        "dividendsPerShare": 2.52
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 51824000000,
+        "netIncome": 7988000000,
+        "rnd": 78000000,
+        "epsDiluted": 6.35,
+        "dividendsPerShare": 3.18
+      }
+    ]
+  },
+  "SLB": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000087347.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 23601000000,
+        "netIncome": -10518000000,
+        "rnd": 580000000,
+        "epsDiluted": -7.57,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 22929000000,
+        "netIncome": 1881000000,
+        "rnd": 554000000,
+        "epsDiluted": 1.32,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 28091000000,
+        "netIncome": 3441000000,
+        "rnd": 634000000,
+        "epsDiluted": 2.39,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 33135000000,
+        "netIncome": 4203000000,
+        "rnd": 711000000,
+        "epsDiluted": 2.91,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 36289000000,
+        "netIncome": 4461000000,
+        "rnd": 749000000,
+        "epsDiluted": 3.11,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 35708000000,
+        "netIncome": 3374000000,
+        "rnd": 709000000,
+        "epsDiluted": 2.35,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "OXY": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000797468.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 17130000000,
+        "netIncome": -14831000000,
+        "rnd": null,
+        "epsDiluted": -17.06,
+        "dividendsPerShare": 0.82
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 25959000000,
+        "netIncome": 2322000000,
+        "rnd": null,
+        "epsDiluted": 1.58,
+        "dividendsPerShare": 0.04
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 36234000000,
+        "netIncome": 13304000000,
+        "rnd": null,
+        "epsDiluted": 12.4,
+        "dividendsPerShare": 0.52
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 23230000000,
+        "netIncome": 4696000000,
+        "rnd": null,
+        "epsDiluted": 3.9,
+        "dividendsPerShare": 0.72
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 22710000000,
+        "netIncome": 3078000000,
+        "rnd": null,
+        "epsDiluted": 2.44,
+        "dividendsPerShare": 0.88
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 21569000000,
+        "netIncome": 2369000000,
+        "rnd": null,
+        "epsDiluted": 1.61,
+        "dividendsPerShare": 0.96
+      }
+    ]
+  },
+  "LIN": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001707925.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 27243000000,
+        "netIncome": 2501000000,
+        "rnd": 152000000,
+        "epsDiluted": 4.71,
+        "dividendsPerShare": 3.852
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 30793000000,
+        "netIncome": 3826000000,
+        "rnd": 143000000,
+        "epsDiluted": 7.33,
+        "dividendsPerShare": 4.24
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 33364000000,
+        "netIncome": 4147000000,
+        "rnd": 143000000,
+        "epsDiluted": 8.23,
+        "dividendsPerShare": 4.68
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 32854000000,
+        "netIncome": 6199000000,
+        "rnd": 146000000,
+        "epsDiluted": 12.59,
+        "dividendsPerShare": 5.1
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 33005000000,
+        "netIncome": 6565000000,
+        "rnd": 150000000,
+        "epsDiluted": 13.62,
+        "dividendsPerShare": 5.56
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 33986000000,
+        "netIncome": 6898000000,
+        "rnd": 147000000,
+        "epsDiluted": 14.61,
+        "dividendsPerShare": 6
+      }
+    ]
+  },
+  "APD": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000002969.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-09-30",
+        "revenue": 8856300000,
+        "netIncome": 1886700000,
+        "rnd": 83900000,
+        "epsDiluted": 8.49,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-09-30",
+        "revenue": 10323000000,
+        "netIncome": 2099100000,
+        "rnd": 93500000,
+        "epsDiluted": 9.43,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-09-30",
+        "revenue": 12698600000,
+        "netIncome": 2256100000,
+        "rnd": 102900000,
+        "epsDiluted": 10.14,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-09-30",
+        "revenue": 12600000000,
+        "netIncome": 2300200000,
+        "rnd": 105600000,
+        "epsDiluted": 10.33,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-09-30",
+        "revenue": 12100600000,
+        "netIncome": 3828200000,
+        "rnd": 100200000,
+        "epsDiluted": 17.18,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-09-30",
+        "revenue": 12037300000,
+        "netIncome": -394500000,
+        "rnd": 96300000,
+        "epsDiluted": -1.77,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "SHW": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000089800.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 18361700000,
+        "netIncome": 2030400000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 1.7867
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 19944600000,
+        "netIncome": 1864400000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 2.2
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 22148900000,
+        "netIncome": 2020100000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 2.4
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 23051900000,
+        "netIncome": 2388800000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 2.42
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 23098500000,
+        "netIncome": 2681400000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 2.86
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 23574300000,
+        "netIncome": 2568500000,
+        "rnd": null,
+        "epsDiluted": null,
+        "dividendsPerShare": 3.16
+      }
+    ]
+  },
+  "NEE": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000753308.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 17000000000,
+        "netIncome": 2919000000,
+        "rnd": null,
+        "epsDiluted": 1.48,
+        "dividendsPerShare": 1.4
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 18800000000,
+        "netIncome": 3573000000,
+        "rnd": null,
+        "epsDiluted": 1.81,
+        "dividendsPerShare": 1.54
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 23000000000,
+        "netIncome": 4147000000,
+        "rnd": null,
+        "epsDiluted": 2.1,
+        "dividendsPerShare": 1.7
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 24800000000,
+        "netIncome": 7310000000,
+        "rnd": null,
+        "epsDiluted": 3.6,
+        "dividendsPerShare": 1.87
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 23500000000,
+        "netIncome": 6946000000,
+        "rnd": null,
+        "epsDiluted": 3.37,
+        "dividendsPerShare": 2.06
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 25800000000,
+        "netIncome": 6835000000,
+        "rnd": null,
+        "epsDiluted": 3.3,
+        "dividendsPerShare": 2.27
+      }
+    ]
+  },
+  "CEG": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001868275.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 17603000000,
+        "netIncome": 589000000,
+        "rnd": null,
+        "epsDiluted": 0,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 17254000000,
+        "netIncome": -205000000,
+        "rnd": null,
+        "epsDiluted": 0,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 21571000000,
+        "netIncome": -160000000,
+        "rnd": null,
+        "epsDiluted": -0.49,
+        "dividendsPerShare": 0.141
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 20841000000,
+        "netIncome": 1623000000,
+        "rnd": null,
+        "epsDiluted": 5.01,
+        "dividendsPerShare": 0.282
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 18964000000,
+        "netIncome": 3749000000,
+        "rnd": null,
+        "epsDiluted": 11.89,
+        "dividendsPerShare": 0.3525
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 22663000000,
+        "netIncome": 2319000000,
+        "rnd": null,
+        "epsDiluted": 7.4,
+        "dividendsPerShare": 0.3878
+      }
+    ]
+  },
+  "VST": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001692819.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 10850000000,
+        "netIncome": 636000000,
+        "rnd": null,
+        "epsDiluted": 1.3,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 17700000000,
+        "netIncome": -1274000000,
+        "rnd": null,
+        "epsDiluted": -2.69,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 15631000000,
+        "netIncome": -1227000000,
+        "rnd": null,
+        "epsDiluted": -3.26,
+        "dividendsPerShare": 0.724
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 13804000000,
+        "netIncome": 1493000000,
+        "rnd": null,
+        "epsDiluted": 3.58,
+        "dividendsPerShare": 0.8205
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 14761000000,
+        "netIncome": 2659000000,
+        "rnd": null,
+        "epsDiluted": 7,
+        "dividendsPerShare": 0.8735
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 17586000000,
+        "netIncome": 944000000,
+        "rnd": null,
+        "epsDiluted": 2.18,
+        "dividendsPerShare": 0.9015
+      }
+    ]
+  },
+  "DUK": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326160.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 23253000000,
+        "netIncome": 1377000000,
+        "rnd": null,
+        "epsDiluted": 1.72,
+        "dividendsPerShare": 3.82
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 24486000000,
+        "netIncome": 3908000000,
+        "rnd": null,
+        "epsDiluted": 4.94,
+        "dividendsPerShare": 3.9
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 28675000000,
+        "netIncome": 2550000000,
+        "rnd": null,
+        "epsDiluted": 3.17,
+        "dividendsPerShare": 3.98
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 28674000000,
+        "netIncome": 2841000000,
+        "rnd": null,
+        "epsDiluted": 3.54,
+        "dividendsPerShare": 4.06
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 30050000000,
+        "netIncome": 4524000000,
+        "rnd": null,
+        "epsDiluted": 5.71,
+        "dividendsPerShare": 4.14
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 31741000000,
+        "netIncome": 4968000000,
+        "rnd": null,
+        "epsDiluted": 6.31,
+        "dividendsPerShare": 4.22
+      }
+    ]
+  },
+  "PLD": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001045609.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 4438735000,
+        "netIncome": 1481814000,
+        "rnd": null,
+        "epsDiluted": 2.01,
+        "dividendsPerShare": 0
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 4759440000,
+        "netIncome": 2939723000,
+        "rnd": null,
+        "epsDiluted": 3.94,
+        "dividendsPerShare": 0
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 5973692000,
+        "netIncome": 3364856000,
+        "rnd": null,
+        "epsDiluted": 4.25,
+        "dividendsPerShare": 0.02
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 8023469000,
+        "netIncome": 3059214000,
+        "rnd": null,
+        "epsDiluted": 3.29,
+        "dividendsPerShare": 0
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 8201610000,
+        "netIncome": 3731635000,
+        "rnd": null,
+        "epsDiluted": 4.01,
+        "dividendsPerShare": 0.01
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 8790127000,
+        "netIncome": 3328231000,
+        "rnd": null,
+        "epsDiluted": 3.56,
+        "dividendsPerShare": 0.03
+      }
+    ]
+  },
+  "AMT": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001053507.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 495700000,
+        "netIncome": 1690600000,
+        "rnd": null,
+        "epsDiluted": 3.79,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 717200000,
+        "netIncome": 2567600000,
+        "rnd": null,
+        "epsDiluted": 5.66,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 840700000,
+        "netIncome": 1696700000,
+        "rnd": null,
+        "epsDiluted": 3.82,
+        "dividendsPerShare": 4.3
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 747300000,
+        "netIncome": 1367100000,
+        "rnd": null,
+        "epsDiluted": 3.18,
+        "dividendsPerShare": 6.31
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 774600000,
+        "netIncome": 2280200000,
+        "rnd": null,
+        "epsDiluted": 4.82,
+        "dividendsPerShare": 6.56
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 935900000,
+        "netIncome": 2628500000,
+        "rnd": null,
+        "epsDiluted": 5.4,
+        "dividendsPerShare": 6.72
+      }
+    ]
+  },
+  "EQIX": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001101239.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 5998545000,
+        "netIncome": 369777000,
+        "rnd": null,
+        "epsDiluted": 4.18,
+        "dividendsPerShare": 10.64
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 6635537000,
+        "netIncome": 500191000,
+        "rnd": null,
+        "epsDiluted": 5.53,
+        "dividendsPerShare": 11.48
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 7263000000,
+        "netIncome": 705000000,
+        "rnd": null,
+        "epsDiluted": 7.67,
+        "dividendsPerShare": 12.4
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 8188000000,
+        "netIncome": 969000000,
+        "rnd": null,
+        "epsDiluted": 10.31,
+        "dividendsPerShare": 14.49
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 8748000000,
+        "netIncome": 815000000,
+        "rnd": null,
+        "epsDiluted": 8.5,
+        "dividendsPerShare": 17.04
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 9217000000,
+        "netIncome": 1350000000,
+        "rnd": null,
+        "epsDiluted": 13.76,
+        "dividendsPerShare": 18.76
+      }
+    ]
+  },
+  "DLR": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001297996.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 3903609000,
+        "netIncome": 356398000,
+        "rnd": null,
+        "epsDiluted": 1,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 4427882000,
+        "netIncome": 1709259000,
+        "rnd": null,
+        "epsDiluted": 5.94,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 4691834000,
+        "netIncome": 377684000,
+        "rnd": null,
+        "epsDiluted": 1.11,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 5477061000,
+        "netIncome": 948838000,
+        "rnd": null,
+        "epsDiluted": 2.88,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 5554968000,
+        "netIncome": 602490000,
+        "rnd": null,
+        "epsDiluted": 1.61,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 6112692000,
+        "netIncome": 1308589000,
+        "rnd": null,
+        "epsDiluted": 3.58,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "TSM": {
+    "currency": "TWD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001046179.json",
+    "annual": [
+      {
+        "fiscalYear": 2019,
+        "end": "2019-12-31",
+        "revenue": 1069985400000,
+        "netIncome": 353948000000,
+        "rnd": 91418700000,
+        "epsDiluted": 13.65,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 1339254800000,
+        "netIncome": 510744000000,
+        "rnd": 109486000000,
+        "epsDiluted": 19.7,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 1587415000000,
+        "netIncome": 592359200000,
+        "rnd": 124734800000,
+        "epsDiluted": 22.84,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 2263891300000,
+        "netIncome": 992923400000,
+        "rnd": 163262200000,
+        "epsDiluted": 38.29,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 2161735800000,
+        "netIncome": 851740000000,
+        "rnd": 182370200000,
+        "epsDiluted": 32.85,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 2894307700000,
+        "netIncome": 1158380200000,
+        "rnd": 204181800000,
+        "epsDiluted": 44.67,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "ASML": {
+    "currency": "EUR",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000937966.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 13978500000,
+        "netIncome": 3553700000,
+        "rnd": 2200800000,
+        "epsDiluted": 8.48,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 18611000000,
+        "netIncome": 5883200000,
+        "rnd": 2547000000,
+        "epsDiluted": 14.34,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 21173400000,
+        "netIncome": 5624200000,
+        "rnd": 3253500000,
+        "epsDiluted": 14.13,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 27558500000,
+        "netIncome": 7839000000,
+        "rnd": 3980600000,
+        "epsDiluted": 19.89,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 28262900000,
+        "netIncome": 7571600000,
+        "rnd": 4303700000,
+        "epsDiluted": 19.24,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 32667300000,
+        "netIncome": 9609400000,
+        "rnd": 4698800000,
+        "epsDiluted": 24.71,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "ARM": {
+    "currency": "USD",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001973239.json",
+    "annual": [
+      {
+        "fiscalYear": 2022,
+        "end": "2022-03-31",
+        "revenue": 2703000000,
+        "netIncome": 549000000,
+        "rnd": 995000000,
+        "epsDiluted": 0.54,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-03-31",
+        "revenue": 2679000000,
+        "netIncome": 524000000,
+        "rnd": 1133000000,
+        "epsDiluted": 0.51,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-03-31",
+        "revenue": 3233000000,
+        "netIncome": 306000000,
+        "rnd": 1979000000,
+        "epsDiluted": 0.29,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-03-31",
+        "revenue": 4007000000,
+        "netIncome": 792000000,
+        "rnd": 2071000000,
+        "epsDiluted": 0.75,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2026,
+        "end": "2026-03-31",
+        "revenue": 4920000000,
+        "netIncome": 904000000,
+        "rnd": 2776000000,
+        "epsDiluted": 0.85,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "SAP": {
+    "currency": "EUR",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001000184.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 27338000000,
+        "netIncome": 5145000000,
+        "rnd": 4454000000,
+        "epsDiluted": 4.35,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 26953000000,
+        "netIncome": 5256000000,
+        "rnd": 5270000000,
+        "epsDiluted": 4.46,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 29520000000,
+        "netIncome": 2284000000,
+        "rnd": 6080000000,
+        "epsDiluted": 1.94,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 31207000000,
+        "netIncome": 6139000000,
+        "rnd": 6324000000,
+        "epsDiluted": 5.2,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 34176000000,
+        "netIncome": 3124000000,
+        "rnd": 6514000000,
+        "epsDiluted": 2.65,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 36800000000,
+        "netIncome": 7161000000,
+        "rnd": 6633000000,
+        "epsDiluted": 6.1,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "SONY": {
+    "currency": "JPY",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000313838.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-03-31",
+        "revenue": 8259885000000,
+        "netIncome": 582191000000,
+        "rnd": 499290000000,
+        "epsDiluted": 461.23,
+        "dividendsPerShare": 45
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-03-31",
+        "revenue": 8999360000000,
+        "netIncome": 1171776000000,
+        "rnd": 525175000000,
+        "epsDiluted": 936.9,
+        "dividendsPerShare": 55
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-03-31",
+        "revenue": 9921513000000,
+        "netIncome": 882178000000,
+        "rnd": 618368000000,
+        "epsDiluted": 705.16,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-03-31",
+        "revenue": 10974373000000,
+        "netIncome": 1005277000000,
+        "rnd": 735698000000,
+        "epsDiluted": 161.97,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-03-31",
+        "revenue": 13020768000000,
+        "netIncome": 970573000000,
+        "rnd": 742772000000,
+        "epsDiluted": 157.14,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-03-31",
+        "revenue": 12957064000000,
+        "netIncome": 1141600000000,
+        "rnd": 734578000000,
+        "epsDiluted": 187.92,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "TM": {
+    "currency": "JPY",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001094517.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-03-31",
+        "revenue": 29929992000000,
+        "netIncome": 2076183000000,
+        "rnd": 1110369000000,
+        "epsDiluted": 729.5,
+        "dividendsPerShare": 220
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-03-31",
+        "revenue": 27214594000000,
+        "netIncome": 2245261000000,
+        "rnd": 1084721000000,
+        "epsDiluted": 158.93,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-03-31",
+        "revenue": 31379507000000,
+        "netIncome": 2850110000000,
+        "rnd": 1091675000000,
+        "epsDiluted": 205.23,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-03-31",
+        "revenue": 37154298000000,
+        "netIncome": 2451318000000,
+        "rnd": 1224564000000,
+        "epsDiluted": 179.47,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-03-31",
+        "revenue": 45095325000000,
+        "netIncome": 4944933000000,
+        "rnd": 1238271000000,
+        "epsDiluted": 365.94,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-03-31",
+        "revenue": 48036704000000,
+        "netIncome": 4765086000000,
+        "rnd": 1377018000000,
+        "epsDiluted": 359.56,
+        "dividendsPerShare": null
+      }
+    ]
+  },
+  "NVO": {
+    "currency": "DKK",
+    "source": "sec-xbrl",
+    "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000353278.json",
+    "annual": [
+      {
+        "fiscalYear": 2020,
+        "end": "2020-12-31",
+        "revenue": 126946000000,
+        "netIncome": 42138000000,
+        "rnd": 15462000000,
+        "epsDiluted": 18.01,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2021,
+        "end": "2021-12-31",
+        "revenue": 140800000000,
+        "netIncome": 47757000000,
+        "rnd": 17772000000,
+        "epsDiluted": 10.37,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2022,
+        "end": "2022-12-31",
+        "revenue": 176954000000,
+        "netIncome": 55525000000,
+        "rnd": 24047000000,
+        "epsDiluted": 12.22,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2023,
+        "end": "2023-12-31",
+        "revenue": 232261000000,
+        "netIncome": 83683000000,
+        "rnd": 32443000000,
+        "epsDiluted": 18.62,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2024,
+        "end": "2024-12-31",
+        "revenue": 290403000000,
+        "netIncome": 100988000000,
+        "rnd": 48062000000,
+        "epsDiluted": 22.63,
+        "dividendsPerShare": null
+      },
+      {
+        "fiscalYear": 2025,
+        "end": "2025-12-31",
+        "revenue": 309064000000,
+        "netIncome": 102434000000,
+        "rnd": 52039000000,
+        "epsDiluted": 23.03,
+        "dividendsPerShare": null
+      }
+    ]
+  }
+}

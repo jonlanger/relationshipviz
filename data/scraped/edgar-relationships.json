@@ -1,0 +1,152 @@
+[
+  {
+    "source": "MSFT",
+    "target": "openai",
+    "type": "partner",
+    "weight": 0.3,
+    "confidence": 0.45,
+    "evidence": [
+      {
+        "kind": "filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "note": "Additionally, we have a long-term strategic partnership with OpenAI.",
+        "date": "2026-07-29"
+      },
+      {
+        "kind": "filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "note": "At Microsoft, we push the boundaries of what is possible through a broad range of research and development activities that seek to identify and address the changing demands of customers and users, industry trends, and competitive forces.We have a long-term strategic partnership w",
+        "date": "2026-07-29"
+      },
+      {
+        "kind": "filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "note": "Therefore, our VIE investments are not consolidated and the majority are accounted for under the equity method of accounting or the measurement alternative. 59 PART IIItem 8 We have a long-term strategic partnership with OpenAI.",
+        "date": "2026-07-29"
+      }
+    ]
+  },
+  {
+    "source": "TSM",
+    "target": "NVDA",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.45,
+    "evidence": [
+      {
+        "kind": "filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "note": "We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers.",
+        "date": "2026-02-25"
+      }
+    ]
+  },
+  {
+    "source": "005930.KS",
+    "target": "NVDA",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.45,
+    "evidence": [
+      {
+        "kind": "filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "note": "We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers.",
+        "date": "2026-02-25"
+      }
+    ]
+  },
+  {
+    "source": "2317.TW",
+    "target": "NVDA",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.45,
+    "evidence": [
+      {
+        "kind": "filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "note": "We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products.Competition The market for our products is intensely competitive a",
+        "date": "2026-02-25"
+      }
+    ]
+  },
+  {
+    "source": "NVDA",
+    "target": "AMD",
+    "type": "competitor",
+    "weight": 0.3,
+    "confidence": 0.45,
+    "evidence": [
+      {
+        "kind": "filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "note": "We expect an increasingly competitive environment in the future.Our current competitors include:•suppliers and licensors of hardware and software for discrete and integrated GPUs, custom chips and other accelerated computing solutions, including solutions offered for AI, such as ",
+        "date": "2026-02-25"
+      }
+    ]
+  },
+  {
+    "source": "NVDA",
+    "target": "openai",
+    "type": "partner",
+    "weight": 0.3,
+    "confidence": 0.45,
+    "evidence": [
+      {
+        "kind": "filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "note": "To the extent any of the companies in which we invest are not successful, we could recognize an impairment and/or lose all or part of our investment.We are finalizing an investment and partnership agreement with OpenAI.",
+        "date": "2026-02-25"
+      },
+      {
+        "kind": "filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "note": "We are finalizing an investment and partnership agreement with OpenAI.",
+        "date": "2026-02-25"
+      },
+      {
+        "kind": "filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "note": "There is no assurance that we will enter into an investment and partnership agreement with OpenAI or that a transaction will be completed.",
+        "date": "2026-02-25"
+      }
+    ]
+  },
+  {
+    "source": "TSM",
+    "target": "AVGO",
+    "type": "supplier",
+    "weight": 0.4,
+    "confidence": 0.45,
+    "evidence": [
+      {
+        "kind": "filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm",
+        "note": "The majority of our front-end wafer manufacturing operations is outsourced to external foundries, including Taiwan Semiconductor Manufacturing Company Limited (“TSMC”).",
+        "date": "2025-12-18"
+      }
+    ]
+  },
+  {
+    "source": "AVGO",
+    "target": "TSM",
+    "type": "competitor",
+    "weight": 0.3,
+    "confidence": 0.45,
+    "evidence": [
+      {
+        "kind": "filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm",
+        "note": "However, TSMC also fabricates wafers for other companies, including some of our competitors, and could choose or be required to materially prioritize capacity for other customers or reduce or eliminate deliveries to us on short notice.",
+        "date": "2025-12-18"
+      },
+      {
+        "kind": "filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm",
+        "note": "In addition, TSMC has raised, and may in the future raise, their prices to manufacture our wafers.If any of the foregoing circumstances occur, we may be unable to meet our customers’ demand, or to the same extent as our competitors, fail to meet our contractual obligations or for",
+        "date": "2025-12-18"
+      }
+    ]
+  }
+]
